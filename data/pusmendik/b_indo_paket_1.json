@@ -1,0 +1,774 @@
+{
+  "subject": "b_indo",
+  "subject_name": "Bahasa Indonesia",
+  "paket": 1,
+  "total_questions": 20,
+  "questions": [
+    {
+      "number": 1,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 1 s.d. 4 Lautan mengalami ancaman pemanasan dan menjadi semakin asam karena kita terus memompa lebih banyak CO2 ke atmosfer. Selain itu, lautan juga menghadapi ancaman lain dari manusia, yakni penggunaan plastik. Kehidupan modern saat ini didominasi oleh kemasan makanan berbahan plastik yang diolah dengan teknologi tinggi dan digunakan setiap hari oleh masyarakat. Dalam sebuah laporan telah disebutkan bahwa pada tahun 2050 sampah plastik di laut akan lebih banyak daripada jumlah ikan apabila kecenderungan ini terus berlanjut. Hal tersebut merupakan sebuah ancaman besar. Dibutuhkan tindakan skala besar untuk berpindah dari kecenderungan tersebut mengingat banyak pihak yang terlibat dalam bidang pekerjaan ini. Masyarakat sektor swasta dan masyarakat sipil perlu mobilisasi untuk menangkap peluang ekonomi lain di luar dari pengelolaan plastik. Solusi tersebut tidak mudah. Fakta bahwa harga minyak yang rendah mengakibatkan biaya yang dibutuhkan untuk daur ulang plastik jauh lebih mahal daripada memproduksi yang baru. Kondisi lain yang menunjukkan ekonomi di negara berkembang tumbuh lebih besar menjadikan penggunaan plastik juga meningkat. Solusi yang dibutuhkan adalah cara kita menggunakan plastik. Misalnya dengan mengurangi penggunaan plastik dalam kemasan atau menggunakannya kembali sebanyak yang kita bisa. Produsen plastik juga dapat membantu dalam pengelolaan plastik, seperti memproduksi barang-barang plastik yang dapat digunakan kembali atau beralih ke plastik yang dapat dijadikan kompos. Solusi apa pun akan membawa perubahan besar dalam cara menggunakan produk yang terbuat dari plastik.",
+      "stimulus_images": [],
+      "question": "Makna istilah mobilisasi pada paragraf kedua teks tersebut adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "bergerak bersama",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "melangkah cepat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "beradu cepat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "mengatur bersama",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "berpikir bersama",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 1 s.d. 4 Lautan mengalami ancaman pemanasan dan menjadi semakin asam karena kita terus memompa lebih banyak CO2 ke atmosfer. Selain itu, lautan juga menghadapi ancaman lain dari manusia, yakni penggunaan plastik. Kehidupan modern saat ini didominasi oleh kemasan makanan berbahan plastik yang diolah dengan teknologi tinggi dan digunakan setiap hari oleh masyarakat. Dalam sebuah laporan telah disebutkan bahwa pada tahun 2050 sampah plastik di laut akan lebih banyak daripada jumlah ikan apabila kecenderungan ini terus berlanjut. Hal tersebut merupakan sebuah ancaman besar. Dibutuhkan tindakan skala besar untuk berpindah dari kecenderungan tersebut mengingat banyak pihak yang terlibat dalam bidang pekerjaan ini. Masyarakat sektor swasta dan masyarakat sipil perlu mobilisasi untuk menangkap peluang ekonomi lain di luar dari pengelolaan plastik. Solusi tersebut tidak mudah. Fakta bahwa harga minyak yang rendah mengakibatkan biaya yang dibutuhkan untuk daur ulang plastik jauh lebih mahal daripada memproduksi yang baru. Kondisi lain yang menunjukkan ekonomi di negara berkembang tumbuh lebih besar menjadikan penggunaan plastik juga meningkat. Solusi yang dibutuhkan adalah cara kita menggunakan plastik. Misalnya dengan mengurangi penggunaan plastik dalam kemasan atau menggunakannya kembali sebanyak yang kita bisa. Produsen plastik juga dapat membantu dalam pengelolaan plastik, seperti memproduksi barang-barang plastik yang dapat digunakan kembali atau beralih ke plastik yang dapat dijadikan kompos. Solusi apa pun akan membawa perubahan besar dalam cara menggunakan produk yang terbuat dari plastik.",
+      "stimulus_images": [],
+      "question": "Apa gagasan utama yang disampaikan pada paragraf pertama teks tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Ancaman plastik terhadap lautan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Efek dari pemanasan laut.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Kadar tingkat keasaman laut.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Pemompaan CO2 ke atmosfer.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Ancaman bagi negara berkembang.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "type": "pgk_checkbox",
+      "stimulus": "Teks untuk soal nomor 1 s.d. 4 Lautan mengalami ancaman pemanasan dan menjadi semakin asam karena kita terus memompa lebih banyak CO2 ke atmosfer. Selain itu, lautan juga menghadapi ancaman lain dari manusia, yakni penggunaan plastik. Kehidupan modern saat ini didominasi oleh kemasan makanan berbahan plastik yang diolah dengan teknologi tinggi dan digunakan setiap hari oleh masyarakat. Dalam sebuah laporan telah disebutkan bahwa pada tahun 2050 sampah plastik di laut akan lebih banyak daripada jumlah ikan apabila kecenderungan ini terus berlanjut. Hal tersebut merupakan sebuah ancaman besar. Dibutuhkan tindakan skala besar untuk berpindah dari kecenderungan tersebut mengingat banyak pihak yang terlibat dalam bidang pekerjaan ini. Masyarakat sektor swasta dan masyarakat sipil perlu mobilisasi untuk menangkap peluang ekonomi lain di luar dari pengelolaan plastik. Solusi tersebut tidak mudah. Fakta bahwa harga minyak yang rendah mengakibatkan biaya yang dibutuhkan untuk daur ulang plastik jauh lebih mahal daripada memproduksi yang baru. Kondisi lain yang menunjukkan ekonomi di negara berkembang tumbuh lebih besar menjadikan penggunaan plastik juga meningkat. Solusi yang dibutuhkan adalah cara kita menggunakan plastik. Misalnya dengan mengurangi penggunaan plastik dalam kemasan atau menggunakannya kembali sebanyak yang kita bisa. Produsen plastik juga dapat membantu dalam pengelolaan plastik, seperti memproduksi barang-barang plastik yang dapat digunakan kembali atau beralih ke plastik yang dapat dijadikan kompos. Solusi apa pun akan membawa perubahan besar dalam cara menggunakan produk yang terbuat dari plastik.",
+      "stimulus_images": [],
+      "question": "Mengapa lautan menghadapi ancaman pada 2050?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Sampah plastik di laut akan lebih banyak daripada jumlah ikan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Lautan akan terus mengalami pemanasan dan semakin asam.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Manusia terus memompa lebih banyak CO2 ke atmosfer.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Jumlah ikan yang terancam punah semakin banyak.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Penggunaan plastik terus meningkat dan tidak dikelola dengan baik",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": "pgk_benar_salah",
+      "stimulus": "Teks untuk soal nomor 1 s.d. 4 Lautan mengalami ancaman pemanasan dan menjadi semakin asam karena kita terus memompa lebih banyak CO2 ke atmosfer. Selain itu, lautan juga menghadapi ancaman lain dari manusia, yakni penggunaan plastik. Kehidupan modern saat ini didominasi oleh kemasan makanan berbahan plastik yang diolah dengan teknologi tinggi dan digunakan setiap hari oleh masyarakat. Dalam sebuah laporan telah disebutkan bahwa pada tahun 2050 sampah plastik di laut akan lebih banyak daripada jumlah ikan apabila kecenderungan ini terus berlanjut. Hal tersebut merupakan sebuah ancaman besar. Dibutuhkan tindakan skala besar untuk berpindah dari kecenderungan tersebut mengingat banyak pihak yang terlibat dalam bidang pekerjaan ini. Masyarakat sektor swasta dan masyarakat sipil perlu mobilisasi untuk menangkap peluang ekonomi lain di luar dari pengelolaan plastik. Solusi tersebut tidak mudah. Fakta bahwa harga minyak yang rendah mengakibatkan biaya yang dibutuhkan untuk daur ulang plastik jauh lebih mahal daripada memproduksi yang baru. Kondisi lain yang menunjukkan ekonomi di negara berkembang tumbuh lebih besar menjadikan penggunaan plastik juga meningkat. Solusi yang dibutuhkan adalah cara kita menggunakan plastik. Misalnya dengan mengurangi penggunaan plastik dalam kemasan atau menggunakannya kembali sebanyak yang kita bisa. Produsen plastik juga dapat membantu dalam pengelolaan plastik, seperti memproduksi barang-barang plastik yang dapat digunakan kembali atau beralih ke plastik yang dapat dijadikan kompos. Solusi apa pun akan membawa perubahan besar dalam cara menggunakan produk yang terbuat dari plastik.",
+      "stimulus_images": [],
+      "question": "“Solusi tersebut tidak mudah.”",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "type": "pgk_benar_salah",
+      "stimulus": "Teks untuk soal 5 s.d. 7 “E...gurumu itu orang desa ini juga. Pasti tahu bahwa saat ini musim maddongi (mengusir burung saat buah padi mulai menguning). Besok kau menghadap, sampaikan bahwa kau membantu Ayah di sawah. Nah, pasti gurumu mengerti mengapa kamu tidak ke sekolah.” Aku terpana. Jawaban Ayah benar-benar membuatku hampir menangis histeris. Bagaimana tidak. Lomba semakin dekat, sementara masih banyak materi yang belum aku paham. Terbayang aku akan hancur dan tidak bisa bersaing dengan siswa sekolah lain. Ingin rasanya aku berteriak agar Ayahku tahu bagaimana kacaunya pikiranku. Namun, aku sadar bahwa ini adalah perbuatan yang tidak akan menyelesaikan masalah. Malah akan semakin membuat Ayahku geram. Otakku terus berpikir untuk mencari solusi terbaik. Sambil berjalan mengikuti Ayah dari belakang, aku mulai menyusun strategi. “Bagaimana kalau aku ke rumah iyye-ku (nenek), menyampaikan masalahku ini. Ya, hanya dia yang mampu menundukkan Ayah.” Esok harinya, sepulang sekolah, kuayunkan sepedaku menuju rumah iyye-ku. “Kenapa kamu lesu?” Iyye menanyakan keadaanku. Aku pun menceritakan semuanya kepada iyye. “Ya sudah, tidak usah sedih. Nanti kusampaikan pada ayahmu. Kau ke dalam, makan dulu, baru pulang,” ujar iyye-ku.     (Piala di Atas Dangau, Muhammad Isrul, dengan penyesuaian)",
+      "stimulus_images": [],
+      "question": "Apa permasalahan yang dihadapi tokoh aku dalam kutipan tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "pgk_checkbox",
+      "stimulus": "Teks untuk soal 5 s.d. 7 “E...gurumu itu orang desa ini juga. Pasti tahu bahwa saat ini musim maddongi (mengusir burung saat buah padi mulai menguning). Besok kau menghadap, sampaikan bahwa kau membantu Ayah di sawah. Nah, pasti gurumu mengerti mengapa kamu tidak ke sekolah.” Aku terpana. Jawaban Ayah benar-benar membuatku hampir menangis histeris. Bagaimana tidak. Lomba semakin dekat, sementara masih banyak materi yang belum aku paham. Terbayang aku akan hancur dan tidak bisa bersaing dengan siswa sekolah lain. Ingin rasanya aku berteriak agar Ayahku tahu bagaimana kacaunya pikiranku. Namun, aku sadar bahwa ini adalah perbuatan yang tidak akan menyelesaikan masalah. Malah akan semakin membuat Ayahku geram. Otakku terus berpikir untuk mencari solusi terbaik. Sambil berjalan mengikuti Ayah dari belakang, aku mulai menyusun strategi. “Bagaimana kalau aku ke rumah iyye-ku (nenek), menyampaikan masalahku ini. Ya, hanya dia yang mampu menundukkan Ayah.” Esok harinya, sepulang sekolah, kuayunkan sepedaku menuju rumah iyye-ku. “Kenapa kamu lesu?” Iyye menanyakan keadaanku. Aku pun menceritakan semuanya kepada iyye. “Ya sudah, tidak usah sedih. Nanti kusampaikan pada ayahmu. Kau ke dalam, makan dulu, baru pulang,” ujar iyye-ku.     (Piala di Atas Dangau, Muhammad Isrul, dengan penyesuaian)",
+      "stimulus_images": [],
+      "question": "Apa yang akan terjadi jika tokoh aku tidak datang ke rumah iyye?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Iyye akan datang menasehati Ayah karena melarang tokoh aku untuk belajar.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Tokoh aku akan kehilangan kesempatan belajar untuk mengikuti",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Ayah akan tetap melarang tokoh aku untuk belajar dan mengikuti lomba.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Permasalahan tokoh aku dan ayah akan berlarut karena tidak terselesaikan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Tokoh aku tidak akan bisa fokus untuk belajar dan mengikuti lomba yang diadakan sekolah.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal 5 s.d. 7 “E...gurumu itu orang desa ini juga. Pasti tahu bahwa saat ini musim maddongi (mengusir burung saat buah padi mulai menguning). Besok kau menghadap, sampaikan bahwa kau membantu Ayah di sawah. Nah, pasti gurumu mengerti mengapa kamu tidak ke sekolah.” Aku terpana. Jawaban Ayah benar-benar membuatku hampir menangis histeris. Bagaimana tidak. Lomba semakin dekat, sementara masih banyak materi yang belum aku paham. Terbayang aku akan hancur dan tidak bisa bersaing dengan siswa sekolah lain. Ingin rasanya aku berteriak agar Ayahku tahu bagaimana kacaunya pikiranku. Namun, aku sadar bahwa ini adalah perbuatan yang tidak akan menyelesaikan masalah. Malah akan semakin membuat Ayahku geram. Otakku terus berpikir untuk mencari solusi terbaik. Sambil berjalan mengikuti Ayah dari belakang, aku mulai menyusun strategi. “Bagaimana kalau aku ke rumah iyye-ku (nenek), menyampaikan masalahku ini. Ya, hanya dia yang mampu menundukkan Ayah.” Esok harinya, sepulang sekolah, kuayunkan sepedaku menuju rumah iyye-ku. “Kenapa kamu lesu?” Iyye menanyakan keadaanku. Aku pun menceritakan semuanya kepada iyye. “Ya sudah, tidak usah sedih. Nanti kusampaikan pada ayahmu. Kau ke dalam, makan dulu, baru pulang,” ujar iyye-ku.     (Piala di Atas Dangau, Muhammad Isrul, dengan penyesuaian)",
+      "stimulus_images": [],
+      "question": "Keterkaitan nilai sosial  dalam kutipan cerpen tersebut dengan kehidupan sehari-hari adalah …",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Masih ditemukan orang tua yang tidak memedulikan pendidikan anaknya demi membantu pekerjaan mereka.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Terbenturnya cita-cita anak karena tradisi sebuah keluarga yang mengutamakan anak mampu bekerja mandiri.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Asumsi bahwa bekerja lebih bermanfaat daripada sekolah yang dianggap tidak menghasilkan apa-apa untuk keluarga.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Kebiasaan anak-anak tidak sekolah di musim maddongi demi menjalankan tradisi di lingkungan keluarga mereka.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Orang tua mengarahkan anak-anak untuk rajin bekerja membantu mereka di sawah agar bisa melanjutkan kehidupannya kelak.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 8 s.d. 10 Teks 1 Rhodamin B adalah zat pewarna yang tersedia di pasar untuk industri tekstil. Zat ini sering disalahgunakan sebagai zat pewarna makanan dan kosmetik di berbagai negara. Jenis makanan yang mengandung Rhodamin B di antaranya kerupuk, terasi, dan makanan ringan. Zat ini juga banyak ditemukan pada kembang gula, sirup, manisan, dawet, bubur, ikan asap, dan cendol. Tampilan makanan yang menggunakan zat ini cenderung menarik dan terkesan menawarkan cita rasa tinggi sehingga ketika harga jualnya tidak semahal tampilannya, banyak yang tertarik untuk membeli dan mengonsumsinya. Zat ini paling berbahaya bila dikonsumsi karena menyebabkan gangguan pada fungsi hati, bahkan kanker hati. Apabila mengonsumsi makanan yang mengandung Rhodamin B, dalam tubuh akan terjadi penumpukan lemak sehingga lama-kelamaan jumlahnya akan terus bertambah. Dampaknya baru akan kelihatan setelah puluhan tahun kemudian. Jika sudah masuk dalam tubuh, akan mengendap pada jaringan hati dan lemak, tidak dapat dikeluarkan, dan dalam jangka waktu lama bisa bersifat karsinogenik. Teks 2 Rhodamin B berbentuk serbuk kristal, berwarna hijau atau ungu kemerahan, tidak berbau, dan dalam larutan akan berwarna merah terang berpendar atau berfluoresensi. Rhodamin B merupakan zat warna golongan xanthenes dyes, dan digunakan pada industri tekstil dan kertas, sebagai pewarna kain, kosmetika, produk pembersih mulut, dan sabun. Rhodamin B memiliki berbagai nama lain, antara lain: Tetra ethyl rhodamin; Rheoninine B, D, & C; Red No. 19; Food Red 15; ADC Rhodamine B; Aizen Rhodamine; dan Brilliant Pink B. Rhodamin B mengandung senyawa klorin (Cl) yang merupakan senyawa halogen yang berbahaya dan reaktif. Jika tertelan, senyawa ini akan berusaha mencapai kestabilan dalam tubuh dengan cara mengikat senyawa lain dalam tubuh. Mengonsumsi bahan pangan yang mengandung Rhodamin B dalam jangka panjang dapat terakumulasi di dalam tubuh dan dapat menyebabkan gejala pembesaran hati dan ginjal, gangguan fungsi hati, kerusakan hati, gangguan fisiologis tubuh, bahkan dapat menyebabkan timbulnya kanker hati.",
+      "stimulus_images": [],
+      "question": "Tujuan penulis sesuai teks 1 adalah ...",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Menginformasikan jenis dan rasa makanan yang mengandung Rhodamin B.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Menjelaskan dampak penggunaan Rhodamin B pada bahan-bahan industri.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Mengimbau agar masyarakat tidak menggunakan barang-barang yang mengandung Rhodamin B.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Menginformasikan dampak mengonsumsi makanan yang mengandung Rhodamin B bagi tubuh.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Menjelaskan gejala yang timbul akibat mengkonsumsi makanan yang mengandung Rhodamin B.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 8 s.d. 10 Teks 1 Rhodamin B adalah zat pewarna yang tersedia di pasar untuk industri tekstil. Zat ini sering disalahgunakan sebagai zat pewarna makanan dan kosmetik di berbagai negara. Jenis makanan yang mengandung Rhodamin B di antaranya kerupuk, terasi, dan makanan ringan. Zat ini juga banyak ditemukan pada kembang gula, sirup, manisan, dawet, bubur, ikan asap, dan cendol. Tampilan makanan yang menggunakan zat ini cenderung menarik dan terkesan menawarkan cita rasa tinggi sehingga ketika harga jualnya tidak semahal tampilannya, banyak yang tertarik untuk membeli dan mengonsumsinya. Zat ini paling berbahaya bila dikonsumsi karena menyebabkan gangguan pada fungsi hati, bahkan kanker hati. Apabila mengonsumsi makanan yang mengandung Rhodamin B, dalam tubuh akan terjadi penumpukan lemak sehingga lama-kelamaan jumlahnya akan terus bertambah. Dampaknya baru akan kelihatan setelah puluhan tahun kemudian. Jika sudah masuk dalam tubuh, akan mengendap pada jaringan hati dan lemak, tidak dapat dikeluarkan, dan dalam jangka waktu lama bisa bersifat karsinogenik. Teks 2 Rhodamin B berbentuk serbuk kristal, berwarna hijau atau ungu kemerahan, tidak berbau, dan dalam larutan akan berwarna merah terang berpendar atau berfluoresensi. Rhodamin B merupakan zat warna golongan xanthenes dyes, dan digunakan pada industri tekstil dan kertas, sebagai pewarna kain, kosmetika, produk pembersih mulut, dan sabun. Rhodamin B memiliki berbagai nama lain, antara lain: Tetra ethyl rhodamin; Rheoninine B, D, & C; Red No. 19; Food Red 15; ADC Rhodamine B; Aizen Rhodamine; dan Brilliant Pink B. Rhodamin B mengandung senyawa klorin (Cl) yang merupakan senyawa halogen yang berbahaya dan reaktif. Jika tertelan, senyawa ini akan berusaha mencapai kestabilan dalam tubuh dengan cara mengikat senyawa lain dalam tubuh. Mengonsumsi bahan pangan yang mengandung Rhodamin B dalam jangka panjang dapat terakumulasi di dalam tubuh dan dapat menyebabkan gejala pembesaran hati dan ginjal, gangguan fungsi hati, kerusakan hati, gangguan fisiologis tubuh, bahkan dapat menyebabkan timbulnya kanker hati.",
+      "stimulus_images": [],
+      "question": "Pernyataan yang tepat sesuai isi kedua teks tersebut berkaitan dengan Rhodamin B  adalah ...",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rhodamin B sering disalahgunakan sebagai pewarna makanan karena menawarkan cita rasa yang tinggi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rhodamin B berdampak buruk bagi kesehatan, tetapi diperlukan pada industri, seperti tekstil dan kertas.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Rhodamin B berdampak buruk bagi kesehatan, tetapi mudah ditemukan pada kembang gula dan sirup.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Rhodamin B yang berbentuk serbuk kristal dan berwarna hijau digunakan pada industri tekstil dan kertas.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Rhodamin B berdampak buruk bagi kesehatan, meskipun dampak itu baru terlihat beberapa tahun kemudian.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "type": "pgk_checkbox",
+      "stimulus": "Teks untuk soal nomor 8 s.d. 10 Teks 1 Rhodamin B adalah zat pewarna yang tersedia di pasar untuk industri tekstil. Zat ini sering disalahgunakan sebagai zat pewarna makanan dan kosmetik di berbagai negara. Jenis makanan yang mengandung Rhodamin B di antaranya kerupuk, terasi, dan makanan ringan. Zat ini juga banyak ditemukan pada kembang gula, sirup, manisan, dawet, bubur, ikan asap, dan cendol. Tampilan makanan yang menggunakan zat ini cenderung menarik dan terkesan menawarkan cita rasa tinggi sehingga ketika harga jualnya tidak semahal tampilannya, banyak yang tertarik untuk membeli dan mengonsumsinya. Zat ini paling berbahaya bila dikonsumsi karena menyebabkan gangguan pada fungsi hati, bahkan kanker hati. Apabila mengonsumsi makanan yang mengandung Rhodamin B, dalam tubuh akan terjadi penumpukan lemak sehingga lama-kelamaan jumlahnya akan terus bertambah. Dampaknya baru akan kelihatan setelah puluhan tahun kemudian. Jika sudah masuk dalam tubuh, akan mengendap pada jaringan hati dan lemak, tidak dapat dikeluarkan, dan dalam jangka waktu lama bisa bersifat karsinogenik. Teks 2 Rhodamin B berbentuk serbuk kristal, berwarna hijau atau ungu kemerahan, tidak berbau, dan dalam larutan akan berwarna merah terang berpendar atau berfluoresensi. Rhodamin B merupakan zat warna golongan xanthenes dyes, dan digunakan pada industri tekstil dan kertas, sebagai pewarna kain, kosmetika, produk pembersih mulut, dan sabun. Rhodamin B memiliki berbagai nama lain, antara lain: Tetra ethyl rhodamin; Rheoninine B, D, & C; Red No. 19; Food Red 15; ADC Rhodamine B; Aizen Rhodamine; dan Brilliant Pink B. Rhodamin B mengandung senyawa klorin (Cl) yang merupakan senyawa halogen yang berbahaya dan reaktif. Jika tertelan, senyawa ini akan berusaha mencapai kestabilan dalam tubuh dengan cara mengikat senyawa lain dalam tubuh. Mengonsumsi bahan pangan yang mengandung Rhodamin B dalam jangka panjang dapat terakumulasi di dalam tubuh dan dapat menyebabkan gejala pembesaran hati dan ginjal, gangguan fungsi hati, kerusakan hati, gangguan fisiologis tubuh, bahkan dapat menyebabkan timbulnya kanker hati.",
+      "stimulus_images": [],
+      "question": "Mengapa kedua teks tersebut menyebutkan dampak kesehatan yang timbul dari konsumsi pangan yang terkontaminasi Rhodamin B?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Mendorong masyarakat untuk menghindari Rhodamin B dalam berbagai keperluan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Meningkatkan kesadaran masyarakat tentang bahaya Rhodamin B dalam makanan",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Menunjukkan bahwa Rhodamin B aman digunakan dalam industri tekstil dan kertas.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Menjelaskan bahwa Rhodamin B adalah zat berbahaya jika dikonsumsi, terutama dalam jangka panjang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Memperingatkan masyarakat agar menghindari makanan berwarna mencolok yang berisiko mengandung Rhodamin B.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "type": "pg_biasa",
+      "stimulus": "Dampak Ekonomi Digital terhadap Pertumbuhan Usaha Kecil dan Menengah (UKM) Ekonomi digital telah membawa perubahan besar dalam berbagai aspek bisnis, terutama bagi Usaha Kecil dan Menengah (UKM). Dengan adanya teknologi digital, UKM kini memiliki peluang lebih besar untuk berkembang dan bersaing di pasar yang lebih luas. Transformasi ini didorong oleh beberapa faktor utama, seperti perkembangan e-commerce, sistem pembayaran digital, pemasaran berbasis data, serta pemanfaatan teknologi berbasis kecerdasan buatan (artificial intelligence). Salah satu perubahan signifikan dalam ekonomi digital adalah kemudahan akses ke platform e-commerce. UKM yang sebelumnya hanya mengandalkan toko fisik kini dapat menjual produknya melalui berbagai marketplace daring. Hal ini memungkinkan mereka menjangkau konsumen di luar wilayah lokal, bahkan hingga ke pasar internasional. Dengan biaya operasional yang lebih rendah dibandingkan toko fisik, UKM dapat mengalokasikan dana untuk inovasi dan peningkatan kualitas produk. Selain itu, sistem pengiriman yang semakin efisien memungkinkan UKM memenuhi pesanan dengan lebih cepat dan tepat waktu. Selain akses pasar yang lebih luas, sistem pembayaran digital juga telah meningkatkan efisiensi transaksi keuangan. Penggunaan dompet digital dan pembayaran nontunai tidak hanya mempermudah konsumen dalam  berbelanja,  tetapi  juga membantu UKM  dalam mencatat keuangan secara lebih akurat. Keuntungan lain dari ekonomi digital adalah strategi pemasaran berbasis data. Melalui analisis data pelanggan, UKM dapat memahami tren pasar dan perilaku konsumen dengan lebih baik. Misalnya, penggunaan iklan digital yang ditargetkan memungkinkan UKM menjangkau segmen pasar yang lebih spesifik sehingga efektivitas promosi meningkat.  Meskipun menawarkan banyak manfaat, transformasi digital juga menghadirkan tantangan. UKM harus mampu beradaptasi dengan perkembangan teknologi dan meningkatkan literasi digital agar tetap kompetitif. Selain itu, keamanan data menjadi aspek penting yang harus diperhatikan dalam menjalankan bisnis secara digital untuk menghindari risiko peretasan dan penyalahgunaan informasi pelanggan. Dengan segala peluang dan tantangannya, ekonomi digital telah menjadi faktor kunci dalam mendorong pertumbuhan UKM. Jika dikelola dengan baik, digitalisasi dapat menjadi pendorong utama bagi keberlanjutan dan daya saing usaha kecil di era modern ini.  (Sumber: Kementerian Koperasi dan UKM Republik Indonesia)",
+      "stimulus_images": [],
+      "question": "Bagan  yang  tepat  untuk  menggambarkan  bagian-bagian  penting dalam teks tersebut adalah ….",
+      "question_images": [
+        {
+          "filename": "25068_description.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25068_description.png"
+        },
+        {
+          "filename": "25068_49ab5357d2bcbdb2bccfaa5f4d128808.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25068_49ab5357d2bcbdb2bccfaa5f4d128808.png"
+        },
+        {
+          "filename": "25068_0a1d331f78fb32852fef358c2ce0a1c1.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25068_0a1d331f78fb32852fef358c2ce0a1c1.png"
+        },
+        {
+          "filename": "25068_ee9e5d7c03f2925e48144abb2723c967.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25068_ee9e5d7c03f2925e48144abb2723c967.png"
+        },
+        {
+          "filename": "25068_da11f9711461225e3ac115058b1f008d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25068_da11f9711461225e3ac115058b1f008d.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "25068_description.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "25068_49ab5357d2bcbdb2bccfaa5f4d128808.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "25068_0a1d331f78fb32852fef358c2ce0a1c1.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "25068_ee9e5d7c03f2925e48144abb2723c967.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "25068_da11f9711461225e3ac115058b1f008d.png"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "type": "pgk_benar_salah",
+      "stimulus": "Dampak Ekonomi Digital terhadap Pertumbuhan Usaha Kecil dan Menengah (UKM) Ekonomi digital telah membawa perubahan besar dalam berbagai aspek bisnis, terutama bagi Usaha Kecil dan Menengah (UKM). Dengan adanya teknologi digital, UKM kini memiliki peluang lebih besar untuk berkembang dan bersaing di pasar yang lebih luas. Transformasi ini didorong oleh beberapa faktor utama, seperti perkembangan e-commerce, sistem pembayaran digital, pemasaran berbasis data, serta pemanfaatan teknologi berbasis kecerdasan buatan (artificial intelligence). Salah satu perubahan signifikan dalam ekonomi digital adalah kemudahan akses ke platform e-commerce. UKM yang sebelumnya hanya mengandalkan toko fisik kini dapat menjual produknya melalui berbagai marketplace daring. Hal ini memungkinkan mereka menjangkau konsumen di luar wilayah lokal, bahkan hingga ke pasar internasional. Dengan biaya operasional yang lebih rendah dibandingkan toko fisik, UKM dapat mengalokasikan dana untuk inovasi dan peningkatan kualitas produk. Selain itu, sistem pengiriman yang semakin efisien memungkinkan UKM memenuhi pesanan dengan lebih cepat dan tepat waktu. Selain akses pasar yang lebih luas, sistem pembayaran digital juga telah meningkatkan efisiensi transaksi keuangan. Penggunaan dompet digital dan pembayaran nontunai tidak hanya mempermudah konsumen dalam  berbelanja,  tetapi  juga membantu UKM  dalam mencatat keuangan secara lebih akurat. Keuntungan lain dari ekonomi digital adalah strategi pemasaran berbasis data. Melalui analisis data pelanggan, UKM dapat memahami tren pasar dan perilaku konsumen dengan lebih baik. Misalnya, penggunaan iklan digital yang ditargetkan memungkinkan UKM menjangkau segmen pasar yang lebih spesifik sehingga efektivitas promosi meningkat. Meskipun menawarkan banyak manfaat, transformasi digital juga menghadirkan tantangan. UKM harus mampu beradaptasi dengan perkembangan teknologi dan meningkatkan literasi digital agar tetap kompetitif. Selain itu, keamanan data menjadi aspek penting yang harus diperhatikan dalam menjalankan bisnis secara digital untuk menghindari risiko peretasan dan penyalahgunaan informasi pelanggan. Dengan segala peluang dan tantangannya, ekonomi digital telah menjadi faktor kunci dalam mendorong pertumbuhan UKM. Jika dikelola dengan baik, digitalisasi dapat menjadi pendorong utama bagi keberlanjutan dan daya saing usaha kecil di era modern ini. (Sumber: Kementerian Koperasi dan UKM Republik Indonesia)",
+      "stimulus_images": [],
+      "question": "Bagaimana pola pengembangan paragraf ke-1, ke-2, dan ke-3 pada teks tersebut? Tentukan Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "type": "pg_biasa",
+      "stimulus": "Dampak Ekonomi Digital terhadap Pertumbuhan Usaha Kecil dan Menengah (UKM) Ekonomi digital telah membawa perubahan besar dalam berbagai aspek bisnis, terutama bagi Usaha Kecil dan Menengah (UKM). Dengan adanya teknologi digital, UKM kini memiliki peluang lebih besar untuk berkembang dan bersaing di pasar yang lebih luas. Transformasi ini didorong oleh beberapa faktor utama, seperti perkembangan e-commerce, sistem pembayaran digital, pemasaran berbasis data, serta pemanfaatan teknologi berbasis kecerdasan buatan (artificial intelligence). Salah satu perubahan signifikan dalam ekonomi digital adalah kemudahan akses ke platform e-commerce. UKM yang sebelumnya hanya mengandalkan toko fisik kini dapat menjual produknya melalui berbagai marketplace daring. Hal ini memungkinkan mereka menjangkau konsumen di luar wilayah lokal, bahkan hingga ke pasar internasional. Dengan biaya operasional yang lebih rendah dibandingkan toko fisik, UKM dapat mengalokasikan dana untuk inovasi dan peningkatan kualitas produk. Selain itu, sistem pengiriman yang semakin efisien memungkinkan UKM memenuhi pesanan dengan lebih cepat dan tepat waktu. Selain akses pasar yang lebih luas, sistem pembayaran digital juga telah meningkatkan efisiensi transaksi keuangan. Penggunaan dompet digital dan pembayaran nontunai tidak hanya mempermudah konsumen dalam  berbelanja,  tetapi  juga membantu UKM  dalam mencatat keuangan secara lebih akurat. Keuntungan lain dari ekonomi digital adalah strategi pemasaran berbasis data. Melalui analisis data pelanggan, UKM dapat memahami tren pasar dan perilaku konsumen dengan lebih baik. Misalnya, penggunaan iklan digital yang ditargetkan memungkinkan UKM menjangkau segmen pasar yang lebih spesifik sehingga efektivitas promosi meningkat. Meskipun menawarkan banyak manfaat, transformasi digital juga menghadirkan tantangan. UKM harus mampu beradaptasi dengan perkembangan teknologi dan meningkatkan literasi digital agar tetap kompetitif. Selain itu, keamanan data menjadi aspek penting yang harus diperhatikan dalam menjalankan bisnis secara digital untuk menghindari risiko peretasan dan penyalahgunaan informasi pelanggan. Dengan segala peluang dan tantangannya, ekonomi digital telah menjadi faktor kunci dalam mendorong pertumbuhan UKM. Jika dikelola dengan baik, digitalisasi dapat menjadi pendorong utama bagi keberlanjutan dan daya saing usaha kecil di era modern ini. (Sumber: Kementerian Koperasi dan UKM Republik Indonesia)",
+      "stimulus_images": [],
+      "question": "Dini : Teks tersebut sangat menarik dan bisa menambah wawasan kita, terutama jika kita berencana untuk mengembangkan suatu bisnis kecil.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "",
+          "text": "#AlasanSetujuTidak Setuju",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "A.Sena menyoroti bahwa teks harus mudah dipahami oleh semua kalangan, termasuk yang awam terhadap ekonomi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "B.Sena mempertimbangkan kelengkapan  dan  dasar  bukti dari informasi yang merupakan bagian dari menilai keakuratan teks.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "C.Sena   memiliki   inisiatif   untuk memperbaiki isi teks dengan pendapat pribadinya sebagai ahli ekonomi agar lebih informatif.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "type": "pg_biasa",
+      "stimulus": "Hampir 25 tahun lalu kami berpisah karena keluarga saya harus boyongan ke kota tempat kerja Ayah yang baru di luar pulau. Tak satupun barang tertinggal di rumah lama. Begitu juga dengan sahabatku, kami harus berpisah. Bertemu dengannya setelah sekian lama, mengingatkan kembali pada pengalaman kami dahulu. Pengalaman yang menjadikan dia, walau tidak setiap waktu, selalu lekat di ingatan saya. Tentu dia mengingatnya pula, bahkan saya yakin rasa yang diidapnya lebih besar efeknya. Karena sebagai seorang sahabat, dia jelas jauh lebih tulus dan setia daripada saya. Tak terasa mata saya mulai berkaca- kaca. Saat malam  itu  saya  berada  di  sini, memperhatikannya belajar. Selesai belajar, dia menyuruh saya pulang karena hendak pergi mencari jangkrik. Saya langsung menyatakan ingin ikut, tapi dia keberatan. Ayah dan ibunya pun melarang. Saya sering mendengar cerita mengasyikan anak-anak beramai-ramai berangkat ke sawah selepas isya untuk mencari jangkrik. Sayang, Ayah tidak pernah membolehkan saya. Tapi malam itu saya nekat dan sahabat saya itu akhirnya tidak kuasa menolak. ”Tidak ganti baju?” tanya saya heran begitu dia langsung memimpin untuk berangkat. Itu hari Jumat. Seragam coklat Pramuka yang dikenakannya sejak pagi masih akan terpakai untuk bersekolah sehari lagi. Dia memang tidak memiliki banyak pakaian hingga seragam sekolah biasa dipakai kapan saja. Tapi memakainya untuk pergi ke sawah mencari jangkrik, rasanya sangat tidak elok. Saya mengambil alih obor dari tangannya. Rasanya belum terlalu lama kami berada di sana dan bumbung baru terisi beberapa ekor jangkrik ketika tiba-tiba angin berubah perangai. Kaget, pantat obor itu justru saya angkat tinggi-tinggi sehingga minyak mendorong sumbunya terlepas. Api dengan cepat berpindah membakar punggung saya! Terdengar teriakannya sembari melepaskan seragam coklatnya untuk dipakai menyabet punggung saya. Baju yang saya kenakan habis sepertiganya. Sahabat saya itu tanggap melingkupi tubuh saya dengan seragam coklatnya melihat saya mulai menangis. dan menggigil antara kesakitan dan kedinginan. Sadar saya membutuhkan pertolongan secepatnya, dia menggendong saya lalu berlari sembari membujuk-bujuk saya untuk tetap tenang. Napasnya memburu kelelahan, tapi rasa tanggung jawab yang besar seperti memberinya kekuatan berlipat untuk tetap bersama saya.(Kutipan Cerpen Seragam karya Aris Kurniawan Basuki dengan penyesuaian)",
+      "stimulus_images": [],
+      "question": "“Hampir 25 tahun lalu kami berpisah karena keluarga saya harus boyongan ke kota tempat kerja Ayah yang baru di luar pulau.”",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peristiwa pindahan yang sering dialami pegawai suatu instansi untuk kepentingan promosi jabatan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Peristiwa pindah rumah dari kampung halaman ke tempat yang jauh untuk jangka waktu lama.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Pindah  rumah  bersama  seluruh  anggota  keluarga  dengan membawa semua barang rumah tangga.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Pindah rumah untuk mengikuti tugas kedinasan orang tua di tempat baru yang letaknya sangat jauh.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Kegiatan  pindah  rumah  untuk  sementara  waktu  dan  akan berpindah lagi ke rumah dinas yang lain.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "type": "pg_biasa",
+      "stimulus": "Hampir 25 tahun lalu kami berpisah karena keluarga saya harus boyongan ke kota tempat kerja Ayah yang baru di luar pulau. Tak satupun barang tertinggal di rumah lama. Begitu juga dengan sahabatku, kami harus berpisah. Bertemu dengannya setelah sekian lama, mengingatkan kembali pada pengalaman kami dahulu. Pengalaman yang menjadikan dia, walau tidak setiap waktu, selalu lekat di ingatan saya. Tentu dia mengingatnya pula, bahkan saya yakin rasa yang diidapnya lebih besar efeknya. Karena sebagai seorang sahabat, dia jelas jauh lebih tulus dan setia daripada saya. Tak terasa mata saya mulai berkaca- kaca. Saat malam  itu  saya  berada  di  sini, memperhatikannya belajar. Selesai belajar, dia menyuruh saya pulang karena hendak pergi mencari jangkrik. Saya langsung menyatakan ingin ikut, tapi dia keberatan. Ayah dan ibunya pun melarang. Saya sering mendengar cerita mengasyikan anak-anak beramai-ramai berangkat ke sawah selepas isya untuk mencari jangkrik. Sayang, Ayah tidak pernah membolehkan saya. Tapi malam itu saya nekat dan sahabat saya itu akhirnya tidak kuasa menolak. ”Tidak ganti baju?” tanya saya heran begitu dia langsung memimpin untuk berangkat. Itu hari Jumat. Seragam coklat Pramuka yang dikenakannya sejak pagi masih akan terpakai untuk bersekolah sehari lagi. Dia memang tidak memiliki banyak pakaian hingga seragam sekolah biasa dipakai kapan saja. Tapi memakainya untuk pergi ke sawah mencari jangkrik, rasanya sangat tidak elok. Saya mengambil alih obor dari tangannya. Rasanya belum terlalu lama kami berada di sana dan bumbung baru terisi beberapa ekor jangkrik ketika tiba-tiba angin berubah perangai. Kaget, pantat obor itu justru saya angkat tinggi-tinggi sehingga minyak mendorong sumbunya terlepas. Api dengan cepat berpindah membakar punggung saya! Terdengar teriakannya sembari melepaskan seragam coklatnya untuk dipakai menyabet punggung saya. Baju yang saya kenakan habis sepertiganya. Sahabat saya itu tanggap melingkupi tubuh saya dengan seragam coklatnya melihat saya mulai menangis. dan menggigil antara kesakitan dan kedinginan. Sadar saya membutuhkan pertolongan secepatnya, dia menggendong saya lalu berlari sembari membujuk-bujuk saya untuk tetap tenang. Napasnya memburu kelelahan, tapi rasa tanggung jawab yang besar seperti memberinya kekuatan berlipat untuk tetap bersama saya.(Kutipan Cerpen Seragam karya Aris Kurniawan Basuki dengan penyesuaian)",
+      "stimulus_images": [],
+      "question": "Peristiwa apa yang mungkin akan terjadi kepada sahabatnya jika tokoh saya tidak ikut mencari jangkrik malam itu?Tentukan Tepat atau Tidak Tepat untuk setiap pernyataan berikut!",
+      "question_images": [],
+      "options": [
+        {
+          "id": "",
+          "text": "#PernyataanTepatTidak Tepat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "A.Sahabat  tokoh  saya  masih  memiliki seragam pramuka untuk dipakai.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "B.Punggung  sahabat  tokoh  saya  tidak akan memiliki luka bakar.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "C.Sahabat   tokoh   saya   akan   mencari jangkrik tanpa perlu berlari.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "type": "pgk_checkbox",
+      "stimulus": "Hampir 25 tahun lalu kami berpisah karena keluarga saya harus boyongan ke kota tempat kerja Ayah yang baru di luar pulau. Tak satupun barang tertinggal di rumah lama. Begitu juga dengan sahabatku, kami harus berpisah. Bertemu dengannya setelah sekian lama, mengingatkan kembali pada pengalaman kami dahulu. Pengalaman yang menjadikan dia, walau tidak setiap waktu, selalu lekat di ingatan saya. Tentu dia mengingatnya pula, bahkan saya yakin rasa yang diidapnya lebih besar efeknya. Karena sebagai seorang sahabat, dia jelas jauh lebih tulus dan setia daripada saya. Tak terasa mata saya mulai berkaca- kaca. Saat malam  itu  saya  berada  di  sini, memperhatikannya belajar. Selesai belajar, dia menyuruh saya pulang karena hendak pergi mencari jangkrik. Saya langsung menyatakan ingin ikut, tapi dia keberatan. Ayah dan ibunya pun melarang. Saya sering mendengar cerita mengasyikan anak-anak beramai-ramai berangkat ke sawah selepas isya untuk mencari jangkrik. Sayang, Ayah tidak pernah membolehkan saya. Tapi malam itu saya nekat dan sahabat saya itu akhirnya tidak kuasa menolak. ”Tidak ganti baju?” tanya saya heran begitu dia langsung memimpin untuk berangkat. Itu hari Jumat. Seragam coklat Pramuka yang dikenakannya sejak pagi masih akan terpakai untuk bersekolah sehari lagi. Dia memang tidak memiliki banyak pakaian hingga seragam sekolah biasa dipakai kapan saja. Tapi memakainya untuk pergi ke sawah mencari jangkrik, rasanya sangat tidak elok. Saya mengambil alih obor dari tangannya. Rasanya belum terlalu lama kami berada di sana dan bumbung baru terisi beberapa ekor jangkrik ketika tiba-tiba angin berubah perangai. Kaget, pantat obor itu justru saya angkat tinggi-tinggi sehingga minyak mendorong sumbunya terlepas. Api dengan cepat berpindah membakar punggung saya! Terdengar teriakannya sembari melepaskan seragam coklatnya untuk dipakai menyabet punggung saya. Baju yang saya kenakan habis sepertiganya. Sahabat saya itu tanggap melingkupi tubuh saya dengan seragam coklatnya melihat saya mulai menangis.dan menggigil antara kesakitan dan kedinginan. Sadar saya membutuhkan pertolongan secepatnya, dia menggendong saya lalu berlari sembari membujuk-bujuk saya untuk tetap tenang. Napasnya memburu kelelahan, tapi rasa tanggung jawab yang besar seperti memberinya kekuatan berlipat untuk tetap bersama saya.",
+      "stimulus_images": [],
+      "question": "Kalimat mana saja dari dalam kutipan cerpen tersebut yang membuktikan karakter sahabat tokoh saya merupakan seorang yang setia kawan?Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Saya langsung menyatakan ingin ikut, tapi dia keberatan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Dia memang tidak memiliki banyak pakaian hingga seragam sekolah biasa dipakai kapan saja.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Sahabat  saya  itu  tanggap  melingkupi  tubuh  saya  dengan seragam coklatnya.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Dia menggendong saya lalu berlari sembari membujuk-bujuk saya untuk tetap tenang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Rasa tanggung jawab yang besar seperti memberinya kekuatan berlipat untuk tetap bersama saya.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 17 s.d. 20! (1) Perubahan iklim yang semakin nyata dan ancaman terhadap kelestarian bumi menuntut kita untuk mencari solusi efektif dalam menjaga keseimbangan alam. (2) Salah satu solusi yang paling menjanjikan adalah penggunaan teknologi hijau. (3) Teknologi hijau juga dikenal sebagai teknologi ramah lingkungan. (4) Teknologi ini merupakan inovasi yang dirancang untuk mengatasi berbagai tantangan lingkungan global, terutama terkait dengan perubahan iklim. (1) Perubahan iklim, yang dipicu oleh peningkatan emisi gas rumah kaca akibat aktivitas manusia, menyebabkan cuaca ekstrem, suhu global yang meningkat, dan naiknya permukaan air laut. (2) Hal tersebut juga memicu deforestasi, polusi, dan mengancam keberagaman hayati di seluruh dunia. (3) Oleh karena itu, kita harus mengambil langkah tegas agar dampak perubahan iklim ini tidak semakin parah. (4) Teknologi hijau seperti energi terbarukan (tenaga surya, angin) dapat mengurangi ketergantungan pada bahan bakar fosil yang menjadi penyebab utama emisi gas rumah kaca planet ini. (1) Teknologi hijau juga sangat penting dalam upaya adaptasi terhadap dampak perubahan iklim yang sudah tidak bisa dihindari.  (2) Sistem pertanian presisi, infrastruktur tahan bencana alam, serta teknologi untuk menginvestigasi banjir dan kekeringan adalah contoh bagaimana teknologi hijau bisa membantu masyarakat beradaptasi dengan kondisi yang berubah. (1) Dengan kondisi bumi yang semakin menghadapi tantangan besar, seperti pemanasan global, polusi, kelangkaan sumber daya, dan hilangnya keanekaragaman hayati, penerapan teknologi hijau adalah keharusan. (2) Melalui teknologi hijau, kita dapat mengurangi dampak negatif terhadap lingkungan dan memperbaiki kualitas hidup. Sumber: https://www.rri.co.id/iptek/1281411/",
+      "stimulus_images": [],
+      "question": "Manakah kalimat yang memiliki penggunaan kata serapan yang tepat?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "",
+          "text": "#KalimatTepatTidak Tepat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "A.Kata “deforestasi” pada kalimat (2) paragraf kedua.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "B.Kata “menginvestigasi” pada kalimat (2) paragraf ketiga.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "C.Kata “polusi” pada kalimat (1) paragraf keempat.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 17 s.d. 20! (1) Perubahan iklim yang semakin nyata dan ancaman terhadap kelestarian bumi menuntut kita untuk mencari solusi efektif dalam menjaga keseimbangan alam. (2) Salah satu solusi yang paling menjanjikan adalah penggunaan teknologi hijau. (3) Teknologi hijau juga dikenal sebagai teknologi ramah lingkungan. (4) Teknologi ini merupakan inovasi yang dirancang untuk mengatasi berbagai tantangan lingkungan global, terutama terkait dengan perubahan iklim. (1) Perubahan iklim, yang dipicu oleh peningkatan emisi gas rumah kaca akibat aktivitas manusia, menyebabkan cuaca ekstrem, suhu global yang meningkat, dan naiknya permukaan air laut. (2) Hal tersebut juga memicu deforestasi, polusi, dan mengancam keberagaman hayati di seluruh dunia. (3) Oleh karena itu, kita harus mengambil langkah tegas agar dampak perubahan iklim ini tidak semakin parah. (4) Teknologi hijau seperti energi terbarukan (tenaga surya, angin) dapat mengurangi ketergantungan pada bahan bakar fosil yang menjadi penyebab utama emisi gas rumah kaca planet ini. (1) Teknologi hijau juga sangat penting dalam upaya adaptasi terhadap dampak perubahan iklim yang sudah tidak bisa dihindari.  (2) Sistem pertanian presisi, infrastruktur tahan bencana alam, serta teknologi untuk menginvestigasi banjir dan kekeringan adalah contoh bagaimana teknologi hijau bisa membantu masyarakat beradaptasi dengan kondisi yang berubah. (1) Dengan kondisi bumi yang semakin menghadapi tantangan besar, seperti pemanasan global, polusi, kelangkaan sumber daya, dan hilangnya keanekaragaman hayati, penerapan teknologi hijau adalah keharusan. (2) Melalui teknologi hijau, kita dapat mengurangi dampak negatif terhadap lingkungan dan memperbaiki kualitas hidup. Sumber: https://www.rri.co.id/iptek/1281411/",
+      "stimulus_images": [],
+      "question": "Hubungan makna antara kalimat (2) dan (3) pada paragraf kedua adalah ….",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Akibat-sebab yang diperkuat dengan contoh deforestasi dan kerusakan lingkungan",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Sebab-akibat yang mengajak pembaca untuk mengambil langkah tegas",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Penegasan yang diperinci dengan contoh konkret yang bisa diaplikasikan pembaca",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Perbandingan dari dua pandangan terkait dampak negatif deforestasi",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Penyimpulan bahwa teknologi hijau merupakan solusi masalah deforestasi",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "type": "pg_biasa",
+      "stimulus": "Teks untuk soal nomor 17 s.d. 20! (1) Perubahan iklim yang semakin nyata dan ancaman terhadap kelestarian bumi menuntut kita untuk mencari solusi efektif dalam menjaga keseimbangan alam. (2) Salah satu solusi yang paling menjanjikan adalah penggunaan teknologi hijau. (3) Teknologi hijau juga dikenal sebagai teknologi ramah lingkungan. (4) Teknologi ini merupakan inovasi yang dirancang untuk mengatasi berbagai tantangan lingkungan global, terutama terkait dengan perubahan iklim. (1) Perubahan iklim, yang dipicu oleh peningkatan emisi gas rumah kaca akibat aktivitas manusia, menyebabkan cuaca ekstrem, suhu global yang meningkat, dan naiknya permukaan air laut. (2) Hal tersebut juga memicu deforestasi, polusi, dan mengancam keberagaman hayati di seluruh dunia. (3) Oleh karena itu, kita harus mengambil langkah tegas agar dampak perubahan iklim ini tidak semakin parah. (4) Teknologi hijau seperti energi terbarukan (tenaga surya, angin) dapat mengurangi ketergantungan pada bahan bakar fosil yang menjadi penyebab utama emisi gas rumah kaca planet ini. (1) Teknologi hijau juga sangat penting dalam upaya adaptasi terhadap dampak perubahan iklim yang sudah tidak bisa dihindari.  (2) Sistem pertanian presisi, infrastruktur tahan bencana alam, serta teknologi untuk menginvestigasi banjir dan kekeringan adalah contoh bagaimana teknologi hijau bisa membantu masyarakat beradaptasi dengan kondisi yang berubah. (1) Dengan kondisi bumi yang semakin menghadapi tantangan besar, seperti pemanasan global, polusi, kelangkaan sumber daya, dan hilangnya keanekaragaman hayati, penerapan teknologi hijau adalah keharusan. (2) Melalui teknologi hijau, kita dapat mengurangi dampak negatif terhadap lingkungan dan memperbaiki kualitas hidup. Sumber: https://www.rri.co.id/iptek/1281411/",
+      "stimulus_images": [],
+      "question": "Kalimat yang tepat untuk mengakhiri uraian pada paragraf keempat adalah …",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Pada sisi lain, teknologi hijau memunculkan deforestasi dan polusi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Sehingga dampak negatif lingkungan berdampak pula pada kualitas hidup.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Di samping itu, teknologi hijau dapat menciptakan dunia yang lebih baik untuk generasi yang akan datang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Di samping itu, bumi yang menggunakan teknologi hijau akan semakin menghadapi tantangan besar.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Jadi, teknologi hijau berperan dalam menghilangnya keanekaragaman hayati.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "type": "pgk_checkbox",
+      "stimulus": "Teks untuk soal nomor 17 s.d. 20! (1) Perubahan iklim yang semakin nyata dan ancaman terhadap kelestarian bumi menuntut kita untuk mencari solusi efektif dalam menjaga keseimbangan alam. (2) Salah satu solusi yang paling menjanjikan adalah penggunaan teknologi hijau. (3) Teknologi hijau juga dikenal sebagai teknologi ramah lingkungan. (4) Teknologi ini merupakan inovasi yang dirancang untuk mengatasi berbagai tantangan lingkungan global, terutama terkait dengan perubahan iklim. (1) Perubahan iklim, yang dipicu oleh peningkatan emisi gas rumah kaca akibat aktivitas manusia, menyebabkan cuaca ekstrem, suhu global yang meningkat, dan naiknya permukaan air laut. (2) Hal tersebut juga memicu deforestasi, polusi, dan mengancam keberagaman hayati di seluruh dunia. (3) Oleh karena itu, kita harus mengambil langkah tegas agar dampak perubahan iklim ini tidak semakin parah. (4) Teknologi hijau seperti energi terbarukan (tenaga surya, angin) dapat mengurangi ketergantungan pada bahan bakar fosil yang menjadi penyebab utama emisi gas rumah kaca planet ini. (1) Teknologi hijau juga sangat penting dalam upaya adaptasi terhadap dampak perubahan iklim yang sudah tidak bisa dihindari.  (2) Sistem pertanian presisi, infrastruktur tahan bencana alam, serta teknologi untuk menginvestigasi banjir dan kekeringan adalah contoh bagaimana teknologi hijau bisa membantu masyarakat beradaptasi dengan kondisi yang berubah. (1) Dengan kondisi bumi yang semakin menghadapi tantangan besar, seperti pemanasan global, polusi, kelangkaan sumber daya, dan hilangnya keanekaragaman hayati, penerapan teknologi hijau adalah keharusan. (2) Melalui teknologi hijau, kita dapat mengurangi dampak negatif terhadap lingkungan dan memperbaiki kualitas hidup. Sumber: https://www.rri.co.id/iptek/1281411/",
+      "stimulus_images": [],
+      "question": "Manakah fakta-fakta yang mendukung simpulan bahwa teknologi hijau berperan dalam perubahan iklim?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Teknologi hijau merupakan inovasi yang dirancang untuk mengatasi berbagai tantangan lingkungan global, terutama terkait dengan perubahan iklim.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Perubahan iklim, yang dipicu oleh peningkatan emisi gas rumah kaca akibat aktivitas manusia, menyebabkan cuaca ekstrem, suhu global menurun, dan naiknya permukaan air laut.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Teknologi hijau seperti energi terbarukan (tenaga surya, angin) dapat mengurangi ketergantungan pada bahan bakar fosil.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Teknologi hijau juga sangat penting dalam upaya adaptasi terhadap dampak perubahan teknologi yang sudah tidak bisa dihindari.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Melalui teknologi hijau, kita dapat mengurangi dampak negatif terhadap lingkungan dan memperbaiki kualitas hidup.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    }
+  ]
+}

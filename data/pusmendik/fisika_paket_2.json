@@ -1,0 +1,1070 @@
+{
+  "subject": "fisika",
+  "subject_name": "Fisika",
+  "paket": 2,
+  "total_questions": 24,
+  "questions": [
+    {
+      "number": 1,
+      "type": "pg_biasa",
+      "stimulus": "Sebuah kapal bergerak dari pulau A menuju pulau B dengan jarak 10 km. Pulau B berada tepat di sebelah timur pulau A. Diketahui kapal berangkat dari pulau A pada pukul 08.00.",
+      "stimulus_images": [
+        {
+          "filename": "92524_686894c4738c77f5fdac15eabf17096a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/92524_686894c4738c77f5fdac15eabf17096a.png"
+        }
+      ],
+      "question": "Jika saat itu arus air laut bergerak dari arah barat ke timur dengan kecepatan 2 km.jam-1 dan kapal harus sampai tepat pukul 09.00, strategi apa yang harus diterapkan agar kapal datang tepat waktu?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Bergerak ke arah timur dengan kecepatan 12 km.jam-1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Bergerak ke arah tenggara dengan kecepatan 10 km.jam-1.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Bergerak ke arah barat dengan kecepatan 10 km.jam-1.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Bergerak ke arah timur laut dengan kecepatan 10 km.jam-1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Bergerak ke arah timur dengan kecepatan 8 km.jam-1.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "type": "pg_biasa",
+      "stimulus": "Uji Coba Mobil Di sebuah jalan lurus yang sepi di pinggiran kota, dua sahabat yaitu Rafi dan Dion memutuskan untuk melakukan uji coba mobil mereka. Dua mobil yaitu mobil A dan mobil B berangkat dari titik yang sama secara bersamaan (t = 0) dan ingin mencapai jarak tertentu. Mereka ingin mengetahui mobil mana yang akan sampai tujuan lebih cepat. Kedua mobil tersebut memiliki kombinasi kecepatan awal dan percepatan seperti pada grafik berikut.",
+      "stimulus_images": [
+        {
+          "filename": "46716_bda25bf678efd52429239b32c22ffb02.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46716_bda25bf678efd52429239b32c22ffb02.png"
+        }
+      ],
+      "question": "Berdasarkan grafik, kondisi manakah yang menggambarkan gerak dari mobil A dan B?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecepatan mobil A dan kecepatan mobil B selalu konstan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Pada detik ke-5, mobil A dan mobil B berada pada posisi yang sama.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Mobil A akan menyalip mobil B pada detik ke-5.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Pada detik ke-5, kecepatan kedua mobil sama.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Percepatan kedua mobil pada detik ke-5 yaitu 25 m.s-2",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "type": "pg_biasa",
+      "stimulus": "Uji Coba Mobil Di sebuah jalan lurus yang sepi di pinggiran kota, dua sahabat yaitu Rafi dan Dion memutuskan untuk melakukan uji coba mobil mereka. Dua mobil yaitu mobil A dan mobil B berangkat dari titik yang sama secara bersamaan (t = 0) dan ingin mencapai jarak tertentu. Mereka ingin mengetahui mobil mana yang akan sampai tujuan lebih cepat. Kedua mobil tersebut memiliki kombinasi kecepatan awal dan percepatan seperti pada grafik berikut.",
+      "stimulus_images": [
+        {
+          "filename": "43935_a0f91878c2d3d0e04e87def79341d27b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/43935_a0f91878c2d3d0e04e87def79341d27b.png"
+        }
+      ],
+      "question": "Mobil A akan menyusul mobil B setelah menempuh jarak ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "150 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "200 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "250 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "300 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "400 m",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": "pg_biasa",
+      "stimulus": "Sekelompok murid menerbangkan 2 buah roket air lurus ke atas pada waktu yang bersamaan dari lapangan dengan kecepatan awal yang berbeda seperti pada gambar berikut.  Percepatan gravitasi Bumi 10 m.s-2.",
+      "stimulus_images": [
+        {
+          "filename": "30415_aae1671c958deecb5a11eafc5f049552.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/30415_aae1671c958deecb5a11eafc5f049552.png"
+        }
+      ],
+      "question": "Berapakah perbedaan ketinggian kedua roket air setelah 3 detik diluncurkan?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "30 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "50 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "75 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "105 m",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "180 m",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "type": "pg_biasa",
+      "stimulus": "Dua benda A dan B bergerak melingkar beraturan pada lintasan yang berbeda, seperti pada gambar berikut.",
+      "stimulus_images": [
+        {
+          "filename": "25698_e8ebf6ac1add2abb5568052f8287c26d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25698_e8ebf6ac1add2abb5568052f8287c26d.png"
+        }
+      ],
+      "question": "Apabila kecepatan sudut benda A ditingkatkan menjadi 6 rad.s-1, sementara kecepatan sudut benda B tetap, apa kemungkinan paling logis yang akan terjadi pada kedua benda tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Kecepatan linear benda A menjadi empat kali kecepatan linear benda B.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Waktu tempuh satu putaran benda B menjadi empat kali waktu tempuh benda A.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Banyaknya rotasi per sekon benda A tetap lebih kecil dari benda B.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Percepatan sentripetal benda A menjadi empat kali percepatan sentripetal benda B.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Gaya sentripetal benda A dan B tetap sama jika massa kedua benda dijaga sama.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "pg_biasa",
+      "stimulus": "Ketika sebuah mobil tiba-tiba mengerem, penumpang di dalamnya akan terdorong ke depan seperti pada gambar berikut ini.",
+      "stimulus_images": [
+        {
+          "filename": "58967_fba3762decdf82ea6d70346437061d17.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/58967_fba3762decdf82ea6d70346437061d17.png"
+        }
+      ],
+      "question": "Diantara beberapa fenomena berikut ini yang menunjukkan penerapan hukum yang sama dengan fenomena sesuai pada gambar adalah...",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Semakin besar gaya yang diberikan pada suatu benda, semakin besar percepatannya.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Ketika mendayung perahu ke depan, air akan mendorong perahu ke belakang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Sebuah buku akan tetap diam di atas meja sampai ada gaya yang menggerakkannya.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Sebuah bola kasti yang dilempar vertikal ke atas oleh seseorang akan kembali jatuh ke tanah.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Dibutuhkan gaya yang lebih besar untuk mempercepat truk dibandingkan mempercepat sepeda motor.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": "pg_biasa",
+      "stimulus": "Seorang nelayan tradisional menggunakan perahu motor untuk melaut di perairan yang terkenal dengan arus lautnya yang kuat. Perahu nelayan bergerak dengan kecepatan konstan 6 m.s-1 ke arah utara menuju lokasi penangkapan ikan. Tiba-tiba, arus laut yang kuat dari arah barat memberikan gaya horizontal sebesar 300 N selama 4 detik ke arah timur. Massa perahu beserta muatannya adalah 150 kg. Selama gaya arus bekerja, mesin perahu tetap memberikan gaya dorong konstan ke utara sehingga kecepatan ke utara tetap 6 m.s-1.",
+      "stimulus_images": [
+        {
+          "filename": "25178_6ce9236eeade35150243d75f43de841b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/25178_6ce9236eeade35150243d75f43de841b.png"
+        }
+      ],
+      "question": "Setelah 4 detik gaya arus bekerja, kondisi gerak perahu adalah... .",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "kecepatan resultannya 10 m.s-1 dengan arah 53° ke timur dari utara, kemudian bergerak lurus dengan kecepatan konstan",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "kecepatan resultannya 8 m.s-1 dengan arah 45° ke timur dari utara, kemudian bergerak lurus dengan percepatan tetap",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "kecepatan resultannya 10 m.s-1 dengan arah 37° ke timur dari utara, kemudian bergerak lurus dan mengalami perlambatan",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "kecepatan resultannya 12 m.s-1 dengan arah 37° ke timur dari utara, kemudian bergerak lurus dengan percepatan konstan",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "kecepatan resultannya 6 m.s-1 dengan arah 45° ke timur dari utara, kemudian bergerak lurus dengan percepatan tetap",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "type": "pg_biasa",
+      "stimulus": "Dalam sebuah pertunjukan bela diri, seorang atlet karate berhasil memecahkan tumpukan batu bata ringan (hebel) dengan pukulan cepat. Tumpukan batu bata dapat pecah meskipun hanya bersentuhan dengan tangan dalam waktu singkat.",
+      "stimulus_images": [],
+      "question": "Penjelasan yang paling tepat tuntuk fenomena ini adalah ...",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Impuls yang kecil menyebabkan tumpukan batu bata pecah karena kecepatan pukulan sangat tinggi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Gaya menjadi sangat besar karena perubahan momentum terjadi dalam waktu yang sangat singkat.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Impuls yang diterima hebel menjadi kecil karena waktu sentuh sangat singkat.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Tidak ada perubahan momentum, karena batu bata kodisi awalnya diam.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Impuls yang besar terjadi karena gaya dan waktu sentuh yang besar.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "type": "pg_biasa",
+      "stimulus": "Sebuah kunci pas digunakan untuk memutar baut dengan tujuan mengencangkan atau mengendorkan baut seperti gambar.",
+      "stimulus_images": [
+        {
+          "filename": "57493_1b9a09c8a1f58addc3eac6018acfd9ad.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/57493_1b9a09c8a1f58addc3eac6018acfd9ad.png"
+        }
+      ],
+      "question": "Agar kunci pas dapat berfungsi optimal untuk mengencangkan baut, maka diperlukan gaya F = 15 N membentuk sudut 37o terhadap posisi horizontal kunci pas yang panjangnya 20 cm. Berapakah percepatan sudut yang dihasilkan oleh gaya F tersebut jika kunci pas dianggap batang homogen bermassa 500 gram?(sin 37o = 0,6 dan cos 37o = 0,8)",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "180 rad.s-2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "270 rad.s-2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "360 rad.s-2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "1080 rad.s-2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "1440 rad.s-2",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "type": "pg_biasa",
+      "stimulus": "Kursi yang digunakan oleh dokter gigi saat praktik seringkali dapat dinaikkan dan diturunkan dengan mudah menggunakan sistem hidrolik seperti gambar berikut.",
+      "stimulus_images": [
+        {
+          "filename": "47213_f7374aa50abed91e35db8e1be7dcdcf7.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/47213_f7374aa50abed91e35db8e1be7dcdcf7.png"
+        }
+      ],
+      "question": "Pada sistem hidrolik ini bekerja gaya tertentu pada piston kecil sehingga dapat mengangkat beban tertentu melalui piston yang lebih besar. Jika beban yang dapat diangkat oleh piston besar yaitu 540 N dengan diameter 3 cm, maka gaya terkecil yang digunakan pada piston kecil yang berukuran 0,5 cm adalah...",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "15 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "90 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "240 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "3240 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "19440 N",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "type": "pg_biasa",
+      "stimulus": "Sebuah kapal selam sedang berada di dasar laut seperti gambar.  Kapal selam memiliki komponen tangki ballast. Tangki ballast berisi air yang volumenya dapat ditambah atau dikurangi. Hal ini membuat volume kapal selam berubah. Saat di dasar laut, kapal selam bermassa 200.000 kg memiliki massa jenis 1.250 kg.m-3.",
+      "stimulus_images": [
+        {
+          "filename": "09432_48492f2fc9815998b60791a0d2d648d4.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/09432_48492f2fc9815998b60791a0d2d648d4.png"
+        }
+      ],
+      "question": "Agar kapal selam dapat terapung mendekati permukaan laut (asumsikan massa jenis air laut 1.000 kg.m-3), perubahan volume yang dilakukan pada tangki ballast kapal selam adalah ….",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "40 m3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "160 m3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "200 m3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "240 m3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "360 m3",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "type": "pgk_checkbox",
+      "stimulus": "Sayap pada burung membantu burung untuk beraktivitas terbang. Sayap yang dibentangkan dan gerakan melawan arah angin membuat burung terangkat terbang. Saat terbang, bentuk sayap burung dapat berubah sesuai kondisi.",
+      "stimulus_images": [],
+      "question": "Berdasarkan fenomena tersebut, bagaimana penjelasan ilmiah mengenai sayap membantu burung terbang?Klik pada setiap penjelasan yang benar. Penjelasan benar lebih dari satu.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Saat udara mengalir di atas dan bawah sayap, kecepatan udara di atas lebih tinggi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rendahnya kecepatan aliran udara di bawah sayap, menghasilkan tekanan yang lebih rendah.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Perbedaan tekanan menciptakan gaya angkat yang memungkinkan burung tetap terbang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Gerakan melawan arah angin menciptakan hambatan sehingga burung dapat terbang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Bentuk sayap berubah untuk menghasilkan perubahan gaya angkat.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "type": "pg_biasa",
+      "stimulus": "Seorang siswa melakukan percobaan membuat alat musik sederhana dari pipa PVC yang diisi air. Ia memukul bagian atas pipa untuk menghasilkan bunyi. Panjang pipa adalah 80 cm dan sebagian diisi air sehingga hanya tersisa kolom udara setinggi 40 cm yang berfungsi sebagai kolom udara terbuka di salah satu ujungnya. Diketahui bahwa cepat rambat bunyi di udara adalah 340 m.s-1.",
+      "stimulus_images": [],
+      "question": "Jika pada saat itu pipa menghasilkan nada dasar (harmonik pertama), berapa frekuensi bunyi yang dihasilkan oleh pipa tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "212,5 Hz",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "425,0 Hz",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "637,5 Hz",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "850 Hz",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "1062,5 Hz",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "type": "pg_biasa",
+      "stimulus": "Seseorang sedang dalam perjalanan pulang melalui tanah lapang. Kondisi permukaan lapangan tersebut sangat panas. Saat itu dia melihat tanaman-tanaman pendek di seberang lapangan seperti dalam gelombang air yang tampak seperti pada gambar.  Setelah dia mendekatinya, ternyata itu hanyalah ilusi.",
+      "stimulus_images": [
+        {
+          "filename": "32905_ebec9bfca3c0a21675d7a8e9fb371658.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/32905_ebec9bfca3c0a21675d7a8e9fb371658.png"
+        }
+      ],
+      "question": "Sesuai prinsip sifat-sifat cahaya, bagaimana penjelasan ilmiah dari fenomena ilusi tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Cahaya dari tanaman terlihat beriak seperti gelombang air karena tertiup angin.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Permukaan lapangan terlihat bergelombang sehingga cahaya dari tanaman terlihat beriak.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Permukaan lapangan yang tidak rata menyebabkan pemantulan cahaya yang tidak teratur.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Panas permukaan lapangan menyebabkan perbedaan kerapatan udara sehingga cahaya mengalami pembiasan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Tanah lapang yang panas membuat tarikan gravitasi saat cahaya merambat menuju siswa menjadi berbelok.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "type": "pg_biasa",
+      "stimulus": "Adrian dan Bisma merupakan tim olah raga basket di sekolahnya. Saat latihan basket, Adrian dan Bisma melakukan lemparan melompat (jump shot) dari titik yang sama 3 m dari ring basket. Keduanya melepaskan bola pada sudut 50° dari horizontal dan dari ketinggian 2 m. Tinggi ring basket adalah 3,05 m. Pada percobaan pertama keduanya menembakkan bola dengan kecepatan awal 7,5 m.s-1 sehingga bola masuk ke ring.  Pada percobaan kedua, Adrian tetap menembakkan bola dengan kecepatan 7,5 m.s-1, sedangkan Bisma menembakkan bola dengan menurunkan kecepatan menjadi 6,5 m.s-1 dengan sudut tetap.",
+      "stimulus_images": [
+        {
+          "filename": "20845_77e4054d19242e3a5394f133efd7bf7f.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/20845_77e4054d19242e3a5394f133efd7bf7f.png"
+        }
+      ],
+      "question": "Berdasarkan perubahan tersebut, kondisi apa yang akan terjadi pada hasil tembakan bola Bisma jika dibandingkan dengan bola Adrian? (Diketahui sin (50) = 0.766 dan cos (50) = 0.643)",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Kedua bola tetap masuk ke ring karena sudut dan tinggi awalnya tidak berubah.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Bola Bisma dipastikan masih dapat masuk ke dalam ring karena sudutnya besar.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Bola Bisma jatuh lebih cepat dan gagal masuk karena kecepatannya lebih kecil.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Bola Bisma akan melengkung lebih tinggi sehingga justru lebih mudah masuk.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Bola Adrian diperkirakan akan melewati ring karena kecepatannya terlalu besar.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "type": "pg_biasa",
+      "stimulus": "Rina adalah seorang pelajar SMA yang sering mengeluh pusing dan mata lelah saat membaca buku atau menatap layar laptop. Setelah memeriksakan diri ke dokter mata, diketahui bahwa ia menderita hipermetropi dengan titik dekat mata 50 cm (titik dekat mata normal adalah 25 cm). Dokter meresepkan lensa kacamata untuk membantunya melihat jelas. Namun, Rina menunda-nunda untuk membuat kacamatanya hingga ia kerepotan saat mengerjakan tugas kelompok di rumah teman.",
+      "stimulus_images": [],
+      "question": "Bagaimana strategi yang tepat untuk dilakukan Rina dalam situasi tersebut?Pilihlah Tepat atau Tidak Tepat untuk setiap strategi berikut.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "",
+          "text": "#StrategiTepatTidak Tepat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "A.Membuat kacamata dengan kekuatan +2 dioptri.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "B.Membaca dengan jarak lebih dari 50 cm.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "C.Menggunakan kacamata temannya yang terbuat dari lensa cekung.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "type": "pg_biasa",
+      "stimulus": "PERCOBAAN KONDUKSI KALOR Perhatikan rancangan percobaan berikut.TujuanMenyelidiki pengaruh panjang efektif logam terhadap daya konduksinya.  Alat dan Bahan  Batang logam panjang (besi); Lilin kecil (dipotong tipis-tipis) atau mentega padat; Kompor listrik atau spiritus; Stopwatch; Penggaris; dan Korek api  Langkah Percobaan  Siapkan batang logam (besi) dan letakkan secara horizontal (dapat diletakkan di atas penyangga atau bata tahan panas). Letakkan potongan-potongan kecil lilin (atau mentega) pada batang logam dengan jarak yang sama, misalnya tiap 5 cm dari ujung yang akan dipanaskan. Nyalakan sumber panas dan arahkan ke salah satu ujung batang logam. Mulai nyalakan stopwatch saat pemanasan dimulai. Amati urutan lilin yang meleleh dan catat waktu melelehnya setiap titik. Catat waktu melelehnya lilin (waktu) dan jaraknya diukur dari sumber kalor (spirtus) (sebagai panjang logam) pada tabel hasil pengamatan Dengan definisi daya sebagai energi tiap satuan waktu, buat kesimpulan bagaimana hubungan antara panjang logam dengan daya konduksinya.",
+      "stimulus_images": [
+        {
+          "filename": "86707_bea103277f2923f691eb886bc666290d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/86707_bea103277f2923f691eb886bc666290d.png"
+        }
+      ],
+      "question": "Berdasarkan rancangan percobaan, apa variabel kontrol, variabel bebas, dan variabel terikat dari percobaan tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "variabel kontrol = jenis bahanvariabel bebas = daya konduksivariabel terikat = panjang logam",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "variabel kontrol = waktu melelehnya lilinvariabel bebas = jenis bahanvariabel terikat = daya konduksi",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "variabel kontrol = jenis logamvariabel bebas = jarak lilin dari sumbervariabel terikat = waktu melelehnya lilin",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "variabel kontrol = waktu melelehnya lilinvariabel bebas = panjang logamvariabel terikat = jenis logam",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "variabel kontrol = panjang logamvariabel bebas = jenis bahanvariabel terikat = daya konduksi",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "type": "pg_biasa",
+      "stimulus": "PERCOBAAN KONDUKSI KALOR Perhatikan rancangan percobaan berikut.TujuanMenyelidiki pengaruh panjang efektif logam terhadap daya konduksinya.  Alat dan Bahan  Batang logam panjang (besi); Lilin kecil (dipotong tipis-tipis) atau mentega padat; Kompor listrik atau spiritus; Stopwatch; Penggaris; dan Korek api  Langkah Percobaan  Siapkan batang logam (besi) dan letakkan secara horizontal (dapat diletakkan di atas penyangga atau bata tahan panas). Letakkan potongan-potongan kecil lilin (atau mentega) pada batang logam dengan jarak yang sama, misalnya tiap 5 cm dari ujung yang akan dipanaskan. Nyalakan sumber panas dan arahkan ke salah satu ujung batang logam. Mulai nyalakan stopwatch saat pemanasan dimulai. Amati urutan lilin yang meleleh dan catat waktu melelehnya setiap titik. Catat waktu melelehnya lilin (waktu) dan jaraknya diukur dari sumber kalor (spirtus) (sebagai panjang logam) pada tabel hasil pengamatan Dengan definisi daya sebagai energi tiap satuan waktu, buat kesimpulan bagaimana hubungan antara panjang logam dengan daya konduksinya.",
+      "stimulus_images": [
+        {
+          "filename": "86707_bea103277f2923f691eb886bc666290d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/86707_bea103277f2923f691eb886bc666290d.png"
+        }
+      ],
+      "question": "Dari rancangan percobaan, apa salah satu kelemahan yang akan menyebabkan data tidak akurat?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jenis lilin dan ukuran lilin tidak dipastikan sama sehingga tidak homogen.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Jenis logam yang tidak diganti-ganti sehingga menyebabkan tidak ada pembanding.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Penempatan sumber panas di ujung logam menyebabkan kalor tidak menyebar secara merata.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Pengukuran waktu menggunakan stopwatch sulit dilakukan sehingga muncul penyimpangan data waktu.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Panjang keseluruhan logam tidak dukur sehingga tidak dapat dibandingkan.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Gas ideal di dalam tabung memiliki volume awal 2 liter, suhu 300 kelvin dan tekanan 1 atmosfer. Jika gas dimampatkan hingga volumenya menjadi 1 liter dengan suhu dinaikkan 2 kali semula, maka tekanan akhirnya adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "0,5 atmosfer",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "1 atmosfer",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "2 atmosfer",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "4 atmosfer",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "6 atmosfer",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "type": "pg_biasa",
+      "stimulus": "Sebuah mesin kalor menyerap kalor dari sumber panas, melakukan usaha, dan membuang sisa kalor ke lingkungan. Pada tahap awal, mesin ini memiliki efisiensinya 30%, dan usaha yang dihasilkan tiap siklus adalah 600 J. Setelah beberapa waktu, mesin ini diperbaiki sehinga memiliki efisiensi 50%.",
+      "stimulus_images": [],
+      "question": "Agar mesin ini tetap dapat menghasilkan usaha yang sama dan kondisi lingkungan kerja tetap, bagaimana kebutuhan kalor masuk pada mesin tersebut setelah diperbaiki?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Membutuhkan kalor 40% lebih banyak.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Membutuhkan kalor 40% lebih sedikit.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Membutuhkan kalor 75% kalor lebih sedikit.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Membutuhkan kalor 25% kalor lebih banyak.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Membutuhkan kalor 50% kalor lebih sedikit.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "type": "pgk_checkbox",
+      "stimulus": "Grafik berikut ini menunjukkan data hasil pengukuran suhu rerata tahunan di kota X dalam kurun waktu 2005 sampai 2025.   Data lainnya menunjukkan bahwa selama periode yang sama (2005-2025), terjadi peningkatan drastis dalam jumlah kendaraan bermotor dan penggunaan AC di rumah dan gedung perkantoran. Selain itu, area hijau kota menurun 40% akibat pembangunan.",
+      "stimulus_images": [
+        {
+          "filename": "58603_2951c5b84154eccb039f27e0ec514b2a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/58603_2951c5b84154eccb039f27e0ec514b2a.png"
+        }
+      ],
+      "question": "Berdasarkan data di atas, pilihlah semua pernyataan yang benar sesuai dengan kondisi dan fenomena tersebut !Klik pada setiap jawaban yang Benar! Jawaban benar lebih dari satu.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Grafik menunjukkan tren kenaikan suhu yang dapat disebabkan oleh peningkatan energi termal di lingkungan akibat aktivitas manusia.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Emisi dari kendaraan dan AC menyebabkan peningkatan kalor laten di udara yang mengurangi efek rumah kaca.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Penurunan area hijau menyebabkan berkurangnya pendinginan alami akibat proses transpirasi dan evaporasi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Kenaikan suhu udara dalam jangka panjang menunjukkan adanya ketidakseimbangan antara energi yang diserap dan dipancarkan kembali oleh permukaan bumi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Peningkatan suhu udara berarti peningkatan energi kinetik rata-rata partikel udara di atmosfer.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "type": "pg_biasa",
+      "stimulus": "Dalam sistem printer elektrostatik, dua elektroda dipasang sejajar pada kertas cetak untuk mengarahkan partikel toner. Perhatikan kedua muatan yang terpisah pada jarak tertentu seperti ditunjukkan dalam gambar berikut.",
+      "stimulus_images": [
+        {
+          "filename": "48219_5eaa9ea3df83d952436fe18a4064f691.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/48219_5eaa9ea3df83d952436fe18a4064f691.png"
+        }
+      ],
+      "question": "Dimanakah letak suatu titik di sepanjang sumbu-x yang dapat memiliki kuat medan listrik total sama dengan nol?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Di sebelah kiri Q1, yaitu pada x = −3,2 cm.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Di sebelah kanan Q1, yaitu pada x = 3,2 cm.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Tepat di antara kedua muatan, yaitu pada x = 4 cm.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Di sebelah kanan Q1, yaitu pada x = 4,8 cm.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Di sebelah kanan Q2, yaitu pada x = 11,2 cm.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "type": "pg_biasa",
+      "stimulus": "Perhatikan dua rangkaian listrik berikut:",
+      "stimulus_images": [
+        {
+          "filename": "29026_e14aefd30411277506085a7691fd24b6.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/29026_e14aefd30411277506085a7691fd24b6.png"
+        }
+      ],
+      "question": "Agar besar arus listrik pada kedua rangkaian tersebut nilainya sama, bagaimana cara modifikasi rangkaian yang tepat?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Ubah sumber tegangan rangkaian A menjadi 6 V.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Tambah satu resistor 6 Ω secara paralel pada Rangkaian A.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Ubah susunan resistor Rangkaian B menjadi seri.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Ganti tegangan sumber Rangkaian B menjadi 12 V.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Tambah satu resistor 3 Ω secara seri pada Rangkaian B.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "type": "pg_biasa",
+      "stimulus": "Diberikan data spesifikasi dan durasi penggunaan peralatan elektronik dari sebuah keluarga sebagai berikut:",
+      "stimulus_images": [
+        {
+          "filename": "63665_306fa9d0ab589b8d6e42c06ea8f06afe.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/63665_306fa9d0ab589b8d6e42c06ea8f06afe.png"
+        }
+      ],
+      "question": "Jika tarif listrik yang berlaku adalah Rp1.500,00 per kWh, dan keluarga tersebut ingin agar total biaya listrik tetap di bawah Rp375.000,00 per bulan, keputusan terbaik apa yang dapat diambil untuk mencapai tujuan tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Mengurangi penggunaan AC menjadi 4 jam per hari.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Mengurangi durasi menonton televisi 1 jam per hari dan mengurangi penggunaan mesin cuci 1 hari per bulan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Mengurangi durasi menonton TV menjadi 2 jam per hari.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Tidak menggunakan mesin cuci sama sekali.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Mengurangi frekuensi menyetrika menjadi 4 hari per bulan.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    }
+  ]
+}

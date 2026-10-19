@@ -1,0 +1,1051 @@
+{
+  "subject": "mtk_lanjut",
+  "subject_name": "Matematika Tingkat Lanjut",
+  "paket": 1,
+  "total_questions": 20,
+  "questions": [
+    {
+      "number": 1,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "9",
+      "question_images": [
+        {
+          "filename": "32924_a8edfab2768b756ccdf1fb08bf2d391b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/32924_a8edfab2768b756ccdf1fb08bf2d391b.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "8",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "5",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "-8",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "-20",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "",
+      "question_images": [
+        {
+          "filename": "87832_240a84ccfa4914a66d187e09b0d8f20c.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87832_240a84ccfa4914a66d187e09b0d8f20c.png"
+        },
+        {
+          "filename": "87832_6a864f531085bd8de454511f224ccbc5.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87832_6a864f531085bd8de454511f224ccbc5.png"
+        },
+        {
+          "filename": "87832_a545e591ab76f56357a52aab0bf894c8.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87832_a545e591ab76f56357a52aab0bf894c8.png"
+        },
+        {
+          "filename": "87832_5c9354a99c20dfe7863822bd3f491ad0.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87832_5c9354a99c20dfe7863822bd3f491ad0.png"
+        },
+        {
+          "filename": "87832_cafb4e1c0e38a97e09063408adf0725b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87832_cafb4e1c0e38a97e09063408adf0725b.png"
+        },
+        {
+          "filename": "87832_10c6936d1c2b080400060fa300d6d0ba.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87832_10c6936d1c2b080400060fa300d6d0ba.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "87832_6a864f531085bd8de454511f224ccbc5.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "87832_a545e591ab76f56357a52aab0bf894c8.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "87832_5c9354a99c20dfe7863822bd3f491ad0.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "87832_cafb4e1c0e38a97e09063408adf0725b.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "87832_10c6936d1c2b080400060fa300d6d0ba.png"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "5",
+      "question_images": [
+        {
+          "filename": "88143_d3db8e09f0e5fafa82adae844028eb99.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/88143_d3db8e09f0e5fafa82adae844028eb99.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "5",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "-1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "-4",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "-7",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Diketahui fungsi trigonometri f(x) = –3 sin (2x – 30O) + 4. Periode fungsi f(x) adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "90°",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "120°",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "150°",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "180°",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "720°",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Di bawah ini yang merupakan grafik fungsi  adalah ....",
+      "question_images": [
+        {
+          "filename": "78190_1615899666fef932dbf6bd3f6eff745d.png",
+          "latex": "y=sin\\, (2x)-\\frac {1} {2}",
+          "original_src": "/tka/cbt_images/78190_1615899666fef932dbf6bd3f6eff745d.png"
+        },
+        {
+          "filename": "78190_c970a6dfdf7222b64bda620c8955444b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/78190_c970a6dfdf7222b64bda620c8955444b.png"
+        },
+        {
+          "filename": "78190_d6bcdcda605b823ea3e2bb59794ff8b0.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/78190_d6bcdcda605b823ea3e2bb59794ff8b0.png"
+        },
+        {
+          "filename": "78190_98bf748b4e43770feefa2a9798b57cd6.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/78190_98bf748b4e43770feefa2a9798b57cd6.png"
+        },
+        {
+          "filename": "78190_00afee7c7d6bb625e40b91f5ed0197d7.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/78190_00afee7c7d6bb625e40b91f5ed0197d7.png"
+        },
+        {
+          "filename": "78190_ae9e80dc0920be0b817d8b12d5797ee7.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/78190_ae9e80dc0920be0b817d8b12d5797ee7.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "78190_c970a6dfdf7222b64bda620c8955444b.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "78190_d6bcdcda605b823ea3e2bb59794ff8b0.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "78190_98bf748b4e43770feefa2a9798b57cd6.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "78190_00afee7c7d6bb625e40b91f5ed0197d7.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "78190_ae9e80dc0920be0b817d8b12d5797ee7.png"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Suatu perahu akan menyeberangi sungai selebar 50 meter dari titik A di pinggir sungai. Kecepatan arus sungai 10 meter/menit sejajar dengan pinggiran sungai dengan arah ke hulu dan kecepatan perahu 20 meter/menit dengan arah tegak lurus dengan arah arus sungai. Jika B  berada di seberang sungai dan berjarak terdekat dengan posisi A, jarak titik perahu pada saat sampai di seberang sungai dan titik B adalah … meter.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "15",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "25",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "30",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Diketahui persamaan lingkaran . Di antara lima pernyataan berikut, tentukan pernyataan yang benar! Jawaban benar lebih dari satu.",
+      "question_images": [
+        {
+          "filename": "50116_4d55d153907bc5f62bdafe56997a7425.png",
+          "latex": "{x}^{2}+{y}^{2}-6x-2y-26=0",
+          "original_src": "/tka/cbt_images/50116_4d55d153907bc5f62bdafe56997a7425.png"
+        },
+        {
+          "filename": "50116_8942e852504e3643bf634c418ea22ebe.png",
+          "latex": "x",
+          "original_src": "/tka/cbt_images/50116_8942e852504e3643bf634c418ea22ebe.png"
+        },
+        {
+          "filename": "50116_7fbe517896aa2e51c67df243ebd68d81.png",
+          "latex": "y",
+          "original_src": "/tka/cbt_images/50116_7fbe517896aa2e51c67df243ebd68d81.png"
+        },
+        {
+          "filename": "50116_5dc73fa0297f3ef8f9d331c1cd477a40.png",
+          "latex": "y=0",
+          "original_src": "/tka/cbt_images/50116_5dc73fa0297f3ef8f9d331c1cd477a40.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Lingkaran tersebut berpusat di (1, 3).",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Panjang jari-jari lingkaran tersebut 6 satuan panjang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Jarak pusat lingkaran dengan sumbu- adalah 3.",
+          "latex": "x",
+          "image": "50116_8942e852504e3643bf634c418ea22ebe.png"
+        },
+        {
+          "id": "D",
+          "text": "Jarak pusat lingkaran dengan sumbu- adalah 1.",
+          "latex": "y",
+          "image": "50116_7fbe517896aa2e51c67df243ebd68d81.png"
+        },
+        {
+          "id": "E",
+          "text": "Garis  memotong lingkaran di dua titik.",
+          "latex": "y=0",
+          "image": "50116_5dc73fa0297f3ef8f9d331c1cd477a40.png"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Bayangan dari kurva y = 2x2 – 5 yang ditranslasikan oleh matriks  kemudian didilatasikan oleh (O, 2) dengan O merupakan titik koordinat (0,0) adalah .…",
+      "question_images": [
+        {
+          "filename": "18801_316eb45b673d91fa5bb14eb953e1d6de.png",
+          "latex": "(\\frac {-3} {2})",
+          "original_src": "/tka/cbt_images/18801_316eb45b673d91fa5bb14eb953e1d6de.png"
+        },
+        {
+          "filename": "18801_f7a55d4cc8ee45dd8c2cc29e4e7e444e.png",
+          "latex": "y=\\frac {1} {4}{x}^{2}+3x+\\frac {15} {2}",
+          "original_src": "/tka/cbt_images/18801_f7a55d4cc8ee45dd8c2cc29e4e7e444e.png"
+        },
+        {
+          "filename": "18801_b9892de457685e65b576cc43426c7f15.png",
+          "latex": "y=\\frac {1} {4}{x}^{2}+3x+\\frac {11} {2}",
+          "original_src": "/tka/cbt_images/18801_b9892de457685e65b576cc43426c7f15.png"
+        },
+        {
+          "filename": "18801_fc916951809456d6cf1b6da2aee2d7af.png",
+          "latex": "y={x}^{2}+12x+30",
+          "original_src": "/tka/cbt_images/18801_fc916951809456d6cf1b6da2aee2d7af.png"
+        },
+        {
+          "filename": "18801_96c3ac12665cdf2317cca26a18dda9f9.png",
+          "latex": "y={x}^{2}-12x+22",
+          "original_src": "/tka/cbt_images/18801_96c3ac12665cdf2317cca26a18dda9f9.png"
+        },
+        {
+          "filename": "18801_0599cec04e1352f3cc8cae08c25e4b11.png",
+          "latex": "y=4{x}^{2}+12x+15",
+          "original_src": "/tka/cbt_images/18801_0599cec04e1352f3cc8cae08c25e4b11.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "y=\\frac {1} {4}{x}^{2}+3x+\\frac {15} {2}",
+          "image": "18801_f7a55d4cc8ee45dd8c2cc29e4e7e444e.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "y=\\frac {1} {4}{x}^{2}+3x+\\frac {11} {2}",
+          "image": "18801_b9892de457685e65b576cc43426c7f15.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "y={x}^{2}+12x+30",
+          "image": "18801_fc916951809456d6cf1b6da2aee2d7af.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "y={x}^{2}-12x+22",
+          "image": "18801_96c3ac12665cdf2317cca26a18dda9f9.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "y=4{x}^{2}+12x+15",
+          "image": "18801_0599cec04e1352f3cc8cae08c25e4b11.png"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "-18",
+      "question_images": [
+        {
+          "filename": "29890_10c8f7643de04a60b368681f2d869b8e.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/29890_10c8f7643de04a60b368681f2d869b8e.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "-18",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "-9",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "9",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "18",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "-2",
+      "question_images": [
+        {
+          "filename": "81866_8980b5c8c1cfa85ea5888beb34b8b949.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/81866_8980b5c8c1cfa85ea5888beb34b8b949.png"
+        },
+        {
+          "filename": "81866_b7eb885351d20bef12c3ddb7f5b0cf00.png",
+          "latex": "-\\frac {4} {3}\\sqrt {3}",
+          "original_src": "/tka/cbt_images/81866_b7eb885351d20bef12c3ddb7f5b0cf00.png"
+        },
+        {
+          "filename": "81866_02bd2b3b3eb196816e5736d3e1a2e06c.png",
+          "latex": "\\frac {4} {3}\\sqrt {3}",
+          "original_src": "/tka/cbt_images/81866_02bd2b3b3eb196816e5736d3e1a2e06c.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "-\\frac {4} {3}\\sqrt {3}",
+          "image": "81866_b7eb885351d20bef12c3ddb7f5b0cf00.png"
+        },
+        {
+          "id": "B",
+          "text": "-2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "0",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "\\frac {4} {3}\\sqrt {3}",
+          "image": "81866_02bd2b3b3eb196816e5736d3e1a2e06c.png"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Pilih semua jawaban benar! Jawaban benar lebih dari satu.",
+      "question_images": [
+        {
+          "filename": "90514_7fb2007b8eeb6bf88d49968d0b3c468d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/90514_7fb2007b8eeb6bf88d49968d0b3c468d.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "p = 2 dan q =1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "p = 3 dan q = 3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "p = 4 dan q = 2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "p = 5 dan q = 1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "p = 6 dan q = 3",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Seorang murid memperkirakan banyaknya penonton suatu video dalam ribuan yang dibuat oleh content creator A di media sosial mengikuti model  dengan t adalah banyaknya hari sejak video diunggah.Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "question_images": [
+        {
+          "filename": "64319_0ab438bf4a4fbf6db4247ceff39387f8.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/64319_0ab438bf4a4fbf6db4247ceff39387f8.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Diketahui 𝒖,𝒗 dan 𝒘 merupakan tiga vektor dengan 𝒖 = (1,1,−1),𝒗 = (1, 𝑣1, 2) dan 𝒘 = (0,𝑤1,𝑤2). Berapakah nilai 𝑣1 dan 𝑤1 yang mungkin sehingga memenuhi 𝒘 = 𝒖−𝒗?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "𝑣1=0 dan 𝑤1 =1.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "𝑣1=1 dan 𝑤1 =0.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "𝑣1=1 dan 𝑤1 =2.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "𝑣1=2 dan 𝑤1 =−1.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "𝑣1=2 dan 𝑤1 =2.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Segitiga PQR dengan titik P (-1,3), Q (3,3), dan R(1,-2) didilatasi dengan pusat titik (0,0) dan faktor skala 3. Luas segitiga tersebut setelah dilakukan dilatasi adalah … satuan luas.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "10",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "30",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "90",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "120",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "180",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "question_images": [
+        {
+          "filename": "74488_4cca73046257d115983291003ce9234a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/74488_4cca73046257d115983291003ce9234a.png"
+        },
+        {
+          "filename": "74488_55ead82de5969a740624960452601d26.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/74488_55ead82de5969a740624960452601d26.png"
+        },
+        {
+          "filename": "74488_cfd2fe568286264e9e5bb49b949d72a4.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/74488_cfd2fe568286264e9e5bb49b949d72a4.png"
+        },
+        {
+          "filename": "74488_eb77a796ba6f394a46d42d8a15913109.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/74488_eb77a796ba6f394a46d42d8a15913109.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "0",
+      "question_images": [
+        {
+          "filename": "24668_1464cced0b69c451376e3647ba4db8a4.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/24668_1464cced0b69c451376e3647ba4db8a4.png"
+        },
+        {
+          "filename": "93581_8f7b393ba022bf0055d6a030cb9f19cc.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/93581_8f7b393ba022bf0055d6a030cb9f19cc.png"
+        },
+        {
+          "filename": "24668_9b3280646126e7f2cdf9bf19aca17e7a.png",
+          "latex": "\\frac {1} {3}",
+          "original_src": "/tka/cbt_images/24668_9b3280646126e7f2cdf9bf19aca17e7a.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "93581_8f7b393ba022bf0055d6a030cb9f19cc.png"
+        },
+        {
+          "id": "B",
+          "text": "0",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {1} {3}",
+          "image": "24668_9b3280646126e7f2cdf9bf19aca17e7a.png"
+        },
+        {
+          "id": "D",
+          "text": "1",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "3",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "(1, 2, 2, 3, 2, 3)",
+      "question_images": [
+        {
+          "filename": "36997_ec4151abe3c365046e9892ce30488ec3.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/36997_ec4151abe3c365046e9892ce30488ec3.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "(1, 2, 2, 3, 2, 3)",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "(2, 2, 3, 3, 3, 3)",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "(2, 3, 3, 3, 2, 2)",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "(2, 3, 3, 3, 2, 3)",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "(2, 3, 3, 4, 2, 4)",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Berdasarkan informasi tersebut, pilihlah semua pernyataan berikut yang benar. Jawaban benar lebih dari satu!",
+      "question_images": [
+        {
+          "filename": "95268_39932075eb3711aad846a67059a1355a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/95268_39932075eb3711aad846a67059a1355a.png"
+        },
+        {
+          "filename": "95268_72fb9e76aa330f92ea1a33fb358b189f.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/95268_72fb9e76aa330f92ea1a33fb358b189f.png"
+        },
+        {
+          "filename": "95268_e507ef24855b64ce9e0ee90a29f7d51f.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/95268_e507ef24855b64ce9e0ee90a29f7d51f.png"
+        },
+        {
+          "filename": "95268_5ba38ae4af4710843f956c34ec4532bb.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/95268_5ba38ae4af4710843f956c34ec4532bb.png"
+        },
+        {
+          "filename": "50734_4df6e784cea9fdd57e37541397d1cdff.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50734_4df6e784cea9fdd57e37541397d1cdff.png"
+        },
+        {
+          "filename": "50734_3c5b4c5239fcfb0e26fe8b364b5b1f86.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50734_3c5b4c5239fcfb0e26fe8b364b5b1f86.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "95268_72fb9e76aa330f92ea1a33fb358b189f.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "95268_e507ef24855b64ce9e0ee90a29f7d51f.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "95268_5ba38ae4af4710843f956c34ec4532bb.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "50734_4df6e784cea9fdd57e37541397d1cdff.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "50734_3c5b4c5239fcfb0e26fe8b364b5b1f86.png"
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "16",
+      "question_images": [
+        {
+          "filename": "14291_8e0230cc6ed3986c851ae85246fb2070.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/14291_8e0230cc6ed3986c851ae85246fb2070.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "16",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "32",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "36",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "42",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "61",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "",
+      "question_images": [
+        {
+          "filename": "17504_0df0b79133338046b0f866b354a3ed68.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17504_0df0b79133338046b0f866b354a3ed68.png"
+        },
+        {
+          "filename": "17504_b4afbd5f3e8de227d1050c806def3b9d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17504_b4afbd5f3e8de227d1050c806def3b9d.png"
+        },
+        {
+          "filename": "17504_008246102042830a5238a7dc7439f605.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17504_008246102042830a5238a7dc7439f605.png"
+        },
+        {
+          "filename": "17504_77bd2b1362f2b8fd0d2010de1d8ae903.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17504_77bd2b1362f2b8fd0d2010de1d8ae903.png"
+        },
+        {
+          "filename": "17504_3263388fdc38ee75ab71207a307e04cf.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17504_3263388fdc38ee75ab71207a307e04cf.png"
+        },
+        {
+          "filename": "17504_02769a25434bb91c236d5570834c70f0.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17504_02769a25434bb91c236d5570834c70f0.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "17504_b4afbd5f3e8de227d1050c806def3b9d.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "17504_008246102042830a5238a7dc7439f605.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "17504_77bd2b1362f2b8fd0d2010de1d8ae903.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "17504_3263388fdc38ee75ab71207a307e04cf.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "17504_02769a25434bb91c236d5570834c70f0.png"
+        }
+      ]
+    }
+  ]
+}

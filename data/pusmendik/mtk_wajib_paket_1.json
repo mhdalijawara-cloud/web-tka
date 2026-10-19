@@ -1,0 +1,2324 @@
+{
+  "subject": "mtk_wajib",
+  "subject_name": "Matematika Wajib",
+  "paket": 1,
+  "total_questions": 46,
+  "questions": [
+    {
+      "number": 1,
+      "type": "pg_biasa",
+      "stimulus": "Sebuah hotel memiliki 30 kamar yang tersedia di lantai 5. Manajer operasional mencatat fasilitas kamar tersebut sebagai berikut.  18 kamar memiliki pemandangan ke arah laut. 10 kamar memiliki fasilitas tempat tidur Twin Bed. 6 kamar di antaranya adalah kamar dengan pemandangan laut yang juga memiliki tempat tidur Twin Bed. Sisanya adalah kamar standar yang tidak memiliki pemandangan laut maupun fasilitas Twin Bed.",
+      "stimulus_images": [],
+      "question": "Jika saat ini semua kamar di lantai tersebut kosong dan resepsionis memilih satu kamar secara acak untuk tamu yang baru datang, berapakah peluang tamu tersebut mendapatkan kamar dengan pemandangan laut atau tempat tidur Twin Bed?",
+      "question_images": [
+        {
+          "filename": "95610_ba88e2a4dfbcc2652503c8b70fa7d0eb.png",
+          "latex": "\\frac {1} {5}",
+          "original_src": "/tka/cbt_images/95610_ba88e2a4dfbcc2652503c8b70fa7d0eb.png"
+        },
+        {
+          "filename": "95610_80866a14992e7af7220ef82e65047051.png",
+          "latex": "\\frac {8} {15}",
+          "original_src": "/tka/cbt_images/95610_80866a14992e7af7220ef82e65047051.png"
+        },
+        {
+          "filename": "95610_67dd030aa4f7e847259225fada22abcc.png",
+          "latex": "\\frac {11} {15}",
+          "original_src": "/tka/cbt_images/95610_67dd030aa4f7e847259225fada22abcc.png"
+        },
+        {
+          "filename": "95610_9d5b33c88a03e8e1dde62468e041e79c.png",
+          "latex": "\\frac {12} {15}",
+          "original_src": "/tka/cbt_images/95610_9d5b33c88a03e8e1dde62468e041e79c.png"
+        },
+        {
+          "filename": "95610_ca1cfbe3e72cd62c2b0e26fe645ead8f.png",
+          "latex": "\\frac {14} {15}",
+          "original_src": "/tka/cbt_images/95610_ca1cfbe3e72cd62c2b0e26fe645ead8f.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "\\frac {1} {5}",
+          "image": "95610_ba88e2a4dfbcc2652503c8b70fa7d0eb.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "\\frac {8} {15}",
+          "image": "95610_80866a14992e7af7220ef82e65047051.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {11} {15}",
+          "image": "95610_67dd030aa4f7e847259225fada22abcc.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "\\frac {12} {15}",
+          "image": "95610_9d5b33c88a03e8e1dde62468e041e79c.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "\\frac {14} {15}",
+          "image": "95610_ca1cfbe3e72cd62c2b0e26fe645ead8f.png"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "type": "pg_biasa",
+      "stimulus": "Dalam sebuah konferensi teknologi, dipaparkan sejumlah data bahwa dalam satu kelompok data yaitu setiap 10 gadget ramah lingkungan yang diproduksi oleh perusahaan X, rata-rata jenisnya adalah sebagai berikut:  4 unit ponsel pintar (smartphone); 3 unit jam tangan pintar (smartwatch); 2 unit komputer tablet; dan sisanya adalah unit pelacak lokasi (smart tag).  Seorang petugas quality control memilih 1 unit gadget secara acak dari kelompok data tersebut untuk diuji efisiensi dayanya.",
+      "stimulus_images": [],
+      "question": "Mana saja pernyataan-pernyataan berikut yang benar terkait nilai peluang terpilihnya jenis gadget tersebut?",
+      "question_images": [
+        {
+          "filename": "95112_ba88e2a4dfbcc2652503c8b70fa7d0eb.png",
+          "latex": "\\frac {1} {5}",
+          "original_src": "/tka/cbt_images/95112_ba88e2a4dfbcc2652503c8b70fa7d0eb.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Peluang terpilihnya ponsel pintar adalah 40%.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Peluang terpilihnya gadget bukan komputer tablet adalah 0,2.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Peluang terpilihnya unit pelacak lokasi adalah",
+          "latex": "\\frac {1} {5}",
+          "image": "95112_ba88e2a4dfbcc2652503c8b70fa7d0eb.png"
+        },
+        {
+          "id": "D",
+          "text": "Peluang terpilihnya gadget bukan jam tangan pintar adalah 70%.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Harga 3 buah buku dan 2 buah penggaris Rp18.000,00. Jika harga sebuah buku Rp1.000,00 lebih mahal dari sebuah penggaris, harga 2 buah buku dan 5 buah penggaris adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp19.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rp23.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Rp25.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Rp27.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Rp30.000,00",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": "pg_biasa",
+      "stimulus": "Pengusaha di Provinsi Jingga Pemerintah Provinsi Jingga mendata banyaknya pengusaha yang ada di Provinsi Jingga. Terdapat 7 kota di Provinsi Jingga. Berikut disajikan data banyak pengusaha pada masing – masing kota di Provinsi Jingga pada tahun 2026:  Informasi mengenai banyaknya pengusaha di Kota E hilang, namun Pemerintah Provinsi Jingga sudah mengetahui jumlah total pengusaha di Provinsi Jingga sebanyak 25.000 orang.",
+      "stimulus_images": [
+        {
+          "filename": "05896_3ad4d2bbdad03e9487f6080ec1c06b63.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/05896_3ad4d2bbdad03e9487f6080ec1c06b63.png"
+        }
+      ],
+      "question": "Berdasarkan informasi tersebut, banyak pengusaha di Kota E adalah ….",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "500 orang",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "1.500 orang",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "2.000 orang",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "2.500 orang",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "3.000 orang",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "type": "pg_biasa",
+      "stimulus": "Perhatikan gambar berikut.",
+      "stimulus_images": [
+        {
+          "filename": "88819_6837a3202add4799943b1f2837c58003.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/88819_6837a3202add4799943b1f2837c58003.png"
+        }
+      ],
+      "question": "Daerah yang memenuhi sistem pertidaksamaan linear  adalah ....",
+      "question_images": [
+        {
+          "filename": "95089_d25340b2a7ed58e850e0298630c96c79.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/95089_d25340b2a7ed58e850e0298630c96c79.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "I",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "II",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "III",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "IV",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "V",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "pg_biasa",
+      "stimulus": "Rina mulai berinvestasi melalui aplikasi Bobin. Terdapat beberapa pilihan produk investasi yang ditawarkan di aplikasi Bobin. Rina memilih produk investasi tipe B2026 karena pada setiap akhir tahun, bunga yang diperoleh langsung ditambahkan ke tabungan. Berikut disajikan brosur mengenai produk investasi tipe B2026: Rina membeli produk investasi B2026 sebesar Rp7.000.000,00 dan berencana menyimpannya sampai jatuh tempo.",
+      "stimulus_images": [
+        {
+          "filename": "89491_620b7db474defbf5dbec6e442d36408a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/89491_620b7db474defbf5dbec6e442d36408a.png"
+        }
+      ],
+      "question": "Berapakah uang yang diperoleh Rina setelah jatuh tempo?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp8.470.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rp9.100.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Rp9.240.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Rp9.261.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Rp9.317.000,00",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Diketahui fungsi f(x) =   , dengan   . Jika f –1(x) adalah invers dari fungsi f(x), nilai dari f –1(3) = ....",
+      "question_images": [
+        {
+          "filename": "90318_c60ef3ace5c263099625b4010816a4d6.png",
+          "latex": "\\sqrt {2x+\\, 3}",
+          "original_src": "/tka/cbt_images/90318_c60ef3ace5c263099625b4010816a4d6.png"
+        },
+        {
+          "filename": "90318_2a36cdc3b7f69c96b64c46de15d93cba.png",
+          "latex": "x\\, \\geq \\, -\\frac {3} {2}",
+          "original_src": "/tka/cbt_images/90318_2a36cdc3b7f69c96b64c46de15d93cba.png"
+        },
+        {
+          "filename": "30918_5d2794b122ac35af8c5968a4962bbb62.png",
+          "latex": "6",
+          "original_src": "/tka/cbt_images/30918_5d2794b122ac35af8c5968a4962bbb62.png"
+        },
+        {
+          "filename": "30918_e14c28d2557f1a43f1a1f707c653e06e.png",
+          "latex": "3",
+          "original_src": "/tka/cbt_images/30918_e14c28d2557f1a43f1a1f707c653e06e.png"
+        },
+        {
+          "filename": "90387_46f958d9049ce63426b88d5d95566247.png",
+          "latex": "\\frac {3} {2}",
+          "original_src": "/tka/cbt_images/90387_46f958d9049ce63426b88d5d95566247.png"
+        },
+        {
+          "filename": "90387_0023d56d4147d6d42f218fe65a9239a3.png",
+          "latex": "-\\frac {1} {2}",
+          "original_src": "/tka/cbt_images/90387_0023d56d4147d6d42f218fe65a9239a3.png"
+        },
+        {
+          "filename": "30918_c4ffad97d9f1ca96eaaec56b01ac1e32.png",
+          "latex": "-1",
+          "original_src": "/tka/cbt_images/30918_c4ffad97d9f1ca96eaaec56b01ac1e32.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "6",
+          "image": "30918_5d2794b122ac35af8c5968a4962bbb62.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "3",
+          "image": "30918_e14c28d2557f1a43f1a1f707c653e06e.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {3} {2}",
+          "image": "90387_46f958d9049ce63426b88d5d95566247.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "-\\frac {1} {2}",
+          "image": "90387_0023d56d4147d6d42f218fe65a9239a3.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "-1",
+          "image": "30918_c4ffad97d9f1ca96eaaec56b01ac1e32.png"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Fungsi f : R -> R dan g  R -> R . Jika g(x) = x - 1  dan (f  o g)(x) = x3 – 4x, nilai dari  f(2) = ….",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "9",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "13",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "15",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "17",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "25",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "type": "pg_biasa",
+      "stimulus": "Seorang teknisi di bidang energi menghitung konsumsi energi sebuah alat listrik. Diketahui tegangan listrik sebesar  volt, arus listrik sebesar    ampere, dan waktu pemakaian selama  detik. Energi listrik dirumuskan dengan E= V x I x t. dengan keterangan : E = energi listrik (Joule/J) V = tegangan listrik (Volt/V) I = kuat arus listrik (Ampere/A) t = waktu penggunaan listrik (detik)",
+      "stimulus_images": [
+        {
+          "filename": "85516_5975721b148e4664bb3c600c729fd869.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/85516_5975721b148e4664bb3c600c729fd869.png"
+        },
+        {
+          "filename": "85516_f0f5a94ba74a3089516e6e0e79e97e2b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/85516_f0f5a94ba74a3089516e6e0e79e97e2b.png"
+        },
+        {
+          "filename": "85516_59b0b45bb957f09c3d31ac68b8568046.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/85516_59b0b45bb957f09c3d31ac68b8568046.png"
+        }
+      ],
+      "question": "Namun, karena adanya rugi sistem sebesar  energi bersih yang dihasilkan menjadi E bersih=  . maka energi bersih sama dengan ...",
+      "question_images": [
+        {
+          "filename": "85516_ccaddfb64d7186332352e10eee87f6a5.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/85516_ccaddfb64d7186332352e10eee87f6a5.png"
+        },
+        {
+          "filename": "85516_2d7698a2c4ed57c9cdd6d5624f3ec7d7.png",
+          "latex": "{2}^{8}\\times \\, {5}^{5}\\, J",
+          "original_src": "/tka/cbt_images/85516_2d7698a2c4ed57c9cdd6d5624f3ec7d7.png"
+        },
+        {
+          "filename": "85516_5470bc9baf384db473d2627296d0db0e.png",
+          "latex": "{2}^{4}\\, \\times \\, {5}^{3}\\, J",
+          "original_src": "/tka/cbt_images/85516_5470bc9baf384db473d2627296d0db0e.png"
+        },
+        {
+          "filename": "85516_780fbb7f2b8d10268b087c41771cabe7.png",
+          "latex": "80\\, J",
+          "original_src": "/tka/cbt_images/85516_780fbb7f2b8d10268b087c41771cabe7.png"
+        },
+        {
+          "filename": "85516_d3ea3e5c87e01afd993c2fd533d0c47d.png",
+          "latex": "32\\, J",
+          "original_src": "/tka/cbt_images/85516_d3ea3e5c87e01afd993c2fd533d0c47d.png"
+        },
+        {
+          "filename": "85516_754539be0565e20d093013be6fff00bd.png",
+          "latex": "5\\, J",
+          "original_src": "/tka/cbt_images/85516_754539be0565e20d093013be6fff00bd.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "{2}^{8}\\times \\, {5}^{5}\\, J",
+          "image": "85516_2d7698a2c4ed57c9cdd6d5624f3ec7d7.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "{2}^{4}\\, \\times \\, {5}^{3}\\, J",
+          "image": "85516_5470bc9baf384db473d2627296d0db0e.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "80\\, J",
+          "image": "85516_780fbb7f2b8d10268b087c41771cabe7.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "32\\, J",
+          "image": "85516_d3ea3e5c87e01afd993c2fd533d0c47d.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "5\\, J",
+          "image": "85516_754539be0565e20d093013be6fff00bd.png"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "type": "pgk_checkbox",
+      "stimulus": "Sebuah piring besar akan ditata potongan buah dengan susunan melingkar seperti pada gambar berikut.  Tatanan potongan buah tersebut belum selesai dan akan dilanjutkan.",
+      "stimulus_images": [
+        {
+          "filename": "48351_dde5b9762f31a2a2adec2c56f1c35c8c.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/48351_dde5b9762f31a2a2adec2c56f1c35c8c.png"
+        }
+      ],
+      "question": "Tentukan manakah banyak potongan buah yang mungkin pada susunan berikutnya? Pilihlah semua jawaban yang benar! Jawaban benar lebih dari satu.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "20 potongan buah",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "24 potongan buah",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "32 potongan buah",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "64 potongan buah",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Bentuk rasional dari   adalah ....",
+      "question_images": [
+        {
+          "filename": "46140_227a812ca3946080be12cea54f468d36.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46140_227a812ca3946080be12cea54f468d36.png"
+        },
+        {
+          "filename": "46140_e05e54e63021c5df7d042b5103043b24.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46140_e05e54e63021c5df7d042b5103043b24.png"
+        },
+        {
+          "filename": "46140_3d8f86a790786d72aa0c7d0be42968e7.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46140_3d8f86a790786d72aa0c7d0be42968e7.png"
+        },
+        {
+          "filename": "46140_ac6993f60b746cf4706754cee5e8f486.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46140_ac6993f60b746cf4706754cee5e8f486.png"
+        },
+        {
+          "filename": "46140_c64c1b4dc3a6f9812651eb249719b026.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46140_c64c1b4dc3a6f9812651eb249719b026.png"
+        },
+        {
+          "filename": "46140_4a54a96213366d64dfeb0f0e87cf65e0.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/46140_4a54a96213366d64dfeb0f0e87cf65e0.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "46140_e05e54e63021c5df7d042b5103043b24.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "46140_3d8f86a790786d72aa0c7d0be42968e7.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "46140_ac6993f60b746cf4706754cee5e8f486.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "46140_c64c1b4dc3a6f9812651eb249719b026.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "46140_4a54a96213366d64dfeb0f0e87cf65e0.png"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Seorang peneliti melakukan pengamatan terhadap bakteri tertentu. Setiap  hari bakteri membelah diri menjadi dua. Pada awal pengamatan terdapat 2 bakteri. Jika setiap 2 hari   dari jumlah bakteri mati, banyaknya bakteri setelah tiga hari adalah....",
+      "question_images": [
+        {
+          "filename": "67173_421b5ddd9a615c99017cadb0f23594f5.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/67173_421b5ddd9a615c99017cadb0f23594f5.png"
+        },
+        {
+          "filename": "67173_7d34d2ec1b5adb5d52018be3dd4f536b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/67173_7d34d2ec1b5adb5d52018be3dd4f536b.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "48 bakteri",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "64 bakteri",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "96 bakteri",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "128 bakteri",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "192 bakteri",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "type": "pgk_checkbox",
+      "stimulus": "Proses pelumasan pada mesin merupakan hal penting yang harus dilakukan untuk menjaga performa kerja mesin. Kekentalan pelumas akan menurun seiring bertambahnya waktu operasi mesin. Hubungan antara waktu operasi  (jam) dan tingkat kekentalan pelumas   dapat dinyatakan oleh fungsi: Adapun untuk keperluan pemeliharaan mesin, nilai kekentalan tersebut dapat dikategorikan menjadi tiga interval berikut:     Interval Nilai     Indikator Kekentalan   Interpretasi         Tinggi   Pelumas masih sangat kental, kondisi sangat baik         Sedang   Pelumas masih layak digunakan       Rendah   Pelumas mulai encer, perlu dipertimbangkan untuk diganti",
+      "stimulus_images": [
+        {
+          "filename": "08227_0b6b74fc7486e95c28774845b4296d5a.png",
+          "latex": "\"V(x)\\,",
+          "original_src": "/tka/cbt_images/08227_0b6b74fc7486e95c28774845b4296d5a.png"
+        },
+        {
+          "filename": "08227_8f224c2bc94e2ef3cf730b4601ccf5a0.png",
+          "latex": "V(x)\\, \\leq \\, 12",
+          "original_src": "/tka/cbt_images/08227_8f224c2bc94e2ef3cf730b4601ccf5a0.png"
+        },
+        {
+          "filename": "08227_1161fbfd9be913c62c2f6c60d8842c35.png",
+          "latex": "V(x)\\, <\\, 6",
+          "original_src": "/tka/cbt_images/08227_1161fbfd9be913c62c2f6c60d8842c35.png"
+        }
+      ],
+      "question": "Setelah mesin beroperasi berapa lamakah kekentalan pelumas pada mesin tersebut masuk pada indikator sedang?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "1 jam",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "2 jam",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "3 jam",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "4 jam",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Dari selembar karton berbentuk persegi yang berukuran sisi 30 cm akan dibuat kotak tanpa tutup, dengan cara menggunting empat persegi di setiap pojok karton, seperti pada gambar. Volume kotak terbesar yang dapat dibuat adalah ....",
+      "question_images": [
+        {
+          "filename": "62193_925f43a370cc2bcce192c20158ee0776.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/62193_925f43a370cc2bcce192c20158ee0776.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "2.000 cm³",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "3.000 cm³",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "4.000 cm³",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "5.000 cm³",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "6.000 cm³",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "type": "pg_biasa",
+      "stimulus": "Perhatikan desain rak buku berikut!  sumber gambar: https://www.ufurnish.com/en-gb/p/a/16953815/decorotika-pisagor-corner-bookcase-shelving-unit-black-oak",
+      "stimulus_images": [
+        {
+          "filename": "77237_b3910350d0b2ab699ee398b3188cd24f.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/77237_b3910350d0b2ab699ee398b3188cd24f.png"
+        }
+      ],
+      "question": "Manakah perbandingan yang sama dengan ?",
+      "question_images": [
+        {
+          "filename": "77237_7996117de11f7ac86c535847971555ec.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/77237_7996117de11f7ac86c535847971555ec.png"
+        },
+        {
+          "filename": "77237_86a67aa031551ecaf40e12fc888441fb.png",
+          "latex": "\\frac {AC} {AB}",
+          "original_src": "/tka/cbt_images/77237_86a67aa031551ecaf40e12fc888441fb.png"
+        },
+        {
+          "filename": "77237_e845bdf00b2123ea7a5607cac0c7e1bd.png",
+          "latex": "\\frac {BC} {DE}",
+          "original_src": "/tka/cbt_images/77237_e845bdf00b2123ea7a5607cac0c7e1bd.png"
+        },
+        {
+          "filename": "77237_d3bd75ac4735b571d3ca147d2268a77f.png",
+          "latex": "\\frac {BD} {CE}",
+          "original_src": "/tka/cbt_images/77237_d3bd75ac4735b571d3ca147d2268a77f.png"
+        },
+        {
+          "filename": "77237_56a514866c711d7e4bb246b7113c24be.png",
+          "latex": "\\frac {AD} {AE}",
+          "original_src": "/tka/cbt_images/77237_56a514866c711d7e4bb246b7113c24be.png"
+        },
+        {
+          "filename": "77237_1276270de940791147d869efa40cc4be.png",
+          "latex": "\\frac {AH} {HI}",
+          "original_src": "/tka/cbt_images/77237_1276270de940791147d869efa40cc4be.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "\\frac {AC} {AB}",
+          "image": "77237_86a67aa031551ecaf40e12fc888441fb.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "\\frac {BC} {DE}",
+          "image": "77237_e845bdf00b2123ea7a5607cac0c7e1bd.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {BD} {CE}",
+          "image": "77237_d3bd75ac4735b571d3ca147d2268a77f.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "\\frac {AD} {AE}",
+          "image": "77237_56a514866c711d7e4bb246b7113c24be.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "\\frac {AH} {HI}",
+          "image": "77237_1276270de940791147d869efa40cc4be.png"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "type": "pg_biasa",
+      "stimulus": "Seorang teknisi sedang menyambung beberapa pipa untuk membuat saluran air lurus. Setiap pipa yang disambungkan tidak menambah panjang penuh, karena sebagian ujung pipa masuk ke dalam sambungan pipa sebelumnya sehingga panjang saluran pipa mengalami penambahan tetap. Berikut gambar panjang 1 pipa, 2 pipa yang tersambung, dan 3 pipa yang tersambung.",
+      "stimulus_images": [
+        {
+          "filename": "18987_928b89a174eaca98e50e61a96cb57443.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/18987_928b89a174eaca98e50e61a96cb57443.png"
+        }
+      ],
+      "question": "Berapa panjang pipa saluran air jika terdapat 8 pipa yang tersambung?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "3.200 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "3.170 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "3.165 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "3.100 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "2.770 cm",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "type": "pgk_benar_salah",
+      "stimulus": "Pak Budi ingin membuka cabang baru kafe dalam waktu 12 bulan. Modal awal yang ia miliki saat ini adalah Rp50.000.000,00. Total dana yang dibutuhkan untuk pembukaan cabang baru adalah Rp200.000.000,00. Untuk mencapai target tersebut, Pak Budi akan menyisihkan laba usahanya mulai bulan depan yaitu bulan Januari. Tabungan awal Pak Budi adalah Rp5.000.000,00. Karena bisnisnya sedang berkembang, ia berkomitmen untuk meningkatkan besar tabungannya secara tetap yaitu selalu bertambah sebesar Rp1.500.000,00 setiap bulannya. Berikut disajikan informasi mengenai hambatan yang dialami oleh Pak Budi:  Pada bulan ke-5 dan ke-9, Pak Budi harus mengeluarkan Rp5.000.000,00 dari tabungannya untuk biaya tak terduga. Mulai bulan ke-7, kenaikan tabungan per bulan berkurang sebesar 20% dari kenaikan awal karena persaingan usaha. Pak Budi hanya dapat membuka cabang baru jika total tabungan (termasuk modal awal) mencapai minimal Rp200.000.000,00 tanpa memperhitungkan uang yang sudah terpakai.",
+      "stimulus_images": [
+        {
+          "filename": "52132_2d7067e75b56c6829bcd92bb3c5d6085.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/52132_2d7067e75b56c6829bcd92bb3c5d6085.png"
+        }
+      ],
+      "question": "Kondisi seperti apakah yang dapat membuat Pak Budi membuka cabang baru kafe dalam waktu 12 bulan?",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "type": "pg_biasa",
+      "stimulus": "Seorang desainer percetakan digital diminta membuat kemasan souvenir berikut yang akan dicetak menggunakan kertas laminasi.   Kemasan souvenir tersebut harus didesain pola bentuk (jaring-jaring) yang belum dirakit terlebih dahulu. Desainer bisa memodifikasi pola kemasan souvenir yang belum dirakit agar bisa dicetak tidak lebih dari 1 kertas untuk pola yang sama. Satu pola kemasan utuh yang belum dirakit hanya boleh dibuat posisi horizontal atau vertikal (tidak boleh diagonal). Tersedia pilihan kertas laminasi sebagai berikut.     Jenis Kertas   Ukuran (cm)   Harga per lembar     A3   29,7 x 42   Rp6.000,00     A3+   32,9 x 48,3   Rp8.000,00     Plano   61 x 86   Rp15.000,00",
+      "stimulus_images": [
+        {
+          "filename": "72299_db97533fa1e7b6a0094191e657d75c62.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/72299_db97533fa1e7b6a0094191e657d75c62.png"
+        }
+      ],
+      "question": "Dengan anggaran maksimal Rp1.200.000,00 berapakah paling banyak kotak souvenir yang bisa dibuat?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "150 kotak kemasan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "160 kotak kemasan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "200 kotak kemasan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "300 kotak kemasan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "400 kotak kemasan.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Diketahui sin A =  , A adalah sudut tumpul. Nilai cos A = ….",
+      "question_images": [
+        {
+          "filename": "40142_b2b0e90fe3a7fb9c6dac4483037e80f8.png",
+          "latex": "\\frac {1} {a}",
+          "original_src": "/tka/cbt_images/40142_b2b0e90fe3a7fb9c6dac4483037e80f8.png"
+        },
+        {
+          "filename": "40142_8f89379a74f84bb7135a6a4cfe93efe8.png",
+          "latex": "\\frac {a} {\\sqrt {{a}^{2\\, }+1}}",
+          "original_src": "/tka/cbt_images/40142_8f89379a74f84bb7135a6a4cfe93efe8.png"
+        },
+        {
+          "filename": "40142_90283f302d3db0e305be26ebf7774d94.png",
+          "latex": "\\frac {1} {\\sqrt {{a}^{2}+1}}",
+          "original_src": "/tka/cbt_images/40142_90283f302d3db0e305be26ebf7774d94.png"
+        },
+        {
+          "filename": "40142_8c51847f8f3cffa26b1b63abeb79ad05.png",
+          "latex": "\\frac {\\sqrt {{a}^{2}-1}} {a}",
+          "original_src": "/tka/cbt_images/40142_8c51847f8f3cffa26b1b63abeb79ad05.png"
+        },
+        {
+          "filename": "40142_8b77a789f8a25d8af19266963c579ec3.png",
+          "latex": "-\\frac {\\sqrt {{a}^{2}-1}} {a}",
+          "original_src": "/tka/cbt_images/40142_8b77a789f8a25d8af19266963c579ec3.png"
+        },
+        {
+          "filename": "40142_672a861796e5d4bc135fbc5a1b282873.png",
+          "latex": "-\\frac {\\sqrt {{a}^{2}+1}} {a}",
+          "original_src": "/tka/cbt_images/40142_672a861796e5d4bc135fbc5a1b282873.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "\\frac {a} {\\sqrt {{a}^{2\\, }+1}}",
+          "image": "40142_8f89379a74f84bb7135a6a4cfe93efe8.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "\\frac {1} {\\sqrt {{a}^{2}+1}}",
+          "image": "40142_90283f302d3db0e305be26ebf7774d94.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {\\sqrt {{a}^{2}-1}} {a}",
+          "image": "40142_8c51847f8f3cffa26b1b63abeb79ad05.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "-\\frac {\\sqrt {{a}^{2}-1}} {a}",
+          "image": "40142_8b77a789f8a25d8af19266963c579ec3.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "-\\frac {\\sqrt {{a}^{2}+1}} {a}",
+          "image": "40142_672a861796e5d4bc135fbc5a1b282873.png"
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Diagram batang berikut menunjukkan produksi pakaian yang dikelola Bu Rahmi selama tahun 2020 dari bulan Januari sampai bulan Desember.",
+      "question_images": [
+        {
+          "filename": "20035_8290fb5c5d179db0ca8d6f0a8a445d0d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/20035_8290fb5c5d179db0ca8d6f0a8a445d0d.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "April",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Juni",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Juli",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "September",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "November",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "type": "pg_biasa",
+      "stimulus": "Analisis Pembebanan Struktur Jembatan  Dalam proyek pembangunan jembatan layang, tim insinyur struktur melakukan uji beban bertahap pada rangkaian balok penyangga (girder). Uji beban ini dilakukan dengan menempatkan beban statis di sepanjang titik tumpuan secara berurutan untuk melihat respons lendutan material.  (sumber: https://sindomakassar.com/read/sulsel/4974/uji-beban-240-ton-fly-over-pt-bms-dinilai-layak-digunakan-1697033442) Pada tiga titik tumpuan pertama, beban yang diaplikasikan secara berturut-turut adalah 500 kg, 1.000 kg, 2.000 kg. Tim ahli mencatat bahwa peningkatan beban di setiap titik tumpuan berikutnya direncanakan mengikuti pola tertentu untuk menguji batas elastisitas tertinggi dari beton pracetak yang digunakan.",
+      "stimulus_images": [
+        {
+          "filename": "87028_e8135501b7e77cdf4d8c5124c5fb4cea.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/87028_e8135501b7e77cdf4d8c5124c5fb4cea.png"
+        }
+      ],
+      "question": "Berdasarkan pola berat beban yang diaplikasikan tersebut, beban pada titik tumpuan ke-4, 5, dan 6 berturut-turut adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "3.000, 4.000, 5.000",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "3.000, 6.000, 12.000",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "4.000, 6.000, 8.000",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "4.000, 6.000, 12.000",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "4.000, 8.000, 16.000",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "type": "pg_biasa",
+      "stimulus": "Toko Jaya menjual alat tulis sekolah. Tiga murid SMK Merdeka yaitu Maya, Sella, dan Elang membeli alat tulis di Toko Jaya dengan rincian sebagai berikut:",
+      "stimulus_images": [
+        {
+          "filename": "91913_5dce045a546b929279ad74c2f5f37f66.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/91913_5dce045a546b929279ad74c2f5f37f66.png"
+        }
+      ],
+      "question": "Apabila Nurul, murid dari sekolah yang sama ingin membeli ketiga alat tulis tersebut masing-masing 1 buah, maka banyaknya uang yang harus dibayarkan oleh Nurul adalah ...",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp9.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rp10.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Rp10.500,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Rp11.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Rp12.000,00",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "type": "pg_biasa",
+      "stimulus": "UMKM mendapatkan pesanan membuat alas piring untuk di meja makan seperti gambar berikut.  Ukuran diameter alas piring yang dibuat adalah 35 cm. Agar tampilan menjadi lebih menarik, di sekeliling alas tersebut akan dihiasi dengan pita berwarna emas.",
+      "stimulus_images": [
+        {
+          "filename": "12490_c19935772156d9752ac0194f4dd74b01.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/12490_c19935772156d9752ac0194f4dd74b01.png"
+        }
+      ],
+      "question": "Jika harga satu meter pita emas Rp5.000,00 dan UMKM tersebut akan memproduksi sebanyak 180 buah, biaya yang dibutuhkan untuk membeli pita emas adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Rp6.930.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rp1.980.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Rp1.000.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Rp990.000,00",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Rp900.000,00",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Perhatikan data pada tabel nilai hasil ulangan matematika kelas XI SMA Z. Modus dari data tersebut adalah ....",
+      "question_images": [
+        {
+          "filename": "17865_03efca3015969271cc01dd691c5df6f3.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/17865_03efca3015969271cc01dd691c5df6f3.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "64,0",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "64,5",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "65,0",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "65,5",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "66,0",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "type": "pg_biasa",
+      "stimulus": "Analisis Pembebanan Struktur Jembatan  Dalam proyek pembangunan jembatan layang, tim insinyur struktur melakukan uji beban bertahap pada rangkaian balok penyangga (girder). Uji beban ini dilakukan dengan menempatkan beban statis di sepanjang titik tumpuan secara berurutan untuk melihat respons lendutan material.  (sumber: https://sindomakassar.com/read/sulsel/4974/uji-beban-240-ton-fly-over-pt-bms-dinilai-layak-digunakan-1697033442) Pada tiga titik tumpuan pertama, beban yang diaplikasikan secara berturut-turut adalah 500 kg, 1.000 kg, 2.000 kg. Tim ahli mencatat bahwa peningkatan beban di setiap titik tumpuan berikutnya direncanakan mengikuti pola tertentu untuk menguji batas elastisitas tertinggi dari beton pracetak yang digunakan.",
+      "stimulus_images": [
+        {
+          "filename": "05322_e8135501b7e77cdf4d8c5124c5fb4cea.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/05322_e8135501b7e77cdf4d8c5124c5fb4cea.png"
+        }
+      ],
+      "question": "Standar Keamanan Bangunan menetapkan bahwa beton pracetak tersebut akan mengalami retak struktur jika diberi beban tunggal yang melampaui 128 ton pada satu titik. Pada titik tumpuan ke-berapakah beban yang diberikan untuk pertama kalinya mencapai batas keamanan struktur?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Titik ke-7",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Titik ke-8",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Titik ke-9",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Titik ke-10",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Titik ke-11",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "type": "pgk_checkbox",
+      "stimulus": "Sebuah perusahaan mebel \"Awet\" memproduksi dua jenis produk yaitu meja dan kursi. Mengenai kebutuhan bahan dan tenaga kerja kedua produk tersebut. Berikut ini disajikan informasi mengenai kebutuhan bahan baku (kayu) dan tenaga kerja untuk pembuatan 1 unit meja dan 1 unit kursi:  Total kayu yang tersedia setiap harinya terbatas, yaitu maksimal 20 m2 per hari dan total waktu yang tersedia adalah maksimal 48 jam per hari. Keuntungan bersih dari penjualan 1 unit meja adalah Rp500.000,00 dan keuntungan bersih dari penjualan 1 unit kursi adalah Rp300.000,00.",
+      "stimulus_images": [
+        {
+          "filename": "99632_c7e1264856316d53457c41f7dc820c36.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/99632_c7e1264856316d53457c41f7dc820c36.png"
+        }
+      ],
+      "question": "Berdasarkan kondisi tersebut, manakah pernyataan yang benar mengenai banyak meja dan kursi yang dapat diproduksi serta keuntungan yang diperoleh?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Mebel tidak dapat memproduksi 6 unit meja dan 5 unit kursi secara bersamaan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Jika mebel hanya memproduksi kursi, jumlah maksimum yang dapat dihasilkan adalah 16 unit.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Memproduksi 2 meja dan 10 kursi menghasilkan keuntungan yang lebih besar daripada memproduksi 8 meja saja.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Keuntungan maksimum yang diperoleh adalah sebesar Rp5.400.00,00.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "type": "pg_biasa",
+      "stimulus": "Perhatikan kubus PQRS.TUVW berikut! Panjang rusuk kubus tersebut 12 cm. Pada gambar terlihat bahwa titik O berada tepat pada perpotongan diagonal garis PR dan QS.",
+      "stimulus_images": [
+        {
+          "filename": "88970_012bf9a66a3f32ff58813cb9b14595a0.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/88970_012bf9a66a3f32ff58813cb9b14595a0.png"
+        }
+      ],
+      "question": "Jarak titik V ke O adalah ....",
+      "question_images": [
+        {
+          "filename": "88970_546cfd4d8409b5a6869fedc81b83c76f.png",
+          "latex": "3\\sqrt {6}\\, cm",
+          "original_src": "/tka/cbt_images/88970_546cfd4d8409b5a6869fedc81b83c76f.png"
+        },
+        {
+          "filename": "88970_1d439e14e62d6f0615f0f71e5a694e8a.png",
+          "latex": "6\\sqrt {2}\\, cm",
+          "original_src": "/tka/cbt_images/88970_1d439e14e62d6f0615f0f71e5a694e8a.png"
+        },
+        {
+          "filename": "88970_fe28ff25aed1cdcc58d2363155937bdf.png",
+          "latex": "6\\sqrt {6}\\, cm",
+          "original_src": "/tka/cbt_images/88970_fe28ff25aed1cdcc58d2363155937bdf.png"
+        },
+        {
+          "filename": "88970_664746be83fb008ef274e01651aef330.png",
+          "latex": "12\\sqrt {2}\\, cm",
+          "original_src": "/tka/cbt_images/88970_664746be83fb008ef274e01651aef330.png"
+        },
+        {
+          "filename": "88970_a2b7d4c1ab3a937af2cf6f56c6139ca0.png",
+          "latex": "12\\sqrt {3}\\, cm",
+          "original_src": "/tka/cbt_images/88970_a2b7d4c1ab3a937af2cf6f56c6139ca0.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "3\\sqrt {6}\\, cm",
+          "image": "88970_546cfd4d8409b5a6869fedc81b83c76f.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "6\\sqrt {2}\\, cm",
+          "image": "88970_1d439e14e62d6f0615f0f71e5a694e8a.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "6\\sqrt {6}\\, cm",
+          "image": "88970_fe28ff25aed1cdcc58d2363155937bdf.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "12\\sqrt {2}\\, cm",
+          "image": "88970_664746be83fb008ef274e01651aef330.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "12\\sqrt {3}\\, cm",
+          "image": "88970_a2b7d4c1ab3a937af2cf6f56c6139ca0.png"
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Sekolah P akan mengirim 2 perwakilan grup band untuk Pentas Musik Nusantara pada peringatan Hari Sumpah Pemuda. Sekolah tersebut memiliki 6 grup band putra dan 4 grup band putri. Berdasarkan penilaian, kemampuan grup band tersebut merata sehingga penentuan kedua perwakilan grup  band dilakukan dengan cara mengambil secara acak satu persatu. Peluang terambil grup band putra pada pengambilan pertama dan grup band putri pada pengambilan kedua adalah ....",
+      "question_images": [
+        {
+          "filename": "93353_ba88e2a4dfbcc2652503c8b70fa7d0eb.png",
+          "latex": "\\frac {1} {5}",
+          "original_src": "/tka/cbt_images/93353_ba88e2a4dfbcc2652503c8b70fa7d0eb.png"
+        },
+        {
+          "filename": "93353_074491fe27246e89aa2eac2f8bcf31f8.png",
+          "latex": "\\frac {6} {25}",
+          "original_src": "/tka/cbt_images/93353_074491fe27246e89aa2eac2f8bcf31f8.png"
+        },
+        {
+          "filename": "93353_139a68813cbdea07eca780390d59ed63.png",
+          "latex": "\\frac {4} {15}",
+          "original_src": "/tka/cbt_images/93353_139a68813cbdea07eca780390d59ed63.png"
+        },
+        {
+          "filename": "93353_360ffa720383cf957b4e69cdf09e26b3.png",
+          "latex": "\\frac {2} {5}",
+          "original_src": "/tka/cbt_images/93353_360ffa720383cf957b4e69cdf09e26b3.png"
+        },
+        {
+          "filename": "93353_8487725a4d4d086db474b71486a60fe6.png",
+          "latex": "\\frac {13} {25}",
+          "original_src": "/tka/cbt_images/93353_8487725a4d4d086db474b71486a60fe6.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "\\frac {1} {5}",
+          "image": "93353_ba88e2a4dfbcc2652503c8b70fa7d0eb.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "\\frac {6} {25}",
+          "image": "93353_074491fe27246e89aa2eac2f8bcf31f8.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {4} {15}",
+          "image": "93353_139a68813cbdea07eca780390d59ed63.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "\\frac {2} {5}",
+          "image": "93353_360ffa720383cf957b4e69cdf09e26b3.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "\\frac {13} {25}",
+          "image": "93353_8487725a4d4d086db474b71486a60fe6.png"
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "type": "pg_biasa",
+      "stimulus": "Pada tahun 2025, sebuah perusahaan keju memproduksi dua jenis keju kemasan berbentuk gabungan bangun ruang seperti pada gambar berikut.  Karena permintaan pasar meningkat, manajer produksi mengusulkan aturan baru, yaitu: \"Mulai bulan Januari tahun depan, setiap kemasan akan diisi menjadi 75% volumenya tanpa mengubah ukuran kemasan\". Pada bulan Maret 2026, sebuah supermarket memesan 150 keju kemasan A dan 200 keju kemasan B.",
+      "stimulus_images": [
+        {
+          "filename": "16935_736554a8003d65af408a8ca39de98869.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/16935_736554a8003d65af408a8ca39de98869.png"
+        }
+      ],
+      "question": "Apabila adonan keju yang tersedia adalah 220 liter, apakah usulan manajer produksi tersebut dapat diterapkan untuk memenuhi seluruh pesanan?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Usulan tersebut tepat, karena meskipun aturan pengisian berubah, kebutuhan adonan tetap kurang dari 220 liter sehingga persediaan masih mencukupi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Usulan tersebut tepat, karena penurunan volume hanya terjadi pada Keju Kemasan A sehingga tidak memengaruhi kecukupan persediaan secara keseluruhan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Usulan tersebut kurang tepat, karena peningkatan aturan pengisian menyebabkan kebutuhan adonan bertambah, tetapi persediaan 220 liter masih mencukupi.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Usulan tersebut tidak tepat, karena peningkatan pengisian pada kedua jenis kemasan menyebabkan kebutuhan adonan melebihi 220 liter.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Usulan tersebut tidak tepat, karena perubahan aturan pengisian tidak memengaruhi kebutuhan adonan, melainkan hanya mengubah bentuk kemasan.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "type": "pgk_checkbox",
+      "stimulus": "Analisis Pembebanan Struktur Jembatan  Dalam proyek pembangunan jembatan layang, tim insinyur struktur melakukan uji beban bertahap pada rangkaian balok penyangga (girder). Uji beban ini dilakukan dengan menempatkan beban statis di sepanjang titik tumpuan secara berurutan untuk melihat respons lendutan material.  (sumber: https://sindomakassar.com/read/sulsel/4974/uji-beban-240-ton-fly-over-pt-bms-dinilai-layak-digunakan-1697033442) Pada tiga titik tumpuan pertama, beban yang diaplikasikan secara berturut-turut adalah 500 kg, 1.000 kg, 2.000 kg. Tim ahli mencatat bahwa peningkatan beban di setiap titik tumpuan berikutnya direncanakan mengikuti pola tertentu untuk menguji batas elastisitas tertinggi dari beton pracetak yang digunakan.",
+      "stimulus_images": [
+        {
+          "filename": "29810_e8135501b7e77cdf4d8c5124c5fb4cea.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/29810_e8135501b7e77cdf4d8c5124c5fb4cea.png"
+        }
+      ],
+      "question": "Konsultan pengawas ingin menghitung total akumulasi beban (tonase total) yang ditahan oleh jembatan selama pengujian di 5 hingga 7 titik tumpuan pertama untuk memastikan kekuatan fondasi dasar. Tim logistik kemudian menyiapkan beban statis seberat 32 ton. Pilihlah semua pernyataan yang benar terkait dengan tonase total dan persediaan beban statis tersebut. Jawaban benar lebih dari satu.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Beban statis yang disediakan tim logistik cukup untuk pengujian tonase hingga titik tumpuan ke-6.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Diperlukan tambahan beban statis sebesar 30 ton apabila pengujian tonase dilakukan hingga titik tumpuan ke-7.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Terdapat sisa beban sebesar 15,5 ton setelah proses alokasi pengujian tonase hingga titik tumpuan ke-5 selesai.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Beton melewati batas beban setelah titik tumpuan ke-5 saat batas elastisitas kumulatif beton pracetak adalah 20 ton.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "type": "pgk_benar_salah",
+      "stimulus": "Manajer pemasaran sebuah biro perjalanan di Pulau Wisata Numerasi sedang merancang strategi promosi untuk periode berikutnya. Ia harus memastikan bahwa anggaran iklan yang terbatas dialokasikan pada target pasar yang memiliki potensi jumlah wisatawan paling besar. Manajer tersebut menggunakan dua data berikut.  Tabel Aktivitas Favorit berdasarkan Negara Asal.     Negara Asal   Aktivitas Favorit     Australia   80% Wisata Budaya dan 20% Berselancar dan Pantai     China   40% Belanja dan 60% Wisata Kuliner     Malaysia   90% Perawatan Tubuh dan 10% Wisata Budaya     Jepang   70% Wisata Kuliner dan 30% Belanja",
+      "stimulus_images": [
+        {
+          "filename": "92407_88954bddd7cd548d82e63fb1a1fcf3c9.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/92407_88954bddd7cd548d82e63fb1a1fcf3c9.png"
+        }
+      ],
+      "question": "Berdasarkan data yang diberikan, bagaimana potensi jumlah wisatawan pada biro perjalanan tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "type": "pg_biasa",
+      "stimulus": "Perusahaan Kertas \"Mayang\" sedang merapikan data gaji bulanan karyawan tahun 2025 untuk bahan penyusunan laporan pajak. Namun, data pada salah satu rentang gaji tidak terbaca. Berikut data gaji bulanan karyawan di Perusahaan Kertas \"Mayang\":  Diketahui bahwa modus gaji karyawan di Perusahaan Kertas “Mayang” adalah Rp15.750.000,00.",
+      "stimulus_images": [
+        {
+          "filename": "80296_bde963b0a490040f5d41d735f15f2108.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/80296_bde963b0a490040f5d41d735f15f2108.png"
+        }
+      ],
+      "question": "Berapakah nilai data yang tidak terbaca tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "6",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "14",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "20",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "21",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "28",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "type": "pg_biasa",
+      "stimulus": "Dalam sebuah acara pameran wisata internasional, panitia penyelenggara menyediakan doorprize untuk para pengunjung. Pengunjung yang berkesempatan mendapatkan hadiah doorprize adalah mereka yang termasuk 40 pengunjung pertama. Mereka akan diminta mengambil satu kupon secara acak. Apabila beruntung, kupon yang diperoleh bertuliskan salah satu jenis hadiah, sedangkan apabila belum beruntung maka akan memperoleh voucher kosong. Apabila kupon yang terambil adalah voucher kosong, maka kupon dimasukkan lagi ke dalam wadah. Kupon doorprize yang disediakan adalah sebagai berikut:  5 tiket gratis pp Jakarta-Kuala Lumpur 5 tiket gratis pp Jakarta-Bangkok 10 vouchermenginap 3 malam di hotel bintang lima 10 voucher menginap 3 malam di hotel bintang empat 10 voucherkosong  Anto adalah orang ke-6 yang berkesempatan mengambil hadiah doorprize. Diketahui bahwa 1 tiket pp Jakarta-Kuala Lumpur, 1 tiket pp Jakarta-Bangkok, dan 2 voucher menginap di hotel bintang empat sudah terambil. Adapun satu orang lainnya gagal mendapatkan doorprize. Selanjutnya Anto yang berkesempatan mengambil satu hadiah secara acak.",
+      "stimulus_images": [],
+      "question": "Berapa peluang Anto mendapatkan tiket gratis pp Jakarta-Kuala Lumpur?",
+      "question_images": [
+        {
+          "filename": "76204_6e8a964250bbd0f1c66c31d3084375cb.png",
+          "latex": "\\frac {1} {10}",
+          "original_src": "/tka/cbt_images/76204_6e8a964250bbd0f1c66c31d3084375cb.png"
+        },
+        {
+          "filename": "76204_94b52465ff963f48836f3c53b4fa54a8.png",
+          "latex": "\\frac {1} {9}",
+          "original_src": "/tka/cbt_images/76204_94b52465ff963f48836f3c53b4fa54a8.png"
+        },
+        {
+          "filename": "76204_d00c3092dea459d38266de8ebd7bb8c0.png",
+          "latex": "\\frac {4} {35}",
+          "original_src": "/tka/cbt_images/76204_d00c3092dea459d38266de8ebd7bb8c0.png"
+        },
+        {
+          "filename": "76204_a82b17a66fc3bf6f3dfae772442afd5b.png",
+          "latex": "\\frac {5} {36}",
+          "original_src": "/tka/cbt_images/76204_a82b17a66fc3bf6f3dfae772442afd5b.png"
+        },
+        {
+          "filename": "91699_badb99aa8ddf59c979aaaaa10a5e2a6a.png",
+          "latex": "\\frac {1} {7}",
+          "original_src": "/tka/cbt_images/91699_badb99aa8ddf59c979aaaaa10a5e2a6a.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "\\frac {1} {10}",
+          "image": "76204_6e8a964250bbd0f1c66c31d3084375cb.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "\\frac {1} {9}",
+          "image": "76204_94b52465ff963f48836f3c53b4fa54a8.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {4} {35}",
+          "image": "76204_d00c3092dea459d38266de8ebd7bb8c0.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "\\frac {5} {36}",
+          "image": "76204_a82b17a66fc3bf6f3dfae772442afd5b.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "\\frac {1} {7}",
+          "image": "91699_badb99aa8ddf59c979aaaaa10a5e2a6a.png"
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "type": "pgk_benar_salah",
+      "stimulus": "Diketahui kubus ABCDEFGH seperti pada gambar.",
+      "stimulus_images": [
+        {
+          "filename": "31359_01a355f701338519cca03bb689b03427.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/31359_01a355f701338519cca03bb689b03427.png"
+        }
+      ],
+      "question": "Bagaimana hubungan antara setiap rusuk atau setiap garis yang menghubungkan dua titik pada sudut tersebut?",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "",
+      "question_images": [
+        {
+          "filename": "13733_f5d65862b7fd46841091085827fb3783.png",
+          "latex": "\\frac {1} {4}+\\, \\frac {7} {4}\\, \\times \\, \\frac {8} {21}\\, =\\, ....",
+          "original_src": "/tka/cbt_images/13733_f5d65862b7fd46841091085827fb3783.png"
+        },
+        {
+          "filename": "56549_a3d3e4919f37d1b31d8095fa8e333a1f.png",
+          "latex": "\\frac {8} {21}",
+          "original_src": "/tka/cbt_images/56549_a3d3e4919f37d1b31d8095fa8e333a1f.png"
+        },
+        {
+          "filename": "56549_030dce7f7746acd4bc4b471c044542b8.png",
+          "latex": "\\frac {8} {11}",
+          "original_src": "/tka/cbt_images/56549_030dce7f7746acd4bc4b471c044542b8.png"
+        },
+        {
+          "filename": "56549_db302896bfc802d93220fbace3a48da1.png",
+          "latex": "\\frac {11} {12}",
+          "original_src": "/tka/cbt_images/56549_db302896bfc802d93220fbace3a48da1.png"
+        },
+        {
+          "filename": "56549_44e708f4b28ce9544fcfdb048c866712.png",
+          "latex": "\\frac {16} {21}",
+          "original_src": "/tka/cbt_images/56549_44e708f4b28ce9544fcfdb048c866712.png"
+        },
+        {
+          "filename": "56549_6f0950c1f5d925ef987bbb586879b2e6.png",
+          "latex": "2\\frac {8} {21}",
+          "original_src": "/tka/cbt_images/56549_6f0950c1f5d925ef987bbb586879b2e6.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "\\frac {8} {21}",
+          "image": "56549_a3d3e4919f37d1b31d8095fa8e333a1f.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "\\frac {8} {11}",
+          "image": "56549_030dce7f7746acd4bc4b471c044542b8.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "\\frac {11} {12}",
+          "image": "56549_db302896bfc802d93220fbace3a48da1.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "\\frac {16} {21}",
+          "image": "56549_44e708f4b28ce9544fcfdb048c866712.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "2\\frac {8} {21}",
+          "image": "56549_6f0950c1f5d925ef987bbb586879b2e6.png"
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "type": "pg_biasa",
+      "stimulus": "Amel memiliki toko bunga. Amel selalu mencatat hasil penjualannya. Hasil penjualannya digunakan untuk bahan evaluasi dan pertimbangan saat membeli bunga. Berikut disajikan data mengenai keuntungan dari penjualan bunga dari bulan Januari sampai Juli 2025:",
+      "stimulus_images": [
+        {
+          "filename": "45908_139c8958a1a3b453dee84e634a3e27d0.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/45908_139c8958a1a3b453dee84e634a3e27d0.png"
+        }
+      ],
+      "question": "Berdasarkan data tersebut, keuntungan pada bulan manakah yang mengalami penurunan signifikan?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Februari",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Maret",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "April",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Mei",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Juni",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "type": "pgk_benar_salah",
+      "stimulus": "Mirna akan memproduksi dua jenis kue dengan modal Rp8.000.000,00. Biaya produksi kue bolu sebesar Rp15.000,00 per kotak dan dijual dengan laba 40%. Sedangkan biaya produksi kue brownies sebesar Rp20.000,00 per kotak dan dijual dengan laba 35%. Setiap harinya, Mirna dapat memproduksi paling banyak 500 kotak kue.",
+      "stimulus_images": [],
+      "question": "Apabila Mirna ingin memperoleh keuntungan maksimum, tentukanBenar atau Salah untuk setiap pernyataan berikut!",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "type": "pg_biasa",
+      "stimulus": "Desain jendela kaca dari sebuah komplek perumahan (cluster) yang akan segera dibangun beserta ukurannya diberikan pada gambar berikut  Pihak pengembang konstruksi berencana akan membangun 20 rumah di dalam komplek tersebut. Setiap rumah memiliki satu desain jendela seperti pada gambar.",
+      "stimulus_images": [
+        {
+          "filename": "62210_455b29c0883de19eb39a076e22a81983.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/62210_455b29c0883de19eb39a076e22a81983.png"
+        }
+      ],
+      "question": "Berdasarkan jumlah rumah dan desain jendela yang akan dibangun, maka total luas kebutuhan kaca yang harus dipersiapkan pihak pengembang adalah ....",
+      "question_images": [
+        {
+          "filename": "62210_a90f460b601f15048879d9e21bebb4ae.png",
+          "latex": "11\\, {m}^{2}",
+          "original_src": "/tka/cbt_images/62210_a90f460b601f15048879d9e21bebb4ae.png"
+        },
+        {
+          "filename": "62210_ce846ccb228be291b3c09c0591b3a201.png",
+          "latex": "14\\, {m}^{2}",
+          "original_src": "/tka/cbt_images/62210_ce846ccb228be291b3c09c0591b3a201.png"
+        },
+        {
+          "filename": "62210_937ad9a37b2b8292c33182e43d39d920.png",
+          "latex": "140\\, {m}^{2}",
+          "original_src": "/tka/cbt_images/62210_937ad9a37b2b8292c33182e43d39d920.png"
+        },
+        {
+          "filename": "62210_0bfe3a2243a2a9c103ce9e265c498d7c.png",
+          "latex": "220\\, {m}^{2}",
+          "original_src": "/tka/cbt_images/62210_0bfe3a2243a2a9c103ce9e265c498d7c.png"
+        },
+        {
+          "filename": "62210_b6c3eb97eb71bd325a57aefcdffe6462.png",
+          "latex": "280\\, {m}^{2}",
+          "original_src": "/tka/cbt_images/62210_b6c3eb97eb71bd325a57aefcdffe6462.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "11\\, {m}^{2}",
+          "image": "62210_a90f460b601f15048879d9e21bebb4ae.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "14\\, {m}^{2}",
+          "image": "62210_ce846ccb228be291b3c09c0591b3a201.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "140\\, {m}^{2}",
+          "image": "62210_937ad9a37b2b8292c33182e43d39d920.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "220\\, {m}^{2}",
+          "image": "62210_0bfe3a2243a2a9c103ce9e265c498d7c.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "280\\, {m}^{2}",
+          "image": "62210_b6c3eb97eb71bd325a57aefcdffe6462.png"
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [
+        {
+          "filename": "65502_c1f1ffe270f76a3a1535bde803228b4d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/65502_c1f1ffe270f76a3a1535bde803228b4d.png"
+        }
+      ],
+      "question": "Tentukan Benar atau Salah untuk setiap pernyataan berikut terkait dengan besar sudut pada trapesium 𝐴𝐵𝐶𝐷!",
+      "question_images": [
+        {
+          "filename": "65502_3a1a1a2f9ce77db7f1cac78b777aeac3.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/65502_3a1a1a2f9ce77db7f1cac78b777aeac3.png"
+        },
+        {
+          "filename": "65502_288dbf2e00b1bddebeddf4aa378cf706.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/65502_288dbf2e00b1bddebeddf4aa378cf706.png"
+        },
+        {
+          "filename": "65502_9f675a63ab39ad85502209c54a02a18f.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/65502_9f675a63ab39ad85502209c54a02a18f.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [
+        {
+          "filename": "67107_be11e2276f265c5b6e2674d8ba2d2c3d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/67107_be11e2276f265c5b6e2674d8ba2d2c3d.png"
+        }
+      ],
+      "question": "Putuskan apakah dengan tambahan informasi Pernyataan (1) dan Pernyataan (2) berikut cukup untuk menjawab pertanyaan tersebut!(1)  Luas trapesium ABCD = 24. (2)  BC = 10 dan CD = 5.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Pernyataan (1) SAJA cukup untuk menjawab pertanyaan, tetapi Pernyataan (2) SAJA tidak cukup.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Pernyataan (2) SAJA cukup untuk menjawab pertanyaan, tetapi Pernyataan (1) SAJA tidak cukup.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "DUA pernyataan BERSAMA-SAMA cukup untuk menjawab pertanyaan, tetapi SATU pernyataan SAJA tidak cukup.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Pernyataan (1) SAJA cukup untuk menjawab pertanyaan dan Pernyataan (2) SAJA cukup.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Pernyataan (1) dan Pernyataan (2) tidak cukup untuk menjawab pertanyaan.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 41,
+      "type": "pg_biasa",
+      "stimulus": "Suatu tangga dengan panjang 6 meter disandarkan pada dinding vertikal. Sudut yang dibentuk tangga dengan lantai adalah 60°.",
+      "stimulus_images": [
+        {
+          "filename": "62066_59d3ef955657eaf8f5a160bbd6c2b198.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/62066_59d3ef955657eaf8f5a160bbd6c2b198.png"
+        }
+      ],
+      "question": "Tinggi dinding yang disentuh ujung atas tangga adalah ....",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "3 meter",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "3√2 meter",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "3√3 meter",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "4√2 meter",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "4√3 meter",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 42,
+      "type": "pgk_checkbox",
+      "stimulus": "Rata-rata nilai ulangan 17 murid dari skala 100 adalah 83. Ada 3 murid yang mengikuti ujian susulan sehingga rata-rata nilai ulangan dari 20 murid menjadi 82.",
+      "stimulus_images": [],
+      "question": "Tentukan semua pernyataan berikut yang benar terkait dengan nilai ketiga murid yang mengikuti ujian susulan! Jawaban benar lebih dari satu.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Jumlah nilai ketiga murid yang mengikuti ujian susulan adalah 229.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Rata-rata nilai ketiga murid yang mengikuti ujian susulan lebih dari 70.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Nilai terendah dari ketiga murid yang mengikuti ujian susulan tidak kurang dari 29.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Nilai tertinggi dari ketiga murid yang mengikuti ujian susulan lebih dari 76.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Jangkauan data nilai ketiga murid yang mengikuti ujian susulan lebih dari dari 72.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 43,
+      "type": "pgk_benar_salah",
+      "stimulus": "Fungsi didefinisikan oleh",
+      "stimulus_images": [
+        {
+          "filename": "58301_e1f215c43d145ce6d57d8f93cf319473.png",
+          "latex": "f(x)\\, =\\, 4({x}^{2}-8x+12)",
+          "original_src": "/tka/cbt_images/58301_e1f215c43d145ce6d57d8f93cf319473.png"
+        }
+      ],
+      "question": "Tentukan Benar atau Salah pada setiap pernyataan berikut yang terkait dengan grafik fungsi !",
+      "question_images": [
+        {
+          "filename": "58301_c7903bda280f1605697c7c1fb1509485.png",
+          "latex": "f",
+          "original_src": "/tka/cbt_images/58301_c7903bda280f1605697c7c1fb1509485.png"
+        },
+        {
+          "filename": "33292_8a3e9977ced1021279e2043ba90da806.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/33292_8a3e9977ced1021279e2043ba90da806.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 44,
+      "type": "pgk_checkbox",
+      "stimulus": "Tagihan listrik bulanan di sebuah apartemen dihitung berdasarkan jumlah energi listrik (dalam kWh) yang digunakan. Apartemen tersebut masih menggunakan meteran listrik yang berbeda dari penggunaan token. Biaya tagihan listrik dihitung dengan rumus: Keterangan:        : total tagihan listrik (dalam rupiah)   : jumlah pemakaian energi listrik (kwh) Andi merupakan salah satu penghuni apartemen tersebut yang menerima tagihan pembayaran listrik seperti terlihat pada gambar berikut:  Dia menyadari bahwa penggunaan listrik sebulan terakhir lebih dari penggunaan listrik biasanya.",
+      "stimulus_images": [
+        {
+          "filename": "44044_164f5392e1e6f44c3a774f14c12d5e37.png",
+          "latex": "f(x)\\, =\\, 1.350x\\, +\\, 25.000",
+          "original_src": "/tka/cbt_images/44044_164f5392e1e6f44c3a774f14c12d5e37.png"
+        },
+        {
+          "filename": "44044_a8a06eb6d7abbbb34dc50b57ab3e11ad.png",
+          "latex": "f(x)",
+          "original_src": "/tka/cbt_images/44044_a8a06eb6d7abbbb34dc50b57ab3e11ad.png"
+        },
+        {
+          "filename": "44044_8942e852504e3643bf634c418ea22ebe.png",
+          "latex": "x",
+          "original_src": "/tka/cbt_images/44044_8942e852504e3643bf634c418ea22ebe.png"
+        },
+        {
+          "filename": "44044_e631f09a579b3dc314ca01f2f776555c.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/44044_e631f09a579b3dc314ca01f2f776555c.png"
+        }
+      ],
+      "question": "Berdasarkan informasi tersebut, biasanya berapa besar penggunaan listrik di apartemen Andi?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "85 kWh",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "90 kWh",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "100 kWh",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "120 kWh",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "137 kWh",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 45,
+      "type": "pgk_benar_salah",
+      "stimulus": "Pak Andi akan mempresentasikan desain gedung berukuran 60 cm × 60 cm menggunakan proyektor ke layar berukuran 2,4 meter × 1,8 meter yang dipasang di depan ruang rapat (orientasi horizontal). Proyektor menghasilkan pembesaran proporsional tergantung jaraknya dari layar. Pak Andi menempatkan proyektor dengan jarak yang menghasilkan skala pembesaran seperti terlihat pada gambar berikut:",
+      "stimulus_images": [
+        {
+          "filename": "10404_f9c9ac794c654d40d2df88cf5ad4c586.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/10404_f9c9ac794c654d40d2df88cf5ad4c586.png"
+        }
+      ],
+      "question": "Bagaimanakah tampilan desain gedung di layar?",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 46,
+      "type": "pg_biasa",
+      "stimulus": "Luki adalah panitia bazar di sekolahnya. Dia mendapat tugas dari ketua pelaksana untuk membuat kupon. Dia ingin di setiap kupon memiliki kode akses yang unik. Kode akses kupon bazar itu memiliki lima karakter dengan format sebagai berikut:",
+      "stimulus_images": [
+        {
+          "filename": "21232_49c208306a27969b494b0ae6af1cdaab.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/21232_49c208306a27969b494b0ae6af1cdaab.png"
+        }
+      ],
+      "question": "dengan A, B, dan C menyatakan huruf, serta X dan Y menyatakan angka. Tidak boleh ada angka dan huruf yang diulang. Berapakah berapa banyak kode akses berbeda yang dapat dibuat?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "1.263.600",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "1.352.000",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "1.404.000",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "1.423.656",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "1.757.600",
+          "latex": "",
+          "image": null
+        }
+      ]
+    }
+  ]
+}

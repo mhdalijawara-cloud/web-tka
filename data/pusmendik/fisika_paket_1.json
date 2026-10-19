@@ -1,0 +1,938 @@
+{
+  "subject": "fisika",
+  "subject_name": "Fisika",
+  "paket": 1,
+  "total_questions": 20,
+  "questions": [
+    {
+      "number": 1,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Dua orang mencoba cara yang berbeda untuk menembak sasaran pada titik C. Orang pertama menggunakan bola A dan diletakkan di tepi meja. Orang kedua menggunakan bola B yang berada di lantai. Bola A dan B kemudian dihentakkan secara bersamaan pada arah mendatar (g = 10 m.s-2 dan gesekan diabaikan).",
+      "question_images": [
+        {
+          "filename": "01896_46d4c32348c2dd427b14f92222413698.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/01896_46d4c32348c2dd427b14f92222413698.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Sebuah meja pembuat perkakas keramik dapat berputar secara horizontal terhadap titik tengah dan di atas meja tersebut terdapat sebuah beban seperti pada gambar.",
+      "question_images": [
+        {
+          "filename": "24342_437570c801e52163e79a6c9d0379704a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/24342_437570c801e52163e79a6c9d0379704a.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "8 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "16 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "24 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "30 cm",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "40 cm",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Perhatikan gambar peristiwa tumbukan antara mobil boks dan mobil sedan berikut ini.",
+      "question_images": [
+        {
+          "filename": "89639_0365f6f2126396bb3220ae607ae0c92a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/89639_0365f6f2126396bb3220ae607ae0c92a.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Seorang pengendara motor (PM) mengendarai motornya dengan kecepatan tertentu berada pada satu garis lurus dengan mobil ambulans (MA) yang saat itu membunyikan sirine dengan frekuensi tertentu yang juga bergerak dengan kecepatan tertentu. Saat itu nilai kecepatan gerak PM lebih kecil dari MA.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "PM bergerak mendekati MA, MA bergerak mendekati PM",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "PM bergerak menjauhi MA, MA bergerak mendekati PM",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "PM diam, MA bergerak mendekati PM",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "PM bergerak mendekati MA, MA bergerak menjauhi PM",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "PM bergerak menjauhi MA, MA diam",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Perhatikan gambar berikut!",
+      "question_images": [
+        {
+          "filename": "93293_75cf9078fd8375cbac9f01d0df41132b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/93293_75cf9078fd8375cbac9f01d0df41132b.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "1 : 2",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "2 : 3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "3 : 4",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "4 : 5",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "5 : 4",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Di sebuah laboratorium fisika, dua benda kecil bermuatan listrik diletakkan di atas meja isolator. Peneliti dapat mengatur jarak antara kedua benda menggunakan penggeser, lalu mengukur gaya listrik yang timbul dengan sensor gaya digital.",
+      "question_images": [
+        {
+          "filename": "16247_cc06d5de91a5d3d1aa4788ea3c0cf046.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/16247_cc06d5de91a5d3d1aa4788ea3c0cf046.png"
+        },
+        {
+          "filename": "16247_508eaf9b7fb3062655e3d1a50633ee7d.png",
+          "latex": "{q}_{1}\\, =\\, 0,1\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,2\\, .\\, {10}^{-6}\\, C",
+          "original_src": "/tka/cbt_images/16247_508eaf9b7fb3062655e3d1a50633ee7d.png"
+        },
+        {
+          "filename": "16247_ea9be14eb0a9a04f94c4fba259a22a58.png",
+          "latex": "{q}_{1}\\, =\\, 0,2\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,1\\, .\\, {10}^{-6}\\, C",
+          "original_src": "/tka/cbt_images/16247_ea9be14eb0a9a04f94c4fba259a22a58.png"
+        },
+        {
+          "filename": "16247_69a71dfc72a38e884e696c53b970dd43.png",
+          "latex": "{q}_{1}\\, =\\, 1,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,5\\, .\\, {10}^{-6}\\, C",
+          "original_src": "/tka/cbt_images/16247_69a71dfc72a38e884e696c53b970dd43.png"
+        },
+        {
+          "filename": "16247_ca5b2e527bdbd7b0117e1dd9f3e801cd.png",
+          "latex": "{q}_{1}\\, =\\, 2,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 1,0\\, .\\, {10}^{-6}\\, C",
+          "original_src": "/tka/cbt_images/16247_ca5b2e527bdbd7b0117e1dd9f3e801cd.png"
+        },
+        {
+          "filename": "16247_894f7338a224daab2bf3cca7187f3f49.png",
+          "latex": "{q}_{1}\\, =\\, 3,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 1,5\\, .\\, {10}^{-6}\\, C",
+          "original_src": "/tka/cbt_images/16247_894f7338a224daab2bf3cca7187f3f49.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "{q}_{1}\\, =\\, 0,1\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,2\\, .\\, {10}^{-6}\\, C",
+          "image": "16247_508eaf9b7fb3062655e3d1a50633ee7d.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "{q}_{1}\\, =\\, 0,2\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,1\\, .\\, {10}^{-6}\\, C",
+          "image": "16247_ea9be14eb0a9a04f94c4fba259a22a58.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "{q}_{1}\\, =\\, 1,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 0,5\\, .\\, {10}^{-6}\\, C",
+          "image": "16247_69a71dfc72a38e884e696c53b970dd43.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "{q}_{1}\\, =\\, 2,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 1,0\\, .\\, {10}^{-6}\\, C",
+          "image": "16247_ca5b2e527bdbd7b0117e1dd9f3e801cd.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "{q}_{1}\\, =\\, 3,0\\, .\\, {10}^{-6}\\, C;\\, {q}_{2}\\, =\\, 1,5\\, .\\, {10}^{-6}\\, C",
+          "image": "16247_894f7338a224daab2bf3cca7187f3f49.png"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Suatu rangkaian listrik lampu warna-warni menggunakan lampu dengan resistansi tertulis pada bagian lampu.",
+      "question_images": [
+        {
+          "filename": "26776_63f2c45072a60b2922a023ddccb28332.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/26776_63f2c45072a60b2922a023ddccb28332.png"
+        },
+        {
+          "filename": "26776_c6c52899188ed5beee95412a5cec44eb.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/26776_c6c52899188ed5beee95412a5cec44eb.png"
+        },
+        {
+          "filename": "26776_f15f6709a998270456c1166392cc8c0e.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/26776_f15f6709a998270456c1166392cc8c0e.png"
+        },
+        {
+          "filename": "26776_2af2c83de9870eb7b5423e1a976b13a2.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/26776_2af2c83de9870eb7b5423e1a976b13a2.png"
+        },
+        {
+          "filename": "26776_340125c939274c997695c4c041621f77.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/26776_340125c939274c997695c4c041621f77.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "",
+          "text": "Warna Lampu\nPembacaan",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "Lampu tersebut memiliki resistansi 15 ohm",
+          "latex": "",
+          "image": "26776_63f2c45072a60b2922a023ddccb28332.png"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Perhatikan gambar pipa U berikut ini!",
+      "question_images": [
+        {
+          "filename": "28914_375257aca64731035c6b292e7968d33d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/28914_375257aca64731035c6b292e7968d33d.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "666,7 kg.m‑3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "750,0 kg.m‑3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "800,0 kg.m‑3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "850,5 kg.m‑3",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "900,0 kg.m‑3",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Sayap suatu pesawat terbang mainan mempunyai luasdan udara yang mengalir horizontal melalui sayap pesawat terbang sehingga kecepatan di bagian atas sayap pesawatdan bagian bawah sayap.",
+      "question_images": [
+        {
+          "filename": "41778_e17d19b36c47aa54e28a5b9fb9e4fcc4.png",
+          "latex": "{10\\, m}^{2}",
+          "original_src": "/tka/cbt_images/41778_e17d19b36c47aa54e28a5b9fb9e4fcc4.png"
+        },
+        {
+          "filename": "41778_101340832f0d58d8ae8b4ed70f43a1af.png",
+          "latex": "{40\\, m.s}^{-1}",
+          "original_src": "/tka/cbt_images/41778_101340832f0d58d8ae8b4ed70f43a1af.png"
+        },
+        {
+          "filename": "41778_04cddba03be07e712dfac7323bc3cddc.png",
+          "latex": "{30\\, m.s}^{-1}",
+          "original_src": "/tka/cbt_images/41778_04cddba03be07e712dfac7323bc3cddc.png"
+        },
+        {
+          "filename": "41778_f7f5318b60f8c3ab8b141a077cc633f7.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/41778_f7f5318b60f8c3ab8b141a077cc633f7.png"
+        },
+        {
+          "filename": "41778_19b167be0233ad973a2e73303195bbc9.png",
+          "latex": "{1,29\\, kg.m}^{-3}",
+          "original_src": "/tka/cbt_images/41778_19b167be0233ad973a2e73303195bbc9.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "4.515 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "3.000 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "1.515 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "515 N",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "0 N",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Balok P yang memiliki volumeterapung di atas suatu zat cairdengan 1/2 bagian balok muncul di atas permukaan zat cair seperti gambar. Balok P kemudian diikat dengan balok Q menggunakan tali yang massanya diabaikan dan dimasukkan ke dalam zat cair yang sama.",
+      "question_images": [
+        {
+          "filename": "66560_aea7a85d9f667a69b388f6d609be4375.png",
+          "latex": "{200\\, cm}^{3}",
+          "original_src": "/tka/cbt_images/66560_aea7a85d9f667a69b388f6d609be4375.png"
+        },
+        {
+          "filename": "66560_af03c2ad5c8171a3c2e754880969c877.png",
+          "latex": "\\left ( {{\\rho }_{c}={1,3\\, g.cm}^{-3}} \\right )",
+          "original_src": "/tka/cbt_images/66560_af03c2ad5c8171a3c2e754880969c877.png"
+        },
+        {
+          "filename": "66560_16e4fd3893961592d67554619b8684e5.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/66560_16e4fd3893961592d67554619b8684e5.png"
+        },
+        {
+          "filename": "66560_fac033236b27e0e9d59b111734029ee1.png",
+          "latex": "{Q\\, =\\, 3,9\\, g.cm}^{-3}",
+          "original_src": "/tka/cbt_images/66560_fac033236b27e0e9d59b111734029ee1.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "50 g",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "130 g",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "195 g",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "395 g",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "520 g",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Pada suatu percobaan, kecepatan sebuah benda diamati selama 4 sekon dan tabel berikut menunjukkan data kecepatan benda tersebut.",
+      "question_images": [
+        {
+          "filename": "50068_273d97dead1978bd7ab5127f4a041111.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50068_273d97dead1978bd7ab5127f4a041111.png"
+        },
+        {
+          "filename": "50068_ca40489487288966e3aaf7a02f64cc15.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50068_ca40489487288966e3aaf7a02f64cc15.png"
+        },
+        {
+          "filename": "50068_4be097469ad6414657b07e3f4ecd2021.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50068_4be097469ad6414657b07e3f4ecd2021.png"
+        },
+        {
+          "filename": "50068_1fa66841be7ebef98df0858b4b2bad2b.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50068_1fa66841be7ebef98df0858b4b2bad2b.png"
+        },
+        {
+          "filename": "50068_eaa6d6451c454edb4b64645ae58f6247.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50068_eaa6d6451c454edb4b64645ae58f6247.png"
+        },
+        {
+          "filename": "50068_3a3742a00d8095012ebd005df22c856a.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/50068_3a3742a00d8095012ebd005df22c856a.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "",
+          "latex": "",
+          "image": "50068_ca40489487288966e3aaf7a02f64cc15.png"
+        },
+        {
+          "id": "B",
+          "text": "",
+          "latex": "",
+          "image": "50068_4be097469ad6414657b07e3f4ecd2021.png"
+        },
+        {
+          "id": "C",
+          "text": "",
+          "latex": "",
+          "image": "50068_1fa66841be7ebef98df0858b4b2bad2b.png"
+        },
+        {
+          "id": "D",
+          "text": "",
+          "latex": "",
+          "image": "50068_eaa6d6451c454edb4b64645ae58f6247.png"
+        },
+        {
+          "id": "E",
+          "text": "",
+          "latex": "",
+          "image": "50068_3a3742a00d8095012ebd005df22c856a.png"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Seorang pemain sirkus berjalan di atas seutas tali sambil memegang tongkat panjang yang ujung-ujungnya terkulai ke bawah. Gambar berikut ini memperlihatkan situasi tersebut.",
+      "question_images": [
+        {
+          "filename": "27198_48ac3029613d80a30c0d0659d26d6f90.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/27198_48ac3029613d80a30c0d0659d26d6f90.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "memperbesar gaya berat sehingga pergerakan ke samping menjadi lebih lambat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "menyebabkan pusat massa sistem berada di bawah titik tumpu yang membuat sistem seimbang",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "memperbesar gaya gesek antara kaki dan tali sehingga orang dapat bertahan lebih lama di tali",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "menarik tubuh ke bawah sehingga tubuh pemain sirkus tidak mudah terangkat",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "menambah gaya dorong ke depan agar pemain sirkus dapat lebih mudah dan cepat berjalan",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Pada botol semprotan parfum, udara ditiupkan cepat ke atas lubang tabung sempit yang tersambung ke cairan parfum.",
+      "question_images": [
+        {
+          "filename": "35088_cd907bfb0c0e3a22c2381d3590690bf7.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/35088_cd907bfb0c0e3a22c2381d3590690bf7.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Udara yang mengalir cepat di atas permukaan parfum menyebabkan tekanan di tempat itu bertambah besar.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Tekanan di permukaan cairan parfum menjadi lebih tinggi daripada tekanan di atasnya.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Cairan parfum terdorong naik ke atas karena faktor tekanan udara luar.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Volume cairan yang berada di dalam botol parfum mempengaruhi aliran parfum.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Alat ini memanfaatkan hukum Pascal dalam proses penyemprotannya.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Seorang pemanah sedang mengikuti lomba menombak ikan di kolam dangkal. Ilusi yang dialaminya seperti tampak pada gambar berikut:",
+      "question_images": [
+        {
+          "filename": "32250_d3fdf9d003416b7943df57c410161c00.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/32250_d3fdf9d003416b7943df57c410161c00.png"
+        }
+      ],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Pada eksperimen termodinamika sebuah mesin Carnot beroperasi antara reservoir suhu tinggi 800 K dan reservoir suhu rendah 480 K. Seorang peneliti ingin mengganti mesin tersebut dengan mesin Carnot yang memiliki efisiensi lebih tinggi agar proses eksperimen menjadi lebih efektif. Mesin Carnot mana saja yang dapat digunakan sebagai pengganti mesin Carnot semula?",
+      "question_images": [],
+      "options": [
+        {
+          "id": "A",
+          "text": "Suhu tinggi 600 K dan suhu rendah 480 K.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Suhu tinggi 800 K dan suhu rendah 400 K.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Suhu tinggi 900 K dan suhu rendah 500 K.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Suhu tinggi 900 K dan suhu rendah 600 K.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Suhu tinggi 1.000 K dan suhu rendah 600 K.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "type": "pgk_benar_salah",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Sebuah perusahaan elektronik sedang mengembangkan mesin fotokopi generasi baru yang menggunakan teknologi transfer toner elektrostatis yang lebih efisien. Dalam sistem ini, partikel toner bermuatan negatif q=1×10−7 C dipindahkan dari drum ke kertas melalui medan listrik yang dihasilkan oleh dua pelat sejajar. Spesifikasi teknis mesin fotokopi tersebut menunjukkan bahwa:",
+      "question_images": [],
+      "options": [
+        {
+          "type": "matrix_row",
+          "statement": "#"
+        },
+        {
+          "type": "matrix_row",
+          "statement": "A."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "B."
+        },
+        {
+          "type": "matrix_row",
+          "statement": "C."
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Siswa SMA mengukur diameter sebuah bola bekel secara berulang sehingga diperoleh data sebagai berikut. Semua pengukuran dilakukan dengan jangka sorong. Berikut hasil pengukuran yang telah dilakukan.",
+      "question_images": [
+        {
+          "filename": "66646_9a5ac05893fb3614ba403c557d81189e.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/66646_9a5ac05893fb3614ba403c557d81189e.png"
+        },
+        {
+          "filename": "66646_ef235a3c5b782e62f11d89afd8c27ee4.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/66646_ef235a3c5b782e62f11d89afd8c27ee4.png"
+        },
+        {
+          "filename": "66646_4ea231a28aebabedd6e049bdeec75846.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/66646_4ea231a28aebabedd6e049bdeec75846.png"
+        },
+        {
+          "filename": "66646_1844ed51f8b29fc7bacf1411f286b05e.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/66646_1844ed51f8b29fc7bacf1411f286b05e.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "",
+          "text": "Pengukuran ke-\n\n\nTampilan Jangka Sorong\n\n\nHasil Pengukuran",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "1\n\n \n\n \n \n1,06 cm",
+          "latex": "",
+          "image": "66646_9a5ac05893fb3614ba403c557d81189e.png"
+        },
+        {
+          "id": "",
+          "text": "2\n\n \n\n \n \n1,88 cm",
+          "latex": "",
+          "image": "66646_ef235a3c5b782e62f11d89afd8c27ee4.png"
+        },
+        {
+          "id": "",
+          "text": "3\n\n \n\n \n \n1,44 cm",
+          "latex": "",
+          "image": "66646_4ea231a28aebabedd6e049bdeec75846.png"
+        },
+        {
+          "id": "",
+          "text": "4\n\n \n\n \n \n1,16 cm",
+          "latex": "",
+          "image": "66646_1844ed51f8b29fc7bacf1411f286b05e.png"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Perhatikan gambar berikut!",
+      "question_images": [
+        {
+          "filename": "93990_9d03a1e2ff76b1988e993f8d0af7253d.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/93990_9d03a1e2ff76b1988e993f8d0af7253d.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Memperlama waktu kontak dengan bola.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "Memperkecil gaya yang dirasakan tangan.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "Memperkecil impuls yang diterima bola.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "Memperbesar kecepatan bola.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "Memperkecil tekanan yang diberikan tangan.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "type": "pg_biasa",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Sebuah bola logam hanya dapat melewati cincin logam jika keduanya berada pada suhu ruang. Gambarnya seperti tampak berikut:",
+      "question_images": [
+        {
+          "filename": "09631_fe0918e77d157f3e7042319caf331567.png",
+          "latex": "",
+          "original_src": "/tka/cbt_images/09631_fe0918e77d157f3e7042319caf331567.png"
+        }
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "ukuran lubang berkurang karena cincin mengembang ke arah luar dan menutup lubang.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "B",
+          "text": "ukuran lubang berkurang karena pemuaian membuat cincin menjadi tebal dan padat.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "C",
+          "text": "ukuran lubang tetap sama karena hanya bagian luar cincin yang mengembang..",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "D",
+          "text": "ukuran lubang bertambah dan memungkinkan bola kembali bisa melewati cincin.",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "E",
+          "text": "ukuran lubang bertambah tetapi cincin akan kehilangan bentuk bundarnya.",
+          "latex": "",
+          "image": null
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "type": "pgk_checkbox",
+      "stimulus": "",
+      "stimulus_images": [],
+      "question": "Dua kelompok siswa melakukan pengamatan di dua rumah berbeda selama 10 hari untuk mengamati dan menganalisis penggunaan listriknya. Berikut data hasil pengamatan.",
+      "question_images": [],
+      "options": [
+        {
+          "id": "",
+          "text": "Rumah\n\n\nJenis Lampu\n\n\nDaya Lampu\n\n\nJumlah Lampu\n\n\nRangkaian\n\n\nDurasi Menyala per Hari\n\n\nResistensi Kabel",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "A\n\n\nLampu LED\n\n\n10 watt\n\n\n10\n\n\nParalel\n\n\n5 jam\n\n\n0,5 Ω per lampu",
+          "latex": "",
+          "image": null
+        },
+        {
+          "id": "",
+          "text": "B\n\n\nLampu Pijar\n\n\n40 watt\n\n\n6\n\n\nSeri\n\n\n8 jam\n\n\n0,2 Ω per lampu",
+          "latex": "",
+          "image": null
+        }
+      ]
+    }
+  ]
+}
