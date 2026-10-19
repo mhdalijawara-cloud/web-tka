@@ -1,0 +1,464 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TKA Latihan Soal - Paper Cream Edition</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><circle cx=%2250%22 cy=%2250%22 r=%2245%22 fill=%22%23b84f2d%22/><text x=%2250%25%22 y=%2255%25%22 text-anchor=%22middle%22 fill=%22white%22 font-size=%2238%22 font-family=%22sans-serif%22 dy=%22.3em%22 font-weight=%22bold%22>TKA</text></svg>">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="questions.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <style>
+    :root {
+      --bg-cream: #fbf8f2;
+      --card-cream: #ffffff;
+      --card-border: #ebdccb;
+      --ink-primary: #221d1a;
+      --ink-secondary: #63584e;
+      --terracotta: #b84f2d;
+      --terracotta-hover: #9c3f20;
+    }
+    body {
+      background-color: var(--bg-cream);
+      color: var(--ink-primary);
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      -webkit-touch-callout: default;
+      -webkit-user-select: text;
+      user-select: text;
+    }
+    ::selection {
+      background-color: #ebdccb;
+      color: #221d1a;
+    }
+    ::-moz-selection {
+      background-color: #ebdccb;
+      color: #221d1a;
+    }
+    .select-text {
+      -webkit-user-select: text !important;
+      user-select: text !important;
+      -webkit-touch-callout: default !important;
+    }
+    .select-none {
+      -webkit-user-select: none !important;
+      user-select: none !important;
+      -webkit-touch-callout: none !important;
+    }
+    .paper-shadow {
+      box-shadow: 0 4px 20px -2px rgba(80, 60, 40, 0.06), 0 1px 4px 0 rgba(80, 60, 40, 0.04);
+    }
+    .paper-card {
+      background-color: var(--card-cream);
+      border: 1px solid var(--card-border);
+    }
+    #qSvgContainer svg {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  </style>
+</head>
+<body class="min-h-screen flex flex-col antialiased">
+
+  <!-- Header Sticky (Paper Cream Theme Tanpa Emoji) -->
+  <header class="sticky top-0 z-30 bg-[#fbf8f2]/95 backdrop-blur-md border-b border-[#ebdccb] px-4 py-3 paper-shadow">
+    <div class="max-w-xl mx-auto flex items-center justify-between">
+      <div class="flex items-center gap-2 select-none">
+        <span class="w-2.5 h-2.5 rounded-full bg-[#b84f2d]"></span>
+        <h1 class="text-base font-extrabold text-[#221d1a] tracking-tight">
+          TKA Latihan Bebas
+        </h1>
+      </div>
+
+      <!-- Tombol Acak Soal Manual (Clean SVG) -->
+      <button onclick="manualShuffle()" class="select-none px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] border border-[#dfd2be] text-[#221d1a] hover:bg-[#ebdccb] hover:text-[#b84f2d] active:scale-95 transition flex items-center gap-1.5 text-xs font-bold">
+        <svg class="w-4 h-4 text-[#b84f2d]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path></svg>
+        <span>Acak Soal</span>
+      </button>
+    </div>
+
+    <!-- Filter Mapel Bebas -->
+    <div class="max-w-xl mx-auto mt-2.5 flex items-center gap-1.5 overflow-x-auto pb-1 scrollbar-none text-xs">
+      <button onclick="selectSubject('all')" class="sub-tab px-3.5 py-1.5 rounded-xl bg-[#b84f2d] text-white font-bold shrink-0 transition shadow-sm" data-sub="all">Semua Mapel</button>
+      <button onclick="selectSubject('fisika')" class="sub-tab px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] text-[#63584e] hover:bg-[#ebdccb] shrink-0 font-medium transition" data-sub="fisika">Fisika</button>
+      <button onclick="selectSubject('mtk_wajib')" class="sub-tab px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] text-[#63584e] hover:bg-[#ebdccb] shrink-0 font-medium transition" data-sub="mtk_wajib">MTK Wajib</button>
+      <button onclick="selectSubject('mtk_lanjut')" class="sub-tab px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] text-[#63584e] hover:bg-[#ebdccb] shrink-0 font-medium transition" data-sub="mtk_lanjut">MTK Lanjut</button>
+      <button onclick="selectSubject('b_indo')" class="sub-tab px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] text-[#63584e] hover:bg-[#ebdccb] shrink-0 font-medium transition" data-sub="b_indo">B. Indo</button>
+      <button onclick="selectSubject('b_inggris')" class="sub-tab px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] text-[#63584e] hover:bg-[#ebdccb] shrink-0 font-medium transition" data-sub="b_inggris">B. Inggris</button>
+    </div>
+  </header>
+
+  <!-- Area Soal Utama -->
+  <main class="flex-1 max-w-xl w-full mx-auto p-4 flex flex-col justify-between">
+    
+    <div id="questionContainer" class="space-y-4">
+      <!-- Badge Mapel & Topik + Tombol Salin Soal -->
+      <div class="flex items-center justify-between text-xs gap-2">
+        <span id="qBadge" class="select-none px-2.5 py-1 rounded-lg bg-[#f2ebd9] text-[#b84f2d] border border-[#dfd2be] font-bold tracking-wider uppercase">Fisika • Kinematika</span>
+        <button id="copyBtn" onclick="copyCurrentQuestion()" class="select-none px-2.5 py-1 rounded-lg bg-[#f2ebd9] border border-[#dfd2be] text-[#63584e] hover:text-[#b84f2d] hover:bg-[#ebdccb] active:scale-95 transition flex items-center gap-1.5 font-semibold text-xs cursor-pointer shadow-sm" title="Salin seluruh isi soal ke clipboard">
+          <svg class="w-3.5 h-3.5 text-[#b84f2d]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"></path></svg>
+          <span id="copyBtnText">Salin Soal</span>
+        </button>
+      </div>
+
+      <!-- Kotak Stimulus Soal (Bebas disentuh & disalin) -->
+      <div id="qStimulus" class="select-text p-4 rounded-2xl paper-card paper-shadow text-sm leading-relaxed text-[#221d1a] border-l-4 border-l-[#b84f2d]">
+        Memuat stimulus soal...
+      </div>
+
+      <!-- Kotak Stimulus Visual SVG (Dinamis Parametrik) -->
+      <div id="qSvgContainer" class="hidden p-3 rounded-2xl paper-card paper-shadow flex items-center justify-center overflow-hidden border border-[#ebdccb]">
+        <!-- Injected Parametric SVG -->
+      </div>
+
+      <!-- Teks Pertanyaan (Bebas disentuh & disalin) -->
+      <div id="qText" class="select-text text-base font-bold text-[#1a1614] leading-snug pt-1">
+        Memuat pertanyaan...
+      </div>
+
+      <!-- Daftar Pilihan Jawaban -->
+      <div id="optionsList" class="space-y-2.5 pt-2">
+        <!-- Render opsi -->
+      </div>
+    </div>
+
+    <!-- Catatan Tenang -->
+    <div class="mt-6 pt-3 border-t border-[#ebdccb] text-center text-xs text-[#8a7a6b]">
+      <span>Mode Latihan Bebas • Standar Asesmen Pusmendik</span>
+    </div>
+  </main>
+
+  <!-- Drawer Evaluasi Instan (Paper Cream Tanpa Emoji) -->
+  <div id="evalModal" class="fixed inset-0 z-50 bg-[#221d1a]/50 backdrop-blur-sm hidden flex items-end justify-center p-0 transition-opacity">
+    <div class="bg-[#fbf8f2] border-t-2 border-[#ebdccb] w-full max-w-xl rounded-t-3xl max-h-[85vh] flex flex-col p-5 shadow-2xl animate-in slide-in-from-bottom duration-200">
+      
+      <!-- Modal Header Status (Clean SVG Icons) -->
+      <div class="flex items-center justify-between pb-3 border-b border-[#ebdccb]">
+        <div class="flex items-center gap-3">
+          <div id="evalIcon" class="w-8 h-8 rounded-full flex items-center justify-center font-bold text-white text-base bg-[#2d7a4f]">
+            <!-- Injected dynamically via SVG -->
+          </div>
+          <div>
+            <h3 id="evalTitle" class="font-bold text-base text-[#221d1a]">Jawaban Tepat!</h3>
+            <p id="evalSubtitle" class="text-xs text-[#63584e]">Logika kamu sudah pas</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Penjelasan Bahasa Super Gampang -->
+      <div class="flex-1 overflow-y-auto py-4 space-y-3.5 text-sm">
+        <!-- Akal Sehat (Clean Minimalist SVG) -->
+        <div class="p-4 rounded-2xl bg-[#ffffff] border border-[#ebdccb] paper-shadow">
+          <h4 class="text-xs font-bold text-[#b84f2d] uppercase tracking-wider mb-1.5 flex items-center gap-2">
+            <svg class="w-4 h-4 text-[#b84f2d]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"></path></svg>
+            <span>Logika Akal Sehat</span>
+          </h4>
+          <p id="evalAkalSehat" class="text-[#221d1a] leading-relaxed text-xs sm:text-sm"></p>
+        </div>
+
+        <!-- Jebakan (Clean Minimalist Warning SVG) -->
+        <div class="p-4 rounded-2xl bg-[#fff9f2] border border-[#ebd0be] paper-shadow">
+          <h4 class="text-xs font-bold text-[#b84f2d] uppercase tracking-wider mb-1.5 flex items-center gap-2">
+            <svg class="w-4 h-4 text-[#b84f2d]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path></svg>
+            <span>Jebakan Pembuat Soal</span>
+          </h4>
+          <p id="evalJebakan" class="text-[#42362f] leading-relaxed text-xs sm:text-sm"></p>
+        </div>
+
+        <!-- Trik Pengunci (Clean Minimalist Key SVG) -->
+        <div class="p-4 rounded-2xl bg-[#f4f9f4] border border-[#cbe3d3] paper-shadow">
+          <h4 class="text-xs font-bold text-[#2d7a4f] uppercase tracking-wider mb-1.5 flex items-center gap-2">
+            <svg class="w-4 h-4 text-[#2d7a4f]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z"></path></svg>
+            <span>Kunci yang Wajib Diingat</span>
+          </h4>
+          <p id="evalRumus" class="text-[#1c4d32] font-semibold text-xs leading-relaxed"></p>
+        </div>
+      </div>
+
+      <!-- Tombol Lanjut -->
+      <div class="pt-3 border-t border-[#ebdccb]">
+        <button onclick="loadNextQuestion()" class="w-full py-4 px-4 rounded-2xl bg-[#b84f2d] hover:bg-[#9c3f20] active:scale-[0.99] text-white font-bold text-sm tracking-wide shadow-md shadow-[#b84f2d]/20 transition flex items-center justify-center gap-2">
+          <span>Lanjut ke Soal Berikutnya (Next)</span>
+          <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    let currentSubject = 'all';
+    let currentQuestion = null;
+    let questionStartTime = Date.now();
+    let isAnswerLocked = false;
+
+    function selectSubject(sub) {
+      if (currentSubject === sub) return;
+      currentSubject = sub;
+      document.querySelectorAll('.sub-tab').forEach(btn => {
+        if (btn.dataset.sub === sub) {
+          btn.className = "sub-tab px-3.5 py-1.5 rounded-xl bg-[#b84f2d] text-white font-bold shrink-0 transition shadow-sm";
+        } else {
+          btn.className = "sub-tab px-3.5 py-1.5 rounded-xl bg-[#f2ebd9] text-[#63584e] hover:bg-[#ebdccb] shrink-0 font-medium transition";
+        }
+      });
+      loadNextQuestion();
+    }
+
+    function manualShuffle() {
+      loadNextQuestion();
+    }
+
+    function shuffleQuestionOptions(q) {
+      const qCopy = JSON.parse(JSON.stringify(q));
+      const correctId = qCopy.correct_answer;
+      let correctText = "";
+      (qCopy.options || []).forEach(opt => {
+        if (opt.id === correctId) correctText = opt.text;
+      });
+      
+      const texts = (qCopy.options || []).map(o => o.text);
+      for (let i = texts.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [texts[i], texts[j]] = [texts[j], texts[i]];
+      }
+      
+      const letters = ["A", "B", "C", "D", "E"];
+      const newOptions = [];
+      let newCorrect = "A";
+      texts.forEach((text, idx) => {
+        const letId = letters[idx];
+        newOptions.push({ id: letId, text: text });
+        if (text === correctText) {
+          newCorrect = letId;
+        }
+      });
+      qCopy.options = newOptions;
+      qCopy.correct_answer = newCorrect;
+      return qCopy;
+    }
+
+    async function loadNextQuestion() {
+      isAnswerLocked = false;
+      document.getElementById('evalModal').classList.add('hidden');
+      const svgBox = document.getElementById('qSvgContainer');
+      svgBox.classList.add('hidden');
+      svgBox.innerHTML = '';
+      document.getElementById('qText').innerText = "Mengambil butir soal...";
+      document.getElementById('optionsList').innerHTML = `
+        <div class="p-8 text-center text-xs text-[#8a7a6b] animate-pulse flex flex-col items-center gap-2">
+          <svg class="w-6 h-6 animate-spin text-[#b84f2d]" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
+          <span>Menyiapkan soal teracak...</span>
+        </div>
+      `;
+
+      // 1. Coba request ke Backend API jika tidak di GitHub Pages (misal localhost atau server internal)
+      const isGitHubPages = window.location.hostname.includes("github.io");
+      if (!isGitHubPages) {
+        try {
+          const res = await fetch(`/api/next_question?subject=${currentSubject}&t=${Date.now()}`);
+          if (res.ok) {
+            currentQuestion = await res.json();
+            renderQuestion(currentQuestion);
+            return;
+          }
+        } catch (err) {
+          // Fallback halus ke bank soal client-side jika API lokal mati
+        }
+      }
+
+      // 2. Client-side Bank Soal (GitHub Pages & Mode Mandiri Offline)
+      if (typeof QUESTIONS_DATA !== 'undefined' && QUESTIONS_DATA.length > 0) {
+        let pool = QUESTIONS_DATA;
+        if (currentSubject !== 'all') {
+          pool = QUESTIONS_DATA.filter(q => q.subject === currentSubject);
+          if (pool.length === 0) pool = QUESTIONS_DATA;
+        }
+        const raw = pool[Math.floor(Math.random() * pool.length)];
+        currentQuestion = shuffleQuestionOptions(raw);
+        renderQuestion(currentQuestion);
+        return;
+      }
+
+      document.getElementById('qText').innerText = "Gagal memuat soal latihan.";
+      document.getElementById('optionsList').innerHTML = `
+        <div class="p-6 rounded-2xl bg-[#fff5f2] border border-[#fbd3cb] text-center space-y-3">
+          <p class="text-xs text-[#b83a30] font-medium">Bank soal belum tersedia.</p>
+          <button onclick="loadNextQuestion()" class="px-4 py-2 rounded-xl bg-[#b84f2d] text-white text-xs font-bold shadow hover:bg-[#9c3f20] transition">
+            Coba Muat Ulang (Retry)
+          </button>
+        </div>
+      `;
+    }
+
+    function copyCurrentQuestion() {
+      if (!currentQuestion) return;
+      let text = `[${currentQuestion.subject_label || currentQuestion.subject} - ${currentQuestion.topic}]\n\n`;
+      if (currentQuestion.stimulus) {
+        text += `Stimulus:\n${currentQuestion.stimulus}\n\n`;
+      }
+      text += `Pertanyaan:\n${currentQuestion.question}\n\n`;
+      text += `Pilihan Jawaban:\n`;
+      (currentQuestion.options || []).forEach(opt => {
+        text += `${opt.id}. ${opt.text}\n`;
+      });
+      
+      const copyBtnText = document.getElementById('copyBtnText');
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+          if (copyBtnText) {
+            const original = copyBtnText.innerText;
+            copyBtnText.innerText = "Tersalin!";
+            setTimeout(() => { copyBtnText.innerText = original; }, 2000);
+          }
+        }).catch(() => fallbackCopy(text));
+      } else {
+        fallbackCopy(text);
+      }
+    }
+
+    function fallbackCopy(text) {
+      const copyBtnText = document.getElementById('copyBtnText');
+      const textarea = document.createElement('textarea');
+      textarea.value = text;
+      textarea.style.position = 'fixed';
+      textarea.style.opacity = '0';
+      document.body.appendChild(textarea);
+      textarea.select();
+      try {
+        document.execCommand('copy');
+        if (copyBtnText) {
+          copyBtnText.innerText = "Tersalin!";
+          setTimeout(() => { copyBtnText.innerText = "Salin Soal"; }, 2000);
+        }
+      } catch (e) {
+        alert("Gagal menyalin teks secara otomatis.");
+      }
+      document.body.removeChild(textarea);
+    }
+
+    function renderQuestion(q) {
+      questionStartTime = Date.now();
+      document.getElementById('qBadge').innerText = `${q.subject_label} • ${q.topic}`;
+      document.getElementById('qStimulus').innerText = q.stimulus;
+      document.getElementById('qText').innerText = q.question;
+
+      const svgBox = document.getElementById('qSvgContainer');
+      if (q.stimulus_svg) {
+        svgBox.innerHTML = q.stimulus_svg;
+        svgBox.classList.remove('hidden');
+      } else {
+        svgBox.innerHTML = '';
+        svgBox.classList.add('hidden');
+      }
+
+      const container = document.getElementById('optionsList');
+      container.innerHTML = '';
+
+      q.options.forEach((opt) => {
+        const btn = document.createElement('div');
+        btn.role = "button";
+        btn.tabIndex = 0;
+        btn.className = "w-full text-left p-4 rounded-2xl paper-card paper-shadow hover:border-[#b84f2d] hover:bg-[#fff9f4] active:scale-[0.99] transition flex items-center justify-between group cursor-pointer";
+        btn.innerHTML = `
+          <div class="flex items-center gap-3.5 flex-1 pr-2">
+            <span class="w-8 h-8 rounded-xl bg-[#f2ebd9] group-hover:bg-[#b84f2d] text-[#221d1a] group-hover:text-white flex items-center justify-center font-bold text-xs font-mono transition select-none shrink-0">${opt.id}</span>
+            <span class="text-sm font-semibold text-[#221d1a] select-text leading-relaxed">${opt.text}</span>
+          </div>
+          <span class="text-[#a19080] group-hover:text-[#b84f2d] text-xs font-bold select-none shrink-0">Pilih →</span>
+        `;
+        btn.onclick = (e) => {
+          const sel = window.getSelection();
+          if (sel && sel.toString().trim().length > 0) {
+            // Pengguna sedang menyeleksi atau menyalin teks, jangan submit otomatis
+            return;
+          }
+          submitAnswer(opt.id);
+        };
+        btn.onkeydown = (e) => {
+          if (e.key === 'Enter' || e.key === ' ') {
+            e.preventDefault();
+            submitAnswer(opt.id);
+          }
+        };
+        container.appendChild(btn);
+      });
+    }
+
+    function submitAnswer(chosenId) {
+      if (isAnswerLocked || !currentQuestion) return;
+      isAnswerLocked = true;
+
+      const isCorrect = chosenId === currentQuestion.correct_answer;
+      const latencyMs = Math.max(1, Date.now() - questionStartTime);
+      const latencySeconds = Math.max(1, Math.round(latencyMs / 1000));
+
+      const isGitHubPages = window.location.hostname.includes("github.io");
+      if (!isGitHubPages) {
+        fetch('/api/submit', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            subject: currentQuestion.subject,
+            topic: currentQuestion.topic,
+            chosen_id: chosenId,
+            correct_id: currentQuestion.correct_answer,
+            is_correct: isCorrect,
+            latency_ms: latencyMs,
+            latency_seconds: latencySeconds
+          })
+        }).catch(() => {});
+      } else {
+        try {
+          const history = JSON.parse(localStorage.getItem('tka_cbt_history') || '[]');
+          history.push({
+            time: new Date().toISOString(),
+            subject: currentQuestion.subject,
+            topic: currentQuestion.topic,
+            is_correct: isCorrect,
+            chosen: chosenId,
+            correct: currentQuestion.correct_answer,
+            latency_s: latencySeconds
+          });
+          if (history.length > 100) history.shift();
+          localStorage.setItem('tka_cbt_history', JSON.stringify(history));
+        } catch (e) {}
+      }
+
+      showEvaluation(isCorrect, currentQuestion);
+    }
+
+    function showEvaluation(isCorrect, q) {
+      const modal = document.getElementById('evalModal');
+      const icon = document.getElementById('evalIcon');
+      const title = document.getElementById('evalTitle');
+      const subtitle = document.getElementById('evalSubtitle');
+
+      if (isCorrect) {
+        icon.className = "w-8 h-8 rounded-full flex items-center justify-center font-bold text-white text-base bg-[#2d7a4f]";
+        icon.innerHTML = `<svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M5 13l4 4L19 7"></path></svg>`;
+        title.innerText = "Jawaban Tepat!";
+        subtitle.innerText = "Logika kamu sudah pas";
+      } else {
+        icon.className = "w-8 h-8 rounded-full flex items-center justify-center font-bold text-white text-base bg-[#b83a30]";
+        icon.innerHTML = `<svg class="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M6 18L18 6M6 6l12 12"></path></svg>`;
+        title.innerText = "Kurang Tepat";
+        subtitle.innerText = `Kunci aslinya: ${q.correct_answer}`;
+      }
+
+      document.getElementById('evalAkalSehat').innerText = q.explanation.akal_sehat;
+      document.getElementById('evalJebakan').innerText = q.explanation.jebakan;
+      document.getElementById('evalRumus').innerText = q.explanation.rumus_kunci;
+
+      modal.classList.remove('hidden');
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      loadNextQuestion();
+    });
+  </script>
+</body>
+</html>
