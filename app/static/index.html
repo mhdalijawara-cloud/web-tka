@@ -71,6 +71,10 @@
         <h1 class="text-base font-extrabold text-[#221d1a] tracking-tight">
           TKA Latihan Bebas
         </h1>
+        <span class="text-[10px] font-bold text-[#2d7a4f] bg-[#eef7f1] border border-[#c6e4d0] px-2 py-0.5 rounded-full ml-1 flex items-center gap-1" title="Mode Hibrida: Frontend GitHub Pages terhubung ke Backend AWS EC2">
+          <span class="w-1.5 h-1.5 rounded-full bg-[#2d7a4f] animate-pulse"></span>
+          <span>AWS EC2</span>
+        </span>
       </div>
 
       <!-- Tombol Acak Soal Manual (Clean SVG) -->
@@ -190,6 +194,10 @@
   </div>
 
   <script>
+    // Konfigurasi Arsitektur Hibrida Resmi (Frontend GitHub Pages -> Backend AWS EC2)
+    const AWS_BACKEND_URL = "https://17db4cdbce81ad.lhr.life";
+    const API_BASE = window.location.hostname.includes("github.io") ? AWS_BACKEND_URL : "";
+
     let currentSubject = 'all';
     let currentQuestion = null;
     let questionStartTime = Date.now();
@@ -247,27 +255,25 @@
       const svgBox = document.getElementById('qSvgContainer');
       svgBox.classList.add('hidden');
       svgBox.innerHTML = '';
-      document.getElementById('qText').innerText = "Mengambil butir soal...";
+      document.getElementById('qText').innerText = "Mengambil soal dari AWS EC2...";
       document.getElementById('optionsList').innerHTML = `
         <div class="p-8 text-center text-xs text-[#8a7a6b] animate-pulse flex flex-col items-center gap-2">
           <svg class="w-6 h-6 animate-spin text-[#b84f2d]" fill="none" viewBox="0 0 24 24"><circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle><path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path></svg>
-          <span>Menyiapkan soal teracak...</span>
+          <span>Menyiapkan soal dari backend...</span>
         </div>
       `;
 
-      // 1. Coba request ke Backend API jika tidak di GitHub Pages (misal localhost atau server internal)
-      const isGitHubPages = window.location.hostname.includes("github.io");
-      if (!isGitHubPages) {
-        try {
-          const res = await fetch(`/api/next_question?subject=${currentSubject}&t=${Date.now()}`);
-          if (res.ok) {
-            currentQuestion = await res.json();
-            renderQuestion(currentQuestion);
-            return;
-          }
-        } catch (err) {
-          // Fallback halus ke bank soal client-side jika API lokal mati
+      // 1. Eksekusi request ke Backend AWS EC2 (Arsitektur Hibrida)
+      try {
+        const targetUrl = `${API_BASE}/api/next_question?subject=${currentSubject}&t=${Date.now()}`;
+        const res = await fetch(targetUrl);
+        if (res.ok) {
+          currentQuestion = await res.json();
+          renderQuestion(currentQuestion);
+          return;
         }
+      } catch (err) {
+        console.warn("Backend AWS EC2 tidak merespons, beralih ke cache bank soal:", err);
       }
 
       // 2. Client-side Bank Soal (GitHub Pages & Mode Mandiri Offline)
@@ -396,37 +402,38 @@
       const latencyMs = Math.max(1, Date.now() - questionStartTime);
       const latencySeconds = Math.max(1, Math.round(latencyMs / 1000));
 
-      const isGitHubPages = window.location.hostname.includes("github.io");
-      if (!isGitHubPages) {
-        fetch('/api/submit', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
-            subject: currentQuestion.subject,
-            topic: currentQuestion.topic,
-            chosen_id: chosenId,
-            correct_id: currentQuestion.correct_answer,
-            is_correct: isCorrect,
-            latency_ms: latencyMs,
-            latency_seconds: latencySeconds
-          })
-        }).catch(() => {});
-      } else {
-        try {
-          const history = JSON.parse(localStorage.getItem('tka_cbt_history') || '[]');
-          history.push({
-            time: new Date().toISOString(),
-            subject: currentQuestion.subject,
-            topic: currentQuestion.topic,
-            is_correct: isCorrect,
-            chosen: chosenId,
-            correct: currentQuestion.correct_answer,
-            latency_s: latencySeconds
-          });
-          if (history.length > 100) history.shift();
-          localStorage.setItem('tka_cbt_history', JSON.stringify(history));
-        } catch (e) {}
-      }
+      // Kirim hasil pengerjaan ke Backend AWS EC2 untuk pencatatan error_log.md
+      fetch(`${API_BASE}/api/submit`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          subject: currentQuestion.subject,
+          topic: currentQuestion.topic,
+          chosen_id: chosenId,
+          correct_id: currentQuestion.correct_answer,
+          is_correct: isCorrect,
+          latency_ms: latencyMs,
+          latency_seconds: latencySeconds
+        })
+      }).catch((err) => {
+        console.warn("Pencatatan log ke backend AWS EC2 gagal:", err);
+      });
+
+      // Simpan juga salinan riwayat di localStorage browser
+      try {
+        const history = JSON.parse(localStorage.getItem('tka_cbt_history') || '[]');
+        history.push({
+          time: new Date().toISOString(),
+          subject: currentQuestion.subject,
+          topic: currentQuestion.topic,
+          is_correct: isCorrect,
+          chosen: chosenId,
+          correct: currentQuestion.correct_answer,
+          latency_s: latencySeconds
+        });
+        if (history.length > 100) history.shift();
+        localStorage.setItem('tka_cbt_history', JSON.stringify(history));
+      } catch (e) {}
 
       showEvaluation(isCorrect, currentQuestion);
     }
