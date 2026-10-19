@@ -195,8 +195,11 @@
 
   <script>
     // Konfigurasi Arsitektur Hibrida Resmi (Frontend GitHub Pages -> Backend AWS EC2)
-    const AWS_BACKEND_URL = "https://17db4cdbce81ad.lhr.life";
-    const API_BASE = window.location.hostname.includes("github.io") ? AWS_BACKEND_URL : "";
+    const BACKEND_CANDIDATES = [
+      "https://identified-simpson-combo-princess.trycloudflare.com",
+      "https://70cdf26e37402f.lhr.life"
+    ];
+    let activeBackend = window.location.hostname.includes("github.io") ? BACKEND_CANDIDATES[0] : "";
 
     let currentSubject = 'all';
     let currentQuestion = null;
@@ -263,17 +266,21 @@
         </div>
       `;
 
-      // 1. Eksekusi request ke Backend AWS EC2 (Arsitektur Hibrida)
-      try {
-        const targetUrl = `${API_BASE}/api/next_question?subject=${currentSubject}&t=${Date.now()}`;
-        const res = await fetch(targetUrl);
-        if (res.ok) {
-          currentQuestion = await res.json();
-          renderQuestion(currentQuestion);
-          return;
+      // 1. Eksekusi request ke Backend AWS EC2 (Arsitektur Hibrida dengan Automatic Failover)
+      const endpoints = window.location.hostname.includes("github.io") ? BACKEND_CANDIDATES : [""];
+      for (const base of endpoints) {
+        try {
+          const targetUrl = `${base}/api/next_question?subject=${currentSubject}&t=${Date.now()}`;
+          const res = await fetch(targetUrl);
+          if (res.ok) {
+            currentQuestion = await res.json();
+            activeBackend = base;
+            renderQuestion(currentQuestion);
+            return;
+          }
+        } catch (err) {
+          console.warn(`Backend AWS EC2 (${base}) tidak merespons:`, err);
         }
-      } catch (err) {
-        console.warn("Backend AWS EC2 tidak merespons, beralih ke cache bank soal:", err);
       }
 
       // 2. Client-side Bank Soal (GitHub Pages & Mode Mandiri Offline)
@@ -403,7 +410,8 @@
       const latencySeconds = Math.max(1, Math.round(latencyMs / 1000));
 
       // Kirim hasil pengerjaan ke Backend AWS EC2 untuk pencatatan error_log.md
-      fetch(`${API_BASE}/api/submit`, {
+      const submitBase = window.location.hostname.includes("github.io") ? activeBackend : "";
+      fetch(`${submitBase}/api/submit`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
